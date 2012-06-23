@@ -1,7 +1,7 @@
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-てもち
-バトルボックス
-やめる
+Please choose between Goods and Battle Boxes.
+Goods
+Battle Boxes
+Quit
 さんか　できる\xfffeポケモンが　いません！\xf000븁\x0000
 さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　３～６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
 さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　４～６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
