@@ -1,10 +1,10 @@
-ようこそ！\xfffeおかいもの　ですね？
-わざマシン　うりばへ　ようこそ！\xfffeおかいもの　ですね？
-その　ほかに　わたしどもで\xfffeなにか　おちからに　なれることは？
-また　どうぞ！
+Welcome!\xfffeWhat do you need?
+Welcome to the TM counter!\xfffeWhat do you need?
+Is there anything else I may do\xfffefor you?
+Please come again!
 いらっしゃいませ！\xf000븁\x0000
-かいに　きた
-うりに　きた
-なんでもないです
-ようこそ！\xfffeポイント　ひきかえ　コーナーへ！\xf000븁\x0000\xfffeＢＰと　けいひんを\xfffeこうかん　しますか？
-ＢＰを　ためて\xfffeまた　おこしくださいね！
+Buy
+Sell
+Cancel
+Welcome!\xfffeThis is the Point Exchange Corner!\xf000븁\x0000\xfffeWill you exchange\xfffeBP for prizes?
+Collect more BP,\xfffeand do come back again!
