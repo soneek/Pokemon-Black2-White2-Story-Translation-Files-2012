@@ -11,12 +11,12 @@
 カセキを　もっていたら\xfffeここに　きてくださいね！
 \xf000ĉ\x0001\x0000
 \xf000ĉ\x0001\x0001
-ねっこのカセキ
-ツメのカセキ
-かいのカセキ
-こうらのカセキ
-ひみつのコハク
-たてのカセキ
-ずがいのカセキ
+Root Fossil
+Claw Fossil
+Helix Fossil
+Dome Fossil
+Old Amber
+Armor Fossil
+Skull Fossil
 やめる
 カ……　カセキの\xfffeふくげんは　おまちください……
