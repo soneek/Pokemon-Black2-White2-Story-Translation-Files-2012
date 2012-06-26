@@ -1,6 +1,6 @@
 スプレーの　こうかが　きれた！
 スプレーの　こうかが　きれた！\xfffeつづけて　つかいますか？
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
+\xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
 There doesn't seem\xfffeto be anything here...
 From some reason,\xfffethe sweet scent went away...
 Reeled in a Pokémon!\xf000븁\x0000

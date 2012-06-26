@@ -7,14 +7,14 @@ Search empty places like this,\xfffeand you might find something good!
 やあ！　まってたよ！\xfffeそれじゃあ　さっそく　はじめようか！
 はたらく　くるま　クイズ！\xf000븁\x0000\xfffeりゃく　して\xfffeはたらＱ！\xf000븁\x0000\xfffeそれでは　もんだいです！\xf000븁\x0000\xfffeねんきの　はいった\xfffeさびた　クレーンしゃが\xf000븀\x0000\xfffeめいぶつなのは　ズバリ　どこ？
 タチワキシティ
-ホドモエシティ
-サザナミタウン
+Hodomoe City
+Sazanami Town
 セイガイハシティ
 はたらく　くるま　クイズ！\xf000븁\x0000\xfffeりゃく　して\xfffeはたらＱ！\xf000븁\x0000\xfffeそれでは　もんだいです！\xf000븁\x0000\xfffe４ばんどうろを　とおる\xfffeトレーラーは　ぜんぶで\xf000븀\x0000\xfffe３つの　ボディカラーが　ありますが\xf000븀\x0000\xfffeそれは　あか　あお\xf000븀\x0000\xfffeあとは　ズバリ　なにいろ？
-みどり
-きいろ
-しろ
-くろ
+Green
+Yellow
+White
+Black
 はたらく　くるま　クイズ！\xf000븁\x0000\xfffeりゃく　して\xfffeはたらＱ！\xf000븁\x0000\xfffeそれでは　もんだいです！\xf000븁\x0000\xfffeズバリ！\xfffeいま　なんもん　め？
 １もんめ
 ２もんめ
@@ -22,9 +22,9 @@ Search empty places like this,\xfffeand you might find something good!
 ４もんめ
 はたらく　くるま　クイズ！\xf000븁\x0000\xfffeりゃく　して\xfffeはたらＱ！\xf000븁\x0000\xfffeそれでは　もんだいです！\xf000븁\x0000\xfffeきいろい　ドリルカーが　あるのは\xfffeズバリ！　どこの　ジム？
 セイガイハシティジム
-ソウリュウシティジム
-フキヨセシティジム
-ホドモエシティジム
+Souryuu Gym
+Fukiyose Gym
+Hodomoe Gym
 はたらく　くるま　クイズ！\xf000븁\x0000\xfffeりゃく　して\xfffeはたらＱ！\xf000븁\x0000\xfffeそれでは　もんだいです！\xf000븁\x0000\xfffeズバリ！　この　ネジやまに\xfffeブルドーザーは\xf000븀\x0000\xfffeなんだい　あるんだい？
 １だい
 ２だい
