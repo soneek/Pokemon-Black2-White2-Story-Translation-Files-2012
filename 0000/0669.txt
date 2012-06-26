@@ -59,33 +59,33 @@ Bianca: ポケモンの　ことを\xfffeちょっとずつだけど　まなん
 つよい　トレーナーの　ことが\xfffeしりたければ　いつでも　こいよ！
 Quit
 イッシュちほう
-カントーちほう
-ジョウトちほう
-ホウエンちほう
-シンオウちほう
-チェレン
+Kanto Region
+Johto Region
+Hoenn Region
+Sinnoh Region
+Cheren
 ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
+Arti
+Kamitsure
+Yacon
+Fuuro
+Shaga
 シズイ
-ベル
-ポッド
-コーン
-デント
-アロエ
-ハチク
+Bel
+Pod
+Corn
+Dent
+Aloe
+Hachiku
 グリーン
 ワタル
-ダイゴ
+Steven
 ミクリ
-シロナ
-アデク
-タケシ
+Cynthia
+Adeku
+Brock
 カスミ
-マチス
+Lt. Surge
 エリカ
 ナツメ
 カツラ
