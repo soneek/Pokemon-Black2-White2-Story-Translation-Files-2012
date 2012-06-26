@@ -14,6 +14,6 @@
 いせきが　あった　ばしょも\xfffeどんどん　かいはつ　されていく……\xf000븁\x0000\xfffeれきしを　ぬりかえるって\xfffeあんがい　こういうこと　なのかも
 さばくに　うもれた　こだいのしろ……\xfffeきおくも　いつか　うもれていくのね
 おっと！　トレーナー\xfffeすなの　いろを　よくみてごらん\xf000븁\x0000\xfffeいろの　こい　すな\xfffeうすい　すな　があるだろう？\xf000븁\x0000\xfffeいろの　こい　すなには\xfffeポケモンが　ひそんでいるんだぞ！
-４ばんどうろ
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeポケモンは　わざを　だすための\xfffeげんきの　みなもとの　ＰＰ……\xf000븁\x0000\xfffeすなわち　パワーポイントを\xfffeわざごとに　もってます\xf000븁\x0000\xfffeこの　パワーポイントが　なくなると\xfffeわざが　だせなくなります\xf000븁\x0000\xfffeパワーポイントが　へったときも\xfffeポケモンセンターに　いきましょう！
+Route 4
+Trainer Tips!\xf000븁\x0000\xfffe\xfffePokémon moves require\xfffea form of energy called PP...\xf000븁\x0000\xfffeNamely, Power Points,\xfffeand each move has a set amount.\xf000븁\x0000\xfffeWhen a move runs out of PP,\xfffeit can no longer be used!\xf000븁\x0000\xfffeWhen your Pokémon runs out of PP,\xfffeget to a Pokémon Center!
 ４ばんどうろ\xfffeかくちょう　こうじ　よていち

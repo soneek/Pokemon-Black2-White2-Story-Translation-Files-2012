@@ -66,7 +66,7 @@ Bianca: どっちの ポケモンも\xfffeすごく　がんばったよね！\x
 Bianca: ポケモンセンターは\xfffeどこの　まちでも　いっしょだね\xf000븁\x0000\xfffeじゃ　はいろ！\xf000븁\x0000
 ママ: あっ！　はじめまして\xfffeあなたが　ベルちゃんね！\xf000븁\x0000\xfffeで　\xf000Ā\x0001\x0000は\xfffe\xf000ā\x0001\x0002を　えらんだんだ\xf000븁\x0000\xfffeフフ\xfffeなんだか　いい　かんじ！\xf000븁\x0000
 おっと！\xfffeわすれるところでした\xf000븁\x0000\xfffeほら！　これこれ！\xfffeランニングシューズ！\xf000븁\x0000
-\xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002ランニングシューズ\xf000\xff00\x0001\x0000を　もらった！
+\xf000Ā\x0001\x0000 received\xfffethe \xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
 ママ: よし　ぴったり！\xfffeじゃ　せつめいしょを　よむわね\xf000븁\x0000\xfffe「ランニングシューズは\xfffe　Ｂボタンを　おすことで　いままでより\xf000븀\x0000\xfffe　はやく　はしれるように　なります！\xf000븁\x0000\xfffe　ランニングシューズを　はいて\xfffe　おもいっきり　はしりまくろう！」\xf000븁\x0000\xfffeこれで　あなたと　\xf000ā\x0001\x0002\xfffeどこまでも　かけぬけられるわね！\xf000븁\x0000
 \xf000Ā\x0001\x0001のいもうと: あの……\xfffeあたしからは　コレを\xf000븁\x0000
 \xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002タウンマップ\xf000\xff00\x0001\x0000を　もらった！
@@ -89,7 +89,7 @@ Bianca: うひゃあ！\xf000븁\x0000
 Bianca: あっ　あたしも！\xf000븁\x0000
 いっしょに　アララギはかせも\xfffeとうろく　したよ！\xf000븁\x0000
 ライブキャスターが　なっている！
-\xf000Ā\x0001\x0000は\xfffeライブキャスターを　つなげた\xf000븁\x0000
+\xf000Ā\x0001\x0000 connected\xfffeto the Live Caster.\xf000븁\x0000
 Bianca: ね　\xf000Ā\x0001\x0000！\xfffeアララギはかせ　かっこいいでしょ！\xf000븁\x0000\xfffeライブキャスターで　はなせば\xfffeポケモンずかんの　かんせいぐあいを\xf000븀\x0000\xfffeひょうか　してくれたり\xf000븁\x0000\xfffeポケモンの　しんかに　ついて\xfffeいろいろ　おしえてくれるよ！\xf000븁\x0000\xfffeもちろん　あたしたちも！\xf000븁\x0000
 あなたの　ポケモンが\xfffeどれだけ　なついているか\xf000븀\x0000\xfffeあたしが　おしえてあげるね！！\xf000븁\x0000
 チェレン: そうだね\xf000븁\x0000\xfffeぼくは　ポケモンの　とくせいや\xfffeタイプの　あいしょうに　ついて\xf000븀\x0000\xfffeしっていることを　おしえてあげるよ\xf000븁\x0000
@@ -99,10 +99,10 @@ Bianca: ね　\xf000Ā\x0001\x0000！\xfffeアララギはかせ　かっこい�
 Bianca: ジムリーダーって\xfffeそうぞういじょうに　たいへん　だねえ\xf000븁\x0000
 それじゃあ　つづけて\xfffeＣギアを　つかえるように　するね！\xf000븁\x0000\xfffeＣギアは　せきがいせんや\xfffeむせん　Ｗｉ－Ｆｉなど\xf000븁\x0000\xfffeつうしんに　かんけいする\xfffeデバイス　なんだよ！\xf000븁\x0000
 \xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0001Ｃギア\xf000\xff00\x0001\x0000を　てにいれた！
-Ｃギアの　でんげんを　いれて\xfffeつうしんを　はじめますか？
-はい
-いいえ
-Ｃギアの　きのうが\xfffeせいげんされますが　よろしいですか？
+Turn on the C-Gear\xfffeand begin communication?
+Yes
+No
+Is it okay to limit\xfffethe C-Gear's functionality?
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）\xf000븁\x0000
 ほら！　Ｃギアが　きどうして\xfffeがめんが　あらわれたでしょ！\xf000븁\x0000\xfffeその　がめんの　みぎしたに　ある\xfffe？マークに　タッチすれば\xf000븀\x0000\xfffeＣギアの　せつめいが　よめるよ\xf000븁\x0000\xfffeで　どうするのお？\xf000븁\x0000\xfffeサンギタウンを　こえたさきの\xfffeタチワキシティなら\xf000븀\x0000\xfffeべつの　ポケモンジムも　あるけど？
 Ｃギアの　でんげんを　いれるなら\xfffeがめん　みぎしたの\xf000븀\x0000\xfffeでんげんマークを　タッチするんだよ！\xf000븁\x0000\xfffeそして　でんげんを　いれたあとは\xfffeがめんの　みぎしたに　ある\xf000븀\x0000\xfffe？マークに　タッチすれば\xf000븀\x0000\xfffeＣギアの　せつめいが　よめるよ！\xf000븁\x0000\xfffeで　どうするのお？\xf000븁\x0000\xfffeサンギタウンを　こえたさきの\xfffeタチワキシティなら\xf000븀\x0000\xfffeべつの　ポケモンジムも　あるけど？
@@ -124,7 +124,7 @@ Bianca: ジムリーダーって\xfffeそうぞういじょうに　たいへん
 もしもーし\xf000븁\x0000\xfffeどうしたの？\xf000븁\x0000\xfffeアララギから　れんらくなんて\xfffeすごい　ひさしぶり　じゃない？\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffeへえ！　ポケモンずかん……\xfffeそれを　うちの　コに？\xf000븁\x0000\xfffeいいんじゃない！　だって　あたしも\xfffeあのコに　たびしてほしいもの！\xf000븁\x0000
 で　なあに？　そのコ　ってば\xfffeもう　こっちに　きてるの？\xf000븁\x0000\xfffeなによそれ　あいかわらずね\xfffeきめたら　すぐに　うごくんだから\xf000븁\x0000\xfffeうん！　ベルちゃんね！\xfffeおおきな　みどりの　ぼうし　っと\xf000븁\x0000\xfffeはいはい\xfffeだいじょうぶ！　だいじょうぶ！\xf000븁\x0000
 ここは　ヒオウギシティ\xfffeさらなる　はってんを　いみする　まち
-\xf000Ā\x0001\x0000の　いえ
+\xf000Ā\x0001\x0000's House
 このさき　ヒオウギみはらしだい\xfffeひろがる　イッシュの　けしき
 Trainer's School\xfffeCurrently Under Construction
 Aspertia City　Pokémon Gym\xfffeLeader: Cheren\xf000븀\x0000\xfffeThe Seeker of Truth

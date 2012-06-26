@@ -1,6 +1,6 @@
-ヒウンシティに　もどりますか？
-すぐに　しゅっこうしますので\xfffeじょうせんして　おまちください\xf000븁\x0000
-ヒウンシティに　もどりたいときは\xfffeいつでも　こえを　かけてください！
+﻿Return to Hiun City?
+We'll be departing soon.\xfffePlease prepare to board.\xf000븁\x0000
+Come and tell me anytime\xfffeyou're ready to return to Hiun City!
 ここに　くると　なんだか\xfffeパワーが　わいてくるんだよねー！
 おにいちゃん　しってる？\xf000븁\x0000\xfffeここで　おおがねもちが　ポケモンを\xfffeわるいヤツから　まもってたって！
 おねえちゃん　しってる？\xf000븁\x0000\xfffeここで　おおがねもちが　ポケモンを\xfffeわるいヤツから　まもってたって！
@@ -10,8 +10,8 @@
 ポケモンは　トレーナーの\xfffeめいれいに　すなおに　したがう\xf000븁\x0000\xfffeなのに　ポケモンに　わるいことを\xfffeさせようとする　ひとが　いるのよ！
 さいきんは　かんこうきゃくが\xfffeすくなくなったから　たいくつだ……\xf000븁\x0000\xfffeといっても　プラズマだんの　ような\xfffeれんちゅうは　おことわり　だけどな
 ……２００ねんまえ\xfffeだいふごうが　しまを　かいとり\xf000븁\x0000\xfffeひとと　ポケモンが\xfffeじゆうに　くらせる\xf000븀\x0000\xfffeせかいを　ねがって\xf000븀\x0000\xfffeリバティガーデンとう　と　なづけました
-だい２　さんばし\xfffeかんこうせん　のりばは\xf000븀\x0000\xfffeだい１　さんばしに　なります
-じゆうの　ひかりを　ともす　とうだい\xf000븁\x0000\xfffeかんけいしゃ　いがいの\xfffeたちいりを　きんし　します
+Wharf #2\xfffeBut in terms of sightseeing,\xf000븀\x0000\xfffeit's definitely Wharf #1!
+Liberty Lighthouse\xf000븁\x0000\xfffeOnly authorized personnel\xfffeare allowed entry!
 アララギ: あら？\xfffeビクティニ！\xf000븁\x0000
 アララギ: あら？\xfffeあなたの　ポケモンずかん……\xf000븁\x0000\xfffeビクティニを\xfffeつかまえたのね！！\xf000븁\x0000
 アララギ: あら？\xfffeあなたの　ポケモンずかん……\xf000븁\x0000\xfffeビクティニを\xfffeみたことが　あるのね！！\xf000븁\x0000
