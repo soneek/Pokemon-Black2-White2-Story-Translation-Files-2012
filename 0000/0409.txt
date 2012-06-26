@@ -12,4 +12,4 @@ Quit
 28th Floor
 47th Floor
 55th Floor
-なんかいに　いきますか？
+Where do you want to go?

@@ -51,8 +51,8 @@ Quit
 History
 Previous Train
 てもちか バトルボックスの\xfffeどちらを つかうか えらんでください
-てもち
-バトルボックス
+Goods
+Battle Box
 Quit
 つうしんで おともだちと\xfffeいっしょに ちょうせん しますか?
 \xf000Ā\x0001\x0000, your current\xffferank is \xf000ȁ\x0001\x0001!\xf000븁\x0000

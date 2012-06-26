@@ -18,7 +18,7 @@ Bianca: よかったあ！\xfffeポケモン　つかまったよお\xf000븁\x0
 Bianca: おうい！\xf000븁\x0000
 Bianca: ねえねえ！\xf000븁\x0000
 ごめんね！\xf000븁\x0000\xfffeあなたに　たくした　ポケモンずかん\xfffeパワーアップしておくの　わすれてたよ\xf000븁\x0000\xfffeそのなも　せいそくちリスト！\xfffeこれ　すごいんだよ\xf000븀\x0000\xfffeちょっと　ずかんを　かりるね！\xf000븁\x0000
-\xf000Ā\x0001\x0000の　ポケモンずかんが\xfffeパワーアップ　した！
+\xf000Ā\x0001\x0000's Pokédex was upgraded!
 せいそくちリストは　ばしょ　ごとに　\xfffeどんな　ポケモンが　いるのか\xf000븁\x0000\xfffeたしかめることが　できる\xfffeポケモンずかんの　モード　なんだよ！\xf000븁\x0000
 つかいかたは　ずかんを　ひらいて\xfffeがめん　ひだりしたの\xf000븀\x0000\xfffe「せいそくち」の　ところに　タッチ！\xf000븀\x0000\xfffeつぎに　みたい　ばしょを　えらんでね\xf000븁\x0000\xfffeその　ばしょに　せいそく　する\xfffeポケモンを　すべて　みたり\xf000븀\x0000\xfffeつかまえたら　おしえてくれるよ！\xf000븁\x0000\xfffeもういちど\xfffeつかいかたの　せつめいを　きく？
 ポケモンずかんを　うめることは\xfffeきみの　せかいを　ひろげること！\xf000븁\x0000\xfffeだから　いろんな　ばしょに　いって\xfffeいろんな　ポケモンに　であってね！\xf000븁\x0000\xfffeじゃあねえ\xf000븁\x0000
@@ -31,5 +31,5 @@ Bianca: ねえねえ！\xf000븁\x0000
 そうして　どんどん\xfffeつよい　トレーナー　……そうだな\xf000븀\x0000\xfffeかくちの　ジムリーダーに　いどめ！\xf000븁\x0000\xfffeポケモンと　ちからを　あわせてこそ\xfffeポケモントレーナーとして　そだち\xf000븁\x0000\xfffeたくましくなるごとに\xfffeおまえたちの　せかいは　ひろがるぞ！\xf000븁\x0000
 １９ばんどうろ
 １９ばんどうろ
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeせっかくの　であいです\xfffeいろんな　ひとと　おはなししましょう！\xf000븁\x0000\xfffeきっと　みんなが　やくだつことを\xfffeおしえてくれる　はずです！
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeYou came all this way,\xfffeso talk to everyone!\xf000븁\x0000\xfffeThey're sure to tell you\xfffehelpful information!
 おまえも　なみのり　つかえるの？\xfffeオー　おれたち　なみのりフレンド！
