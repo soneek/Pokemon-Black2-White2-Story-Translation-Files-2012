@@ -57,7 +57,7 @@ Bianca: ねえねえ！
 おや？\xfffeとおれそうな　すきまが　ある！\xf000븁\x0000\xfffeはいってみますか？
 せっかくだから　はいろうよ！\xf000븁\x0000
 Route 5\xfffePerformer's Street
-Hodomoe Drawbridge
+Driftveil Drawbridge
 おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeバッグには　どうぐの　しゅるいごとに\xfffeポケットが　あります\xf000븁\x0000\xfffeいれる　どうぐの　しゅるいに　よって\xfffeじどうてきに　ふりわけられます\xf000븁\x0000\xfffeつかいたい　どうぐが　どこに　あるのか\xfffeポケットの　なまえで　すぐわかります\xf000븁\x0000\xfffeまた　フリースペースには\xfffeどうぐの　しゅるいに　かんけいなく\xf000븁\x0000\xfffeすきな　どうぐを　いれておけるので\xfffeよく　つかうものを　まとめておけます
 チェレン: ……きいたよ\xf000븁\x0000\xfffeNという　ポケモントレーナーと\xfffeであったんだってね\xf000븁\x0000\xfffeだから　というわけでは　ないけど\xfffeぼくと　たたかってくれないかな？
 チェレン: きみとの　しょうぶで\xfffeたしかめたいことが　あるんだ\xf000븁\x0000\xfffeぼくと　たたかってくれないかな？

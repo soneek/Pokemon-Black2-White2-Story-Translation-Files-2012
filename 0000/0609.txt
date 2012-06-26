@@ -1492,7 +1492,7 @@ Leppa Berry
 Union
 Random Match
 GTS Negotiation
-﻿High Link
+﻿Entralink
 GTS
 ドリームワールド
 ねぇねぇ　\xf000ĺ\x0001\x0000！\xfffeあなたって　すきなひと　いるの？
@@ -2034,11 +2034,11 @@ Mirai
 ジュディス
 Cheren
 ホミカ
-Arti
-Kamitsure
+Burgh
+Elesa
 Yacon
 Fuuro
-Shaga
+Drayden
 シズイ
 Touya
 Touko

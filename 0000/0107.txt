@@ -62,9 +62,9 @@ What do you think of\xfffethe town's famous drawbridge?\xf000븁\x0000\xfffeIt's
 オレは……　こいする　おとこ\xfffeそのなも　チャールズ\xf000븁\x0000\xfffeそんなオレから　アドバイス……\xf000븁\x0000\xfffeチャレンジこそが　じんせい　なんだぜ
 ……ふっ　ざまあねえな\xfffeおしえるつもりが　おそわるとはな\xf000븁\x0000\xfffeそれにしても　おまえには\xfffeみどころが　ある\xf000븁\x0000\xfffeじぶんの　ポケモンへの　りかいがなきゃ\xfffeトリプルバトルは　かてないからな\xf000븁\x0000\xfffeもっと　トリプルバトルが　したけりゃ\xfffeポケモンワールドトーナメント　だぜ！
 オレは……　こいする　おとこ\xfffeそのなも　チャールズ\xf000븁\x0000\xfffeバイクにのって　かぜになるのが\xfffeにあう　ツミな　おとこさ
-Hodomoe Drawbridge
-Welcome to Hodomoe City!
-Hodomoe City, home of\xfffeships' sails and whirling water
-Hodomoe Market
-Hodomoe Pokémon Gym\xfffeLeader: Yacon\xf000븀\x0000\xfffeBoss of the Underground
+Driftveil Drawbridge
+Welcome to Driftveil City!
+Driftveil City, home of\xfffeships' sails and whirling water
+Driftveil Market
+Driftveil Pokémon Gym\xfffeLeader: Yacon\xf000븀\x0000\xfffeBoss of the Underground
 このさき　ヤーコンロード

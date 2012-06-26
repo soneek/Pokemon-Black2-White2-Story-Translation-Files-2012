@@ -8,17 +8,17 @@ Congratulations!\xfffeYou beat seven trainers in a row!\xf000븁\x0000\xfffeAnd 
 そして　\xf000Ā\x0001\x0000さまは\xfffeスーパーマルチトレインに\xf000븁\x0000\xfffeチャレンジ　する\xfffeけんりを　かくとく　しました！\xf000븁\x0000
 また　きねんに\xfffeトロフィーを　さしあげます\xf000븀\x0000\xfffeごじたくに　おかざり　ください！
 それでは　ごゆっくり　どうぞ\xf000븁\x0000\xfffeつづけて　チャレンジしたい　ばあいや\xfffeライモンシティに　もどる　ばあいは\xf000븀\x0000\xfffeおこえを　かけてください
-This will be the Single\xfffeTrain's last stop.\xf000븁\x0000\xfffeWhen you want to\xfffereturn to Raimon City,\xf000븀\x0000come talk to me!\xf000븁\x0000\xfffeNow then, take a break!
-This will be the Double\xfffeTrain's last stop.\xf000븁\x0000\xfffeWhen you want to\xfffereturn to Raimon City,\xf000븀\x0000come talk to me!\xf000븁\x0000\xfffeNow then, take a break!
-This will be the Multi\xfffeTrain's last stop.\xf000븁\x0000\xfffeWhen you want to\xfffereturn to Raimon City,\xf000븀\x0000come talk to me!\xf000븁\x0000\xfffeNow then, take a break!
-Return to Raimon City?
-Then we'll return to Raimon City.\xf000븁\x0000
+This will be the Single\xfffeTrain's last stop.\xf000븁\x0000\xfffeWhen you want to\xfffereturn to Nimbasa City,\xf000븀\x0000come talk to me!\xf000븁\x0000\xfffeNow then, take a break!
+This will be the Double\xfffeTrain's last stop.\xf000븁\x0000\xfffeWhen you want to\xfffereturn to Nimbasa City,\xf000븀\x0000come talk to me!\xf000븁\x0000\xfffeNow then, take a break!
+This will be the Multi\xfffeTrain's last stop.\xf000븁\x0000\xfffeWhen you want to\xfffereturn to Nimbasa City,\xf000븀\x0000come talk to me!\xf000븁\x0000\xfffeNow then, take a break!
+Return to Nimbasa City?
+Then we'll return to Nimbasa City.\xf000븁\x0000
 What will you do?
 Continue challenge
-Return to Raimon City
+Return to Nimbasa City
 Stay here
 Waiting for your\xfffefriend's selection...
-You've chosen to return to Raimon City, so\xfffethe challenge will be temporarily ended.
+You've chosen to return to Nimbasa City, so\xfffethe challenge will be temporarily ended.
 And \xf000Ā\x0001\x0000 ranked up\xfffeto Rank \xf000ȁ\x0001\x0001!\xf000븁\x0000
 Send these results\xfffeto Nintendo WFC?
 いい　かんじだね！\xfffeこのちょうしで　がんばろうよ！
@@ -27,7 +27,7 @@ Send these results\xfffeto Nintendo WFC?
 あいても　つよくなるけど\xfffeあたしたちなら　よゆう　だよね！\xf000븀\x0000\xfffeたのしみつつ　かちすすもうね！
 ありがとう！　きみの　おかげで\xfffeここまで　これたんだよね！\xf000븁\x0000\xfffeこれからも　ベストすぎる\xfffeコンビネーション　みせていこう！
 あなたの　おかげで\xfffeついに　ここまで　これたわね！\xf000븁\x0000\xfffeあたしたち……\xfffeさいこうの　ペアに　なれたかな？
-This will be the Wi-Fi\xfffeTrain's last stop.\xf000븁\x0000\xfffeWhen you want to\xfffereturn to Raimon City,\xf000븀\x0000come talk to me!\xf000븁\x0000\xfffeNow then, take a break!
+This will be the Wi-Fi\xfffeTrain's last stop.\xf000븁\x0000\xfffeWhen you want to\xfffereturn to Nimbasa City,\xf000븀\x0000come talk to me!\xf000븁\x0000\xfffeNow then, take a break!
 チャレンジが ちゅうだん されました
 チャレンジを ちゅうだん しました
 Battles in succession are stressful...\xfffeIt's nice to rest for a bit here.

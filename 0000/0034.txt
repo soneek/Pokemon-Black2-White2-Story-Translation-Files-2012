@@ -19,10 +19,10 @@
 の　\xf000Ȁ\x0001\x0000かしょ　ですね！\xf000븁\x0000\xfffeでは　めぐって　めぐって\xfffeヒウンラリー！　レッツ　ゴー！
 なんと！　のこり　０！\xfffe……ということは\xf000븁\x0000\xfffeヒウンラリー　せいは！\xfffeおめでとう　ございます！\xf000븁\x0000\xfffeこれは　ささやかな　ものですが\xfffeきねんひんに　どうぞ！\xf000븁\x0000
 ヒウンシティを　あいする\xfffeひとを　ふやすための　ラリー！\xf000븁\x0000\xfffeですから　さいしょに　きまえよく\xfffeじてんしゃも　プレゼント　したのです\xf000븁\x0000\xfffeこれからも　ヒウンシティを\xfffeあいして　くださいね！\xf000븁\x0000\xfffeヒウン　ヒウン　ヒウンシティ♪\xfffeヒヤ　ウィー　ゴー♪
-Hiun City\xfffeCity of soaring, joyful clouds!
-Ahead: Hiun Street\xfffeBack: Cruise Dock
+Castelia City\xfffeCity of soaring, joyful clouds!
+Ahead: Castelia Street\xfffeBack: Cruise Dock
 Ahead: Maude Street\xfffeBack: Prime Pier
 Ahead: Slim Street\xfffeBack: United Pier
 Ahead: Pokémon Gym\xfffeBack: Liberty Pier
 Chance-Upon Survey HQ\xfffe...People walk, and chance upon others
-Battle Company\xfffeWelcome, confident trainers!
+Battle Company\xfffeWelcome, confiCilan trainers!
