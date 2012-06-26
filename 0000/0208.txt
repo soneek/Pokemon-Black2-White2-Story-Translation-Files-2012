@@ -22,7 +22,7 @@ When your Pokémon's health,\xfffeor HP, is reduced to zero,\xf000븀\x0000\xfff
 There! All happy and healthy!\xf000븁\x0000\xfffeGood luck and take care!
 ほんたいの　むせんつうしんが\xfffeオフに　なっています\xf000븁\x0000\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）\xf000븁\x0000
 ほんたいの　むせんつうしんが\xfffeオフに　なっています\xf000븁\x0000\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
-Araragi’s words echoed...\xfffe\xf000Ā\x0001\x0000! There’s a time and\xf000븀\x0000place for everything! But not now.
+Juniper’s words echoed...\xfffe\xf000Ā\x0001\x0000! There’s a time and\xf000븀\x0000place for everything! But not now.
 Can't get off here!
 This Pokémon can't have\xfffethis specific Ribbon...
 ふたりで　いるときは\xfffe\xf000ĉ\x0001\x0001は　つかえません！

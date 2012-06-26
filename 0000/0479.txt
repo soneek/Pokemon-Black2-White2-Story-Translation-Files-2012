@@ -3,11 +3,11 @@ Which PC should be accessed?
 Someone's PC
 Shorea's PC
 \xf000Ā\x0001\x0000's PC
-Prof. Araragi's PC
+Prof. Juniper's PC
 Hall of Fame
 View Help
 Switch Off
-Accessed Prof. Araragi's PC.\xf000븁\x0000
+Accessed Prof. Juniper's PC.\xf000븁\x0000
 Hall of Fame\xfffewas corrupted!\xf000븁\x0000\xfffeHall of Fame has\xfffebeen fixed!\xf000븁\x0000
 Congratulations!\xf000븁\x0000\xfffeWallpapers have been added for\xfffebeating the game the first time!\xf000븁\x0000
 Congratulations!\xf000븁\x0000\xfffeWallpapers have been added for\xfffebecoming the Champion!\xf000븁\x0000
@@ -37,6 +37,6 @@ Connected to the Hall of Fame system.\xf000븁\x0000
 View Members of the first Hall of Fame team.
 View Members of the Hall of Fame.
 Disconnect from the Record System.
-Prof. Araragi connected to your PC!\xf000븁\x0000
+Prof. Juniper connected to your PC!\xf000븁\x0000
 Connected to the Help System!\xf000븁\x0000
  

@@ -7,8 +7,8 @@ Hey, \xf000Ā\x0001\x0000!\xf000븁\x0000
 よし！　オマエの\xfffeポケモンを　もらいに　いくぞ！\xf000븁\x0000\xfffeオレには　やることが　ある！\xf000븁\x0000\xfffeそのために\xfffeあいぼうの　ポケモン　いがいにも\xf000븀\x0000\xfffeたよれる　にんげんが　いるんだよ\xf000븁\x0000\xfffeそう！　オマエだよ　オマエ！\xfffeオマエ　センスが　ありそうだからな\xf000븁\x0000
 さきに　かえってな\xf000븁\x0000
 はーい！　おにいちゃん\xf000븁\x0000\xfffeじゃーねー　\xf000Ā\x0001\x0000さん\xf000븁\x0000
-\xf000Ā\x0001\x0001: よーし！\xfffeベル　って　ひとを　さがせッ！！
-\xf000Ā\x0001\x0001: オイ！\xfffeたかだいも　チェックしておくか？
+\xf000Ā\x0001\x0001: Alright!\xfffeLet's go find Bianca!!
+\xf000Ā\x0001\x0001: Hey!\xfffeHave you checked the hilltop?
 \xf000Ā\x0001\x0001: それにしても\xf000븁\x0000\xfffeポケモンを　もらえるなんて\xfffeすごい　ラッキーだな　オマエ！
 \xf000Ā\x0001\x0001: ポケモンを　もらったら\xfffeとうぜん　たびに　でるよな\xf000븁\x0000\xfffeそのときは　ちょっと\xfffeオレの　てつだいを　してもらうぜ
 \xf000Ā\x0001\x0001: はやく\xfffeベルって　ひと　さがそうぜッ！
@@ -39,8 +39,8 @@ Bianca: それでは\xf000븁\x0000\xfffeじゃじゃーん！！\xf000븁\x0000
 Choose a Pokémon.
 Is this the Pokémon you want?
 Pick this one!
-YES
-NO
+Yes
+No
 \xf000Ā\x0001\x0000 chose\xfffe\xf000ā\x0001\x0001!
 Bianca: Wow!　I think \xf000ā\x0001\x0002\xfffeis perfect for you!\xf000븁\x0000\xfffeDo you want to give your\xfffePokemon a nickname?
 Bianca: That's OK. You don't\xfffeneed to give it a nickname.\xf000븁\x0000
@@ -48,7 +48,7 @@ Bianca: \xf000Ă\x0001\x0000! Is that\xfffegoing to be its nickname?
 Bianca: \xf000Ă\x0001\x0000!\xfffeWhat an awesome nickname!\xf000븁\x0000
 Bianca: This will be the first\xfffeentry in your Pokedex!\xf000븁\x0000
 \xf000Ā\x0001\x0000 obtained the \xf000\xff00\x0001\x0002Pokédex\xf000\xff00\x0001\x0000!
-Bianca: ポケモンずかん　はね……！\xf000븁\x0000\xfffeあなたが　であった　ポケモンを\xfffeじどうてきに　きろく　していく\xf000븀\x0000\xfffeハイテクな　どうぐ　なの！\xf000븁\x0000\xfffeでね　ポケモンずかんを　もって\xfffeいろんな　ところに　でかけて\xf000븁\x0000\xfffeイッシュちほう　すべての\xfffeポケモンに　であってほしいんだ\xf000븁\x0000\xfffeそれが　アララギはかせの\xfffeおねがい　なんだよ
+Bianca: The Pokedex...!\xf000븁\x0000\xfffeIt's a high-tech device\xfffethat records data about every\xf000븀\x0000\xfffePokemon you meet!\xf000븁\x0000\xfffeTake the Pokedex with you\xfffeeverywhere you go.\xf000븁\x0000\xfffeYou can try to meet every Pokemon\xfffein the Unova region.\xf000븁\x0000\xfffeIt's a request from\xfffeProfessor Juniper herself.
 それにしても\xfffeアララギはかせ　ったら！\xf000븁\x0000\xfffeふつうは　オーケーの\xfffeへんじを　もらってから\xf000븀\x0000\xfffeしゅっぱつ　させるよねえ？
 \xf000Ā\x0001\x0001: おーい\xfffeいつまで　またせるんだよ！\xf000븁\x0000\xfffeって　オマエ！\xf000븁\x0000
 そいつが\xfffeオマエの　パートナー！\xf000븁\x0000\xfffe……よかったな\xf000븁\x0000\xfffeいもうとも　いってたけど　ポケモンは\xfffeぜったい　たいせつに　しろよな！\xf000븁\x0000\xfffeで　オマエ\xfffeもってる　ソレ　なんだよ？\xf000븁\x0000
