@@ -30,5 +30,5 @@
 どこからか　きこえる　かなしいような\xfffeどこか　マヌケな　ねいろ……\xf000븀\x0000\xfffeもしかしたら　ゆうれい　なのかも？\xf000븁\x0000\xfffeえっ？\xfffeおんなのこが　いた……\xf000븁\x0000\xfffeそっか！　そういうことね！\xfffeありがと！　これは　おれいよ！\xf000븁\x0000
 ひとの　ひみつは　まもらないと\xfffeじぶんの　ひみつが　もれちゃうもの
 みちを　きこうと　はなしかけたら\xfffeポケモントレーナー　でしたよ！\xf000븀\x0000\xfffeあなたも　きをつけなさいよ
-ここは　ビレッジブリッジ
-ビレッジブリッジ\xfffeめいぶつ　ビレッジサンド
+This is Village Bridge!
+Village Bridge\xfffeFamous Bridge sandwiches!

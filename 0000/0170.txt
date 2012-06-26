@@ -5,18 +5,18 @@
 ポケモンに　どうぐを\xfffeもたせられるだろ？\xf000븁\x0000\xfffeでもさ　ひとが　つくった　どうぐ……\xfffeたとえば　キズぐすり　とかは\xf000븀\x0000\xfffeつかいかたが　わからないみたいだね
 ノーマルタイプの　ポケモンは\xfffeかくとうタイプに　よわい！\xf000븁\x0000\xfffeだけど　このあたりだと\xfffeサンギぼくじょうの\xf000븀\x0000\xfffeリオル　ぐらいしか　いないからね……\xf000븁\x0000\xfffeほのお　みず　くさタイプの\xfffeポケモンで　たたかうなら\xf000븀\x0000\xfffeじゅんすいな　つよさくらべに　なるね
 こくばんに　ポケモンが\xfffeたたかっているときに　おこる\xf000븁\x0000\xfffeたいちょうの　へんかに　ついて\xfffeかかれてます\xf000븁\x0000
-どれについて　みますか？
+Which will you look at?
 どくを　うけると\xfffeたたかっている　あいだ\xf000븀\x0000\xfffeたいりょくが　へっていきます\xf000븁\x0000\xfffeせんとうが　おわっても\xfffeどくの　ままです\xf000븁\x0000\xfffeどくけしで　なおしましょう\xf000븁\x0000
-まひすると　すばやさが　さがり\xfffeときどき　わざが　だせなくなります\xf000븁\x0000\xfffeせんとうの　あとも\xfffeまひした　ままです\xf000븁\x0000\xfffeまひなおしで　なおしましょう\xf000븁\x0000
-ねむって　しまうと\xfffeその　あいだ　こうげき　できません\xf000븁\x0000\xfffeじぶんで　おきることも　ありますが\xfffeねむったまま　せんとうが　おわると\xf000븀\x0000\xfffeずっと　ねむっています\xf000븁\x0000\xfffeねむけざましで　おこしましょう\xf000븁\x0000
-やけどに　なると\xfffeこうげきりょくが　さがるだけでなく\xf000븀\x0000\xfffeたいりょくも　どんどん　へります\xf000븁\x0000\xfffeせんとうが　おわっても\xfffeやけどの　ままです\xf000븁\x0000\xfffeやけどなおしで　なおしましょう\xf000븁\x0000
-こおって　しまうと\xfffeなにも　できなくなります\xf000븁\x0000\xfffeしぜんに　とけることも　ありますが\xfffeこおったまま　せんとうが　おわると\xf000븀\x0000\xfffeこおりついた　ままです\xf000븁\x0000\xfffeこおりなおしで　とかしましょう\xf000븁\x0000
-どく
-まひ
-ねむり
-やけど
-こおり
-やめる
+Paralyzation lowers speed and makes a\xfffePokémon sometimes unable to use moves.\xf000븁\x0000\xfffeFollowing the battle,\xfffeparalyzation will remain.\xf000븁\x0000\xfffeHeal it with a Paralyze Heal.\xf000븁\x0000
+Sleep will make a Pokémon\xfffetemporarily unable to use moves.\xf000븁\x0000\xfffeThough it can wake up,\xfffeif sleeping when the battle ends,\xf000븀\x0000\xfffea Pokemon will stay asleep.\xf000븁\x0000\xfffeHeal it with an Awakening.\xf000븁\x0000
+Being burned will not only lower Attack,\xfffebut steadily lower health.\xf000븁\x0000\xfffeEven after the battle ends,\xfffea burn will remain.\xf000븁\x0000\xfffeHeal it with a Burn Heal.\xf000븁\x0000
+Being frozen will make a Pokémon\xfffeunable to do anything.\xf000븁\x0000\xfffeThough it can thaw,\xfffeif frozen when the battle ends,\xf000븀\x0000\xfffea Pokémon will stay frozen.\xf000븁\x0000\xfffeHeal it with an Ice Heal.\xf000븁\x0000
+Poison
+Paralyze
+Sleep
+Burn
+Freeze
+Quit
 ヒオウギ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　チェレン\xfffeにんてい　トレーナー！
 ヒオウギ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　チェレン\xfffeにんてい　トレーナー！\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
 ヒオウギ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　チェレン\xfffeにんてい　トレーナー！\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　\xf000Ā\x0001\x0001

@@ -13,8 +13,8 @@ Writing a save game...\xfffeDon't turn off the power.
 Writing a save game...\xfffeDon't turn off the power.
 Writing a save game...\xfffeDon't turn off the power.
 しんにゅう　しているときや\xfffeしんにゅう　されているときは\xf000븀\x0000\xfffeレポートが　かけません！
-だれかと　せつぞくちゅうの　ようですが\xfffeせつだんして　よろしいですか？
-つうしんを　せつだん　します\xfffeしばらく　おまちください
+だれかと せつぞくちゅうの ようですが\xfffeせつだんして よろしいですか?
+つうしんを せつだん します\xfffeしばらく おまちください
 Mother: \xf000Ā\x0001\x0000!\xfffeWelcome home.\xf000븁\x0000Things were looking bad there...\xfffeHow about you rest a while...?\xf000븁\x0000... ... ...\xfffe... ... ...
 Mother: Oho!\xf000븁\x0000Looks like you and your Pokémon\xfffeare feeling great!\xf000븁\x0000\xfffeRight! I heard this\xfffefrom the Professor before...\xf000븁\x0000\xfffeWhenever your Pokémon is\xfffeout of health... er, HP...\xf000븁\x0000Be sure to get it healed\xfffeat a Pokémon Center, alright?\xf000븁\x0000\xfffeWhen you're out adventuring far away,\xfffeit helps to buy essentials\xf000븀\x0000like Potions from the Friendly Shop.\xf000븁\x0000\xfffeWell, I'm backing you up!\xf000븁\x0000\xfffeBe careful!\xfffeAnd be on your way!
 First, let's restore your Pokémon\xfffeto full health.
