@@ -42,13 +42,13 @@ Pick this one!
 Yes
 No
 \xf000Ā\x0001\x0000 chose\xfffe\xf000ā\x0001\x0001!
-Bianca: Wow!　I think \xf000ā\x0001\x0002\xfffeis perfect for you!\xf000븁\x0000\xfffeDo you want to give your\xfffePokemon a nickname?
+Bianca: Wow!　I think \xf000ā\x0001\x0002\xfffeis perfect for you!\xf000븁\x0000\xfffeDo you want to give your\xfffePokémon a nickname?
 Bianca: That's OK. You don't\xfffeneed to give it a nickname.\xf000븁\x0000
 Bianca: \xf000Ă\x0001\x0000! Is that\xfffegoing to be its nickname?
 Bianca: \xf000Ă\x0001\x0000!\xfffeWhat an awesome nickname!\xf000븁\x0000
-Bianca: This will be the first\xfffeentry in your Pokedex!\xf000븁\x0000
+Bianca: This will be the first\xfffeentry in your Pokédex!\xf000븁\x0000
 \xf000Ā\x0001\x0000 obtained the \xf000\xff00\x0001\x0002Pokédex\xf000\xff00\x0001\x0000!
-Bianca: The Pokedex...!\xf000븁\x0000\xfffeIt's a high-tech device\xfffethat records data about every\xf000븀\x0000\xfffePokemon you meet!\xf000븁\x0000\xfffeTake the Pokedex with you\xfffeeverywhere you go.\xf000븁\x0000\xfffeYou can try to meet every Pokemon\xfffein the Unova region.\xf000븁\x0000\xfffeIt's a request from\xfffeProfessor Juniper herself.
+Bianca: The Pokédex...!\xf000븁\x0000\xfffeIt's a high-tech device\xfffethat records data about every\xf000븀\x0000\xfffePokémon you meet!\xf000븁\x0000\xfffeTake the Pokédex with you\xfffeeverywhere you go.\xf000븁\x0000\xfffeYou can try to meet every Pokémon\xfffein the Unova region.\xf000븁\x0000\xfffeIt's a request from\xfffeProfessor Juniper herself.
 それにしても\xfffeアララギはかせ　ったら！\xf000븁\x0000\xfffeふつうは　オーケーの\xfffeへんじを　もらってから\xf000븀\x0000\xfffeしゅっぱつ　させるよねえ？
 \xf000Ā\x0001\x0001: おーい\xfffeいつまで　またせるんだよ！\xf000븁\x0000\xfffeって　オマエ！\xf000븁\x0000
 そいつが\xfffeオマエの　パートナー！\xf000븁\x0000\xfffe……よかったな\xf000븁\x0000\xfffeいもうとも　いってたけど　ポケモンは\xfffeぜったい　たいせつに　しろよな！\xf000븁\x0000\xfffeで　オマエ\xfffeもってる　ソレ　なんだよ？\xf000븁\x0000
