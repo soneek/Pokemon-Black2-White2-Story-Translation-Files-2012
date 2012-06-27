@@ -50,6 +50,6 @@ Quit
 Back
 Learn
 Remember which move?
-﻿\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
 Lv．\xf000Ȃ\x0001\x0000
 Learned Move
