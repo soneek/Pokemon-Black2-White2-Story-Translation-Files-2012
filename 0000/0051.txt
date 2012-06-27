@@ -377,9 +377,9 @@ Hello!
 ステキな　セリフ！！\xf000븁\x0000\xfffeすれちがいログの　はつげんで\xfffeすばやく　にゅうりょくできるように\xf000븀\x0000\xfffeとうろく　しておいたからね！
 あ \xf000Ā\x0001\x0001たいいん!\xfffeおあいできて こうえいです!\xf000븁\x0000どうしよう～\xfffe\xf000Ā\x0001\x0001たいいんに\xf000븀\x0000はなしかけられちゃった!
 Recruiting surveyers!\xfffeSee the leader for details!
-\xf000Ā\x0001\x0000\xfffeRank C Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:   \xf000Ȅ\x0001\x0002
-\xf000Ā\x0001\x0000\xfffeRank B Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:   \xf000Ȅ\x0001\x0002
-\xf000Ā\x0001\x0000\xfffeRank A Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:   \xf000Ȅ\x0001\x0002
-\xf000Ā\x0001\x0000\xfffeRank S Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:   \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRank C Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRank B Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRank A Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRank S Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count: \xf000Ȅ\x0001\x0002
 レッツ　トライ　ヒウンラリー！\xfffeすれちがいちょうさたい　オーケー！！
 すれちがいちょうさたいは　みんなの\xfffeはやりや　このみを　しらべてるー！
