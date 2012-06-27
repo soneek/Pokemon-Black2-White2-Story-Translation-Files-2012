@@ -14,7 +14,7 @@
 \xf000Ā\x0001\x0000\xf000븁\x0000\xfffeぼくは　しらべることが　あるので\xfffe６ばんどうろに　いく\xf000븁\x0000\xfffeきみも　どうちゅう　きをつけなよ\xf000븁\x0000
 ヘルメットは　しょうげきから\xfffeまもってくれる　だいじな　どうぐ！\xf000븁\x0000\xfffeきみの　ポケモンにも\xfffeもたせると　いいだろう！\xf000븁\x0000
 ゴツゴツメットは　ふしぎな　どうぐ\xfffeポケモンに　もたせておくと\xf000븁\x0000\xfffeだげきわざを　うけたとき\xfffeあいてにも　ダメージを　あたえるぞ\xf000븁\x0000\xfffe……だげきわざ　ってのは\xfffeちょくせつ　なぐったりする　わざだぞ！
-﻿no data
+no data
 みずのちかい\xfffeほのおのちかい\xf000븀\x0000\xfffeくさのちかい\xf000븁\x0000\xfffeこれら　３つの　わざは\xfffeたたかいのとき　くみあわせることで\xf000븀\x0000\xfffeとくしゅな　こうかが　うまれるのよ！
 no　data
 no　data
@@ -33,5 +33,5 @@ An egg cannot even\xfffeuse Hidden Power whatsoever!
 Alas, this Pokémon\xfffecannot learn Hidden Power!
 そこの　ほらあなは\xfffeこだいのぬけみち！\xf000븁\x0000\xfffeさいきん　みつかったんだが\xfffeなんと　なんと！\xf000븁\x0000\xfffe……あれ？　どこに\xfffeつながって　いたんだっけ？
 うみを　わたってこそ　ふね！\xfffeみなとに　いる　ふねは　さびしそうね
-﻿no data
+no data
 ポケモンワールドトーナメント\xfffeあるいは　ＰＷＴ\xf000븀\x0000\xfffeこのみで　つかいわけて　ください
