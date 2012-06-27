@@ -1,4 +1,4 @@
-Hey, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Hey \xf000Ā\x0001\x0000!\xf000븁\x0000
 \xf000Ā\x0001\x0001: Yo!\xfffeGot your Pokémon yet?\xf000븁\x0000\xfffeこの　あたりには\xfffeポケモントレーナーが　いなくて\xf000븀\x0000\xfffeオレも　たいくつ　なんだよ！\xf000븁\x0000
 えっ？\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000
 ベルって　ひとが\xfffeポケモンを　くれる？　ほんとかよ\xf000븁\x0000
@@ -121,11 +121,11 @@ Is it okay to limit\xfffethe C-Gear's functionality?
 ひとは　たびをして　おとなになる……\xfffeわたしも　このまちを　でようかなあ？
 やせいの　ポケモンは\xfffeひとを　おそうことも　あるの！\xf000븁\x0000\xfffeでもね　そばに　いれば\xfffeなかよくなれるのも　ポケモンよ
 あなたの　ママなら\xfffeポケモンを　やすませて\xf000븀\x0000\xfffeげんきに　するのも　じょうずよね！
-もしもーし\xf000븁\x0000\xfffeどうしたの？\xf000븁\x0000\xfffeアララギから　れんらくなんて\xfffeすごい　ひさしぶり　じゃない？\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffeへえ！　ポケモンずかん……\xfffeそれを　うちの　コに？\xf000븁\x0000\xfffeいいんじゃない！　だって　あたしも\xfffeあのコに　たびしてほしいもの！\xf000븁\x0000
-で　なあに？　そのコ　ってば\xfffeもう　こっちに　きてるの？\xf000븁\x0000\xfffeなによそれ　あいかわらずね\xfffeきめたら　すぐに　うごくんだから\xf000븁\x0000\xfffeうん！　ベルちゃんね！\xfffeおおきな　みどりの　ぼうし　っと\xf000븁\x0000\xfffeはいはい\xfffeだいじょうぶ！　だいじょうぶ！\xf000븁\x0000
+もしもーし\xf000븁\x0000\xfffeHello?\xf000븁\x0000\xfffeProfessor Juniper! It's\xfffebeen a while, huh?\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffeAh!　You want to give a Pokedex...\xfffeTo my child?\xf000븁\x0000\xfffeNot at all!　I'd love to let them\xfffego on a journey!\xf000븁\x0000
+Would should I do?　そのコ　ってば\xfffeもう　こっちに　きてるの？\xf000븁\x0000\xfffeなによそれ　あいかわらずね\xfffeきめたら　すぐに　うごくんだから\xf000븁\x0000\xfffeうん！　ベルちゃんね！\xfffeおおきな　みどりの　ぼうし　っと\xf000븁\x0000\xfffeはいはい\xfffeだいじょうぶ！　だいじょうぶ！\xf000븁\x0000
 ここは　ヒオウギシティ\xfffeさらなる　はってんを　いみする　まち
 \xf000Ā\x0001\x0000's House
 このさき　ヒオウギみはらしだい\xfffeひろがる　イッシュの　けしき
-Trainer's School\xfffeCurrently Under Construction
+Trainer's School\xfffeCurrently under construction.
 Aspertia City　Pokémon Gym\xfffeLeader: Cheren\xf000븀\x0000\xfffeThe Seeker of Truth
 LET'S GO!!
