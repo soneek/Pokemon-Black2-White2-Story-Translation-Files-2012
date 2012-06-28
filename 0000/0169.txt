@@ -51,7 +51,7 @@ Bianca: This will be the first\xfffeentry in your Pokédex!\xf000븁\x0000
 Bianca: The Pokédex...!\xf000븁\x0000\xfffeIt's a high-tech device\xfffethat records data about every\xf000븀\x0000\xfffePokémon you meet!\xf000븁\x0000\xfffeTake the Pokédex with you\xfffeeverywhere you go.\xf000븁\x0000\xfffeYou can try to meet every Pokémon\xfffein the Unova region.\xf000븁\x0000\xfffeIt's a request from\xfffeProfessor Juniper herself.
 Professor Juniper will\xfffebe so happy!\xf000븁\x0000\xfffeI'll let her know that everything\xfffewent well when I talk to her.\xf000븀\x0000\xfffeIs that OK?
 \xf000Ā\x0001\x0001: Hey.\xfffeI can't wait forever!\xf000븁\x0000\xfffeHurry up!\xf000븁\x0000
-Oh!\xfffeThat's your partner!\xf000븁\x0000\xfffe......I need to act.\xf000븁\x0000\xfffeMy sister expects me\xfffeto get a Pokedex!\xf000븁\x0000\xfffeDo you think I'll\xfffebe able to?\xf000븁\x0000
+Oh!\xfffeThat's your partner!\xf000븁\x0000\xfffe......I need to act.\xf000븁\x0000\xfffeMy sister expects me\xfffea lot from me!\xf000븁\x0000\xfffeDo you think I'll\xfffebe able to?\xf000븁\x0000
 Bianca: Good luck with the Pokedex.\xf000븁\x0000
 \xf000Ā\x0001\x0001: ......I'd like\xfffea Pokedex too.\xf000븁\x0000\xfffeI want to get stronger!\xf000븁\x0000\xfffeMeeting a bunch a Pokemon\xfffeand using the Pokedex......\xf000븀\x0000\xfffeWill make me stronger!\xf000븁\x0000
 Bianca: Who are you?\xf000븁\x0000
@@ -59,23 +59,23 @@ I'm　\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeI want to make new\xfffePokemon 
 Bianca: Ah I see!\xf000븁\x0000\xfffeI don't see how traveling\xfffecould be a bad thing!\xf000븁\x0000\xfffeI actually happen to\xfffehave a spare Pokedex.\xf000븁\x0000\xfffeThis design is from 2 years\xfffeago, so it won't look as\xf000븀\x0000\xfffenice as the current one.\xf000븁\x0000
 Bianca: Hey, hey.\xf000븁\x0000\xfffeWhy not have two people\xfffeworking on the Pokedex?
 \xf000Ā\x0001\x0001: Hey!　You're not the only\xfffetrainer here anymore!\xf000븁\x0000\xfffeThe egg that I was taking care of\xfffehatched into a \xf000ā\x0001\x0003!\xf000븁\x0000
-\xf000Ā\x0001\x0001: ......まけたか\xfffeやせいの　ポケモンとは　ちがうな！\xf000븁\x0000\xfffeまあ　いいや\xfffeオマエが　たよれる　トレーナーだと\xf000븀\x0000\xfffeわかっただけで　じゅうぶん！\xf000븁\x0000\xfffeじゃ　オレ　さきにいくからな！\xfffeオマエ　もっと　つよくなっておけッ！\xf000븁\x0000
-\xf000Ā\x0001\x0001: はじめての　しょうぶで\xfffeそこまで　たたかえれば　じゅうぶん！\xf000븁\x0000\xfffeじゃ　オレ　さきにいくからな！\xfffeオマエ　もっと　つよくなっておけよッ！\xf000븁\x0000
-Bianca: どっちの ポケモンも\xfffeすごく　がんばったよね！\xf000븁\x0000\xfffeだけど　そのコは　まだ　よわいから\xfffeたたかわせて　そだててあげないと\xf000븁\x0000
-さて！　しょうぶを　して\xfffeきずついた　ポケモンのため\xf000븁\x0000\xfffeポケモンセンターに　いって\xfffeげんきに　してあげようよ！\xf000븁\x0000
-Bianca: ポケモンセンターは\xfffeどこの　まちでも　いっしょだね\xf000븁\x0000\xfffeじゃ　はいろ！\xf000븁\x0000
-ママ: あっ！　はじめまして\xfffeあなたが　ベルちゃんね！\xf000븁\x0000\xfffeで　\xf000Ā\x0001\x0000は\xfffe\xf000ā\x0001\x0002を　えらんだんだ\xf000븁\x0000\xfffeフフ\xfffeなんだか　いい　かんじ！\xf000븁\x0000
-おっと！\xfffeわすれるところでした\xf000븁\x0000\xfffeほら！　これこれ！\xfffeランニングシューズ！\xf000븁\x0000
-\xf000Ā\x0001\x0000 received\xfffethe \xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
-ママ: よし　ぴったり！\xfffeじゃ　せつめいしょを　よむわね\xf000븁\x0000\xfffe「ランニングシューズは\xfffe　Ｂボタンを　おすことで　いままでより\xf000븀\x0000\xfffe　はやく　はしれるように　なります！\xf000븁\x0000\xfffe　ランニングシューズを　はいて\xfffe　おもいっきり　はしりまくろう！」\xf000븁\x0000\xfffeこれで　あなたと　\xf000ā\x0001\x0002\xfffeどこまでも　かけぬけられるわね！\xf000븁\x0000
-\xf000Ā\x0001\x0001のいもうと: あの......\xfffeあたしからは　コレを\xf000븁\x0000
-\xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002タウンマップ\xf000\xff00\x0001\x0000を　もらった！
-Bianca: ねえねえ　その　タウンマップ\xfffeどうして　２つも　あるの？\xf000븁\x0000
-\xf000Ā\x0001\x0001のいもうと: １つは\xfffeおにいちゃんに　わたしてほしいの\xf000븁\x0000
-ママ: そうね！　うみを　わたるまで\xfffeいっぽんみち　とはいえ\xf000븀\x0000\xfffeタウンマップが　あると　べんりよね\xf000븁\x0000\xfffeだって　タウンマップを　つかえば\xfffeイッシュちほうの　ようすも\xf000븀\x0000\xfffeばっちり　まるわかり　だもんね！\xf000븁\x0000
-Bianca: ......エヘヘ\xf000븁\x0000\xfffeなんだか　みてる\xfffeこっちまで　うれしくなっちゃうね！\xf000븁\x0000\xfffeさあ！　つぎに　むかうのは\xfffe１９ばんどうろ　だよ！\xf000븁\x0000\xfffeポケモンの　つかまえかたを\xfffeばっちり　おしえてあげるからね！\xf000븁\x0000
-ママ: いってらっしゃい！\xf000븁\x0000\xfffe\xf000ā\x0001\x0002と　いっしょに\xfffeいろんな　ポケモン　いろんな　ひとを\xf000븀\x0000\xfffeその　めで　みてらっしゃい！
-\xf000Ā\x0001\x0001のいもうと: ポケモンと\xfffeなかよく　してあげてね！
+\xf000Ā\x0001\x0001: ......I lost. Everything was so\xfffedifferent against wild Pokemon!\xf000븁\x0000\xfffeEh, oh well.\xfffeThis just means that\xf000븀\x0000\xfffeyou're gonna be a great trainer!\xf000븁\x0000\xfffeI'm going on ahead!\xfffeYou better get stronger!\xf000븁\x0000
+\xf000Ā\x0001\x0001: That was our first battle,\xfffebut it was great!\xf000븁\x0000\xfffeI'm going on ahead!\xfffeYou better get stronger!\xf000븁\x0000
+Bianca: It's hard getting used\xfffeto your first Pokemon!\xf000븁\x0000\xfffeAs you journey, you will\xfffeboth grow much stronger.\xf000븁\x0000
+Now! That's battle took a lot\xfffeout of your Pokemon.\xf000븁\x0000\xfffeLet's go get them healed\xfffeat the Pokemon Center!\xf000븁\x0000
+Bianca: The Pokemon Center is also\xfffea gathering spot for people.\xf000븁\x0000\xfffeLet's head in!\xf000븁\x0000
+Mom: Ah!　You must be\xfffeBianca!\xf000븁\x0000\xfffeSo \xf000Ā\x0001\x0000\xfffepicked \xf000ā\x0001\x0002.\xf000븁\x0000\xfffeI'm so excited!\xf000븁\x0000
+Ah!\xfffeI almost forgot!\xf000븁\x0000\xfffeLook!　Ta-da!\xfffeRunning Shoes!\xf000븁\x0000
+\xf000Ā\x0001\x0000 received a pair of\xfffe\xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
+Mom: That's right! They came\xfffewith instructions.\xf000븁\x0000\xfffe“Hold the B Button to run faster than\xfffenormal. Put on the Running Shoes and\xf000븀\x0000\xfffetear around to your heart's content!"\xf000븁\x0000\xfffeThese shoes will be\xfffeuseful on your journey!\xf000븁\x0000\xfffeYou and \xf000ā\x0001\x0002 will\xfffehave lots of fun!\xf000븁\x0000
+\xf000Ā\x0001\x0001's sister: Um......\xfffeI wanted to give you this.\xf000븁\x0000
+\xf000Ā\x0001\x000 received a\xfffe\xf000\xff00\x0001\x0002Town Map\xf000\xff00\x0001\x0000!
+Bianca: Why did you hand\xfffeover 2 Town Maps?\xf000븁\x0000
+\xf000Ā\x0001\x0001's sister: One of them is\xfffefor my big brother.\xf000븁\x0000
+Mom: Great!　That Town Map will help\xfffeyou out when traveling on land,\xf000븀\x0000\xfffeand on water.\xf000븁\x0000\xfffeThat map even tells\xfffeyou about every place in\xf000븀\x0000\xfffethe Unova region!\xf000븁\x0000
+Bianca: ......Ehehe.\xf000븁\x0000\xfffeI'm glad to see that\xfffelook on your face!\xf000븁\x0000\xfffeYeah!　Come and meet\xfffeme on Route 19!\xf000븁\x0000\xfffeYou need to learn how\xfffeto catch Pokemon!\xf000븁\x0000
+Mom: Have a good time!\xf000븁\x0000\xfffeGo with \xf000ā\x0001\x0002\xfffeand meet plenty of\xf000븀\x0000\xfffeother Pokemon!
+\xf000Ā\x0001\x0001's sister: Pokemon are the best!
 Bianca: おうい！\xf000븁\x0000
 Bianca: ねえねえ！\xf000븁\x0000
 どうだった？\xfffeジムリーダーとの　ポケモンしょうぶ\xf000븁\x0000\xfffeって！　それは\xfffeベーシックバッジ！\xf000븁\x0000\xfffeすごいすごーい！　ポケモンと\xfffeたびを　はじめたばかり　なのに！\xf000븁\x0000\xfffeあなたには　トレーナーの\xfffeさいのうが　あるよ　ぜったい！！\xf000븁\x0000\xfffeじゃあ　わたしからは　これ\xfffe「おんがえし」の　わざマシン　だよ！\xf000븁\x0000

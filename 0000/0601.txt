@@ -1,11 +1,11 @@
-Bianca: おうい！\xfffeこっち　だよ！\xf000븁\x0000
-Bianca: ねえねえ！\xfffeこっち　だよ！\xf000븁\x0000
-Bianca: なんだか　あのひの\xfffe１ばんどうろを　おもいだしちゃうな\xf000븁\x0000
-はーい！　それでは\xfffeせつめいを　はじめるねえ！\xf000븁\x0000\xfffeポケモンずかんの　ページはね\xfffeポケモンと　であうことで\xf000븀\x0000\xfffeじどうてきに　うまっていくの！\xf000븁\x0000\xfffeで　ポケモンを　つかまえたら\xfffeさらに　くわしい　じょうほうが\xf000븀\x0000\xfffeついか　されまーす！\xf000븁\x0000\xfffeということで　おてほん！\xf000븁\x0000\xfffeおねえさんが　じっさいに\xfffeポケモンを　つかまえて　みせるよお！\xf000븁\x0000
-Bianca: よかったあ！\xfffeポケモン　つかまったよお\xf000븁\x0000\xfffeあっ　あのね\xfffeいまの　ポイントを\xf000븀\x0000\xfffeせつめい　するね\xf000븁\x0000\xfffeまず　げんきな　ポケモンは\xfffeつかまえにくいの！　おぼえておいて\xf000븁\x0000\xfffeだから　ポケモンの　たいりょくを\xfffeへらしたほうが　いいんだよ\xf000븁\x0000\xfffeつかまえたい　ポケモンを\xfffeじぶんの　ポケモンの　わざで\xf000븀\x0000\xfffeねむらせたり　まひさせると\xf000븀\x0000\xfffeさらに　つかまえやすくなるよ！\xf000븁\x0000
-おともだちに　タウンマップを\xfffeとどけに　いくんでしょ！\xf000븁\x0000
-となりまちの　サンギタウンへは\xfffeこのまま　まっすぐ　すすめば　いいよ\xf000븁\x0000
-それじゃあ\xfffeたっくさんの　ポケモンと　であって\xf000븀\x0000\xfffeたっくさん　つかまえてねえ\xf000븁\x0000
+Bianca: Hey!\xfffeOver here!\xf000븁\x0000
+Bianca: Hey, hey!\xfffeOver here!\xf000븁\x0000
+Bianca: I still remember when I learned\xfffeabout all of this on Route 1.\xf000븁\x0000
+Yeeaah!　I'll explain it\xfffein details!\xf000븁\x0000\xfffeThe Pokédex's pages update automatically\xfffewhenever you meet a Pokémon!\xf000븁\x0000\xfffeMoreover, it's set up so that\xfffeyou obtain even more information\xf000븀\x0000\xfffewhen you catch a Pokémon!\xf000븁\x0000\xfffeTo make this clear, I'm going to\xfffedemonstrate how to catch a Pokémon!\xf000븁\x0000
+Bianca: Did you see that,\xfffejust now?\xf000븁\x0000\xfffeHere's how it goes, step by step.\xfffeFirst, reduce the Pokémon's HP!\xf000븁\x0000\xfffePokémon that still have all of\xfffetheir energy are difficult to catch.\xf000븁\x0000\xfffeIf you can, use your Pokémon's moves to\xfffemake the Pokémon you want to catch\xf000븀\x0000\xfffefall asleep. Or paralyze it!\xf000븁\x0000
+You have to go give that\xfffeTown Map to your friend!\xf000븁\x0000
+You can follow this path\xfffestraight to Sangi Town.\xf000븁\x0000
+Well I have another Pokemon to\xfffegive to a trainer.\xf000븀\x0000\xfffeSee you later!\xf000븁\x0000
 ？？？: そこの　トレーナー！！\xf000븁\x0000
 わしは　アデク！\xf000븁\x0000\xfffeポケモンと　ともにあゆむ......　その\xfffeすばらしさを　みなに　つたえておる\xf000븀\x0000\xfffeものずきな　ポケモントレーナーよ！\xf000븁\x0000
 おまえさんは......？\xf000븁\x0000\xfffe......　......　......\xfffe......　......　......\xf000븁\x0000\xfffeふむう！　ヒオウギの\xfffe\xf000Ā\x0001\x0000と　いうのか！\xf000븁\x0000
