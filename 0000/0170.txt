@@ -8,7 +8,7 @@
 Which will you look at?
 どくを　うけると\xfffeたたかっている　あいだ\xf000븀\x0000\xfffeたいりょくが　へっていきます\xf000븁\x0000\xfffeせんとうが　おわっても\xfffeどくの　ままです\xf000븁\x0000\xfffeどくけしで　なおしましょう\xf000븁\x0000
 Paralyzation lowers speed and makes a\xfffePokémon sometimes unable to use moves.\xf000븁\x0000\xfffeFollowing the battle,\xfffeparalyzation will remain.\xf000븁\x0000\xfffeHeal it with a Paralyze Heal.\xf000븁\x0000
-Sleep will make a Pokémon\xfffetemporarily unable to use moves.\xf000븁\x0000\xfffeThough it can wake up,\xfffeif sleeping when the battle ends,\xf000븀\x0000\xfffea Pokemon will stay asleep.\xf000븁\x0000\xfffeHeal it with an Awakening.\xf000븁\x0000
+Sleep will make a Pokémon\xfffetemporarily unable to use moves.\xf000븁\x0000\xfffeThough it can wake up,\xfffeif sleeping when the battle ends,\xf000븀\x0000\xfffea Pokémon will stay asleep.\xf000븁\x0000\xfffeHeal it with an Awakening.\xf000븁\x0000
 Being burned will not only lower Attack,\xfffebut steadily lower health.\xf000븁\x0000\xfffeEven after the battle ends,\xfffea burn will remain.\xf000븁\x0000\xfffeHeal it with a Burn Heal.\xf000븁\x0000
 Being frozen will make a Pokémon\xfffeunable to do anything.\xf000븁\x0000\xfffeThough it can thaw,\xfffeif frozen when the battle ends,\xf000븀\x0000\xfffea Pokémon will stay frozen.\xf000븁\x0000\xfffeHeal it with an Ice Heal.\xf000븁\x0000
 Poison
