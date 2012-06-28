@@ -1,4 +1,4 @@
-デオキシスが　いんせきに\xfffeはんのう　している……\xf000븁\x0000\xfffeつれている　デオキシスを\xfffeいんせきに　ちかづけますか？
+デオキシスが　いんせきに\xfffeはんのう　している......\xf000븁\x0000\xfffeつれている　デオキシスを\xfffeいんせきに　ちかづけますか？
 Put which Deoxys\xfffenext to the meteorite?\xf000븁\x0000
 That Pokémon doesn't\xfffereact to the meteorite.
 Eggs don't react\xfffeto the meteorite.

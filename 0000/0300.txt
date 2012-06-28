@@ -1,19 +1,19 @@
 ﻿Return to Castelia City?
-We'll be depBurghng soon.\xfffePlease prepare to board.\xf000븁\x0000
+We'll be departing soon.\xfffePlease prepare to board.\xf000븁\x0000
 Come and tell me anytime\xfffeyou're ready to return to Castelia City!
 ここに　くると　なんだか\xfffeパワーが　わいてくるんだよねー！
 おにいちゃん　しってる？\xf000븁\x0000\xfffeここで　おおがねもちが　ポケモンを\xfffeわるいヤツから　まもってたって！
 おねえちゃん　しってる？\xf000븁\x0000\xfffeここで　おおがねもちが　ポケモンを\xfffeわるいヤツから　まもってたって！
-あの　ポケモンは　どんな　きもちで\xfffeあの　へやに　いたのかの……\xf000븀\x0000\xfffeずっと　いっぴきだと　さみしいだろうに
-しょうりポケモン\xfffeビクティニ　か……\xf000븁\x0000\xfffeいまごろは　だれの　ために\xfffeその　ちからを　はっき　してるのかな？
-あ　あんたの　その　ポケモン……\xfffeしょうりポケモン　ビクティニ！？\xf000븁\x0000\xfffeなに　あんた\xfffeかって　かって　かちまくり　なの！？\xf000븀\x0000\xfffeあやかりてえ……
+あの　ポケモンは　どんな　きもちで\xfffeあの　へやに　いたのかの......\xf000븀\x0000\xfffeずっと　いっぴきだと　さみしいだろうに
+しょうりポケモン\xfffeビクティニ　か......\xf000븁\x0000\xfffeいまごろは　だれの　ために\xfffeその　ちからを　はっき　してるのかな？
+あ　あんたの　その　ポケモン......\xfffeしょうりポケモン　ビクティニ！？\xf000븁\x0000\xfffeなに　あんた\xfffeかって　かって　かちまくり　なの！？\xf000븀\x0000\xfffeあやかりてえ......
 ポケモンは　トレーナーの\xfffeめいれいに　すなおに　したがう\xf000븁\x0000\xfffeなのに　ポケモンに　わるいことを\xfffeさせようとする　ひとが　いるのよ！
-さいきんは　かんこうきゃくが\xfffeすくなくなったから　たいくつだ……\xf000븁\x0000\xfffeといっても　プラズマだんの　ような\xfffeれんちゅうは　おことわり　だけどな
-……２００ねんまえ\xfffeだいふごうが　しまを　かいとり\xf000븁\x0000\xfffeひとと　ポケモンが\xfffeじゆうに　くらせる\xf000븀\x0000\xfffeせかいを　ねがって\xf000븀\x0000\xfffeリバティガーデンとう　と　なづけました
+さいきんは　かんこうきゃくが\xfffeすくなくなったから　たいくつだ......\xf000븁\x0000\xfffeといっても　プラズマだんの　ような\xfffeれんちゅうは　おことわり　だけどな
+......２００ねんまえ\xfffeだいふごうが　しまを　かいとり\xf000븁\x0000\xfffeひとと　ポケモンが\xfffeじゆうに　くらせる\xf000븀\x0000\xfffeせかいを　ねがって\xf000븀\x0000\xfffeリバティガーデンとう　と　なづけました
 Wharf #2\xfffeBut in terms of sightseeing,\xf000븀\x0000\xfffeit's definitely Wharf #1!
 Liberty Lighthouse\xf000븁\x0000\xfffeOnly authorized personnel\xfffeare allowed entry!
 アララギ: あら？\xfffeビクティニ！\xf000븁\x0000
-アララギ: あら？\xfffeあなたの　ポケモンずかん……\xf000븁\x0000\xfffeビクティニを\xfffeつかまえたのね！！\xf000븁\x0000
-アララギ: あら？\xfffeあなたの　ポケモンずかん……\xf000븁\x0000\xfffeビクティニを\xfffeみたことが　あるのね！！\xf000븁\x0000
-ビクティニの　イッシュずかんの\xfffeばんごうが　「０」なのは\xf000븁\x0000\xfffeこの　ポケモンずかんを　もって\xfffeたびを　する　ポケモントレーナーに\xf000븁\x0000\xfffeビクティニの　しょうりを　もたらす\xfffeパワーが　わけあたえられるように……\xf000븁\x0000\xfffeそんな　ねがいが　こめられていると\xfffeわたしは　きいたことが　あるわ\xf000븁\x0000
-ポケモンと　どう　せっするか……\xf000븁\x0000\xfffeあなたが\xfffeポケモンずかんを　うめていくうちに\xf000븁\x0000\xfffeあなたなりの　こたえが　みつかること\xfffeきたい　しています！\xf000븁\x0000\xfffeそれじゃーね！\xf000븁\x0000
+アララギ: あら？\xfffeあなたの　ポケモンずかん......\xf000븁\x0000\xfffeビクティニを\xfffeつかまえたのね！！\xf000븁\x0000
+アララギ: あら？\xfffeあなたの　ポケモンずかん......\xf000븁\x0000\xfffeビクティニを\xfffeみたことが　あるのね！！\xf000븁\x0000
+ビクティニの　イッシュずかんの\xfffeばんごうが　「０」なのは\xf000븁\x0000\xfffeこの　ポケモンずかんを　もって\xfffeたびを　する　ポケモントレーナーに\xf000븁\x0000\xfffeビクティニの　しょうりを　もたらす\xfffeパワーが　わけあたえられるように......\xf000븁\x0000\xfffeそんな　ねがいが　こめられていると\xfffeわたしは　きいたことが　あるわ\xf000븁\x0000
+ポケモンと　どう　せっするか......\xf000븁\x0000\xfffeあなたが\xfffeポケモンずかんを　うめていくうちに\xf000븁\x0000\xfffeあなたなりの　こたえが　みつかること\xfffeきたい　しています！\xf000븁\x0000\xfffeそれじゃーね！\xf000븁\x0000

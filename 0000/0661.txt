@@ -1,12 +1,12 @@
 バトルけんていで　あなたの\xfffeバトルを　しんだん　しちゃいますよ！\xf000븁\x0000\xfffeいかが　いたしましょう？
 Master!! Will you\xfffechallenge the Battle Evaluator?
-ごめんなさい……\xf000븁\x0000\xfffeあなたに　バトルけんていは\xfffeまだ　はやい　かも\xf000븁\x0000\xfffeすべてのことを　おわらせて\xfffeもっと　つよくなってから\xf000븀\x0000\xfffeまた　きてちょーだい
+ごめんなさい......\xf000븁\x0000\xfffeあなたに　バトルけんていは\xfffeまだ　はやい　かも\xf000븁\x0000\xfffeすべてのことを　おわらせて\xfffeもっと　つよくなってから\xf000븀\x0000\xfffeまた　きてちょーだい
 Well, see you!
 Will you take the challenge\xfffewith Single or Double Battles?
 じゃ　さっそく　はじめましょう\xf000븁\x0000\xfffe１ど　チャレンジすると　５せん\xfffeれんぞくで　やすみなく　たたかうことに\xf000븀\x0000\xfffeなるので　きをつけて　くださいね\xf000븁\x0000\xfffeそれでは　さんかする　ポケモンを\xfffeえらんで　ちょーだいな\xf000븁\x0000
 Saving the game.\xfffePlease don't turn off the power.
 Now the Battle Evaluation begins!\xfffeCome inside!\xf000븁\x0000
-おつかれさま！\xf000븁\x0000\xfffeでは　さっそく　バトルけんていの\xfffeけっかを　おつたえしますよ\xf000븁\x0000\xfffeあなたの　けんていけっかは……\xf000븁\x0000
+おつかれさま！\xf000븁\x0000\xfffeでは　さっそく　バトルけんていの\xfffeけっかを　おつたえしますよ\xf000븁\x0000\xfffeあなたの　けんていけっかは......\xf000븁\x0000
 What the...?! MASTER Rank!!!\xfffeFantastic! I must study under you!
 Your result was Elite Rank!!\xfffeBrag about it to your friends!
 Your result was Hyper Rank!\xfffeYou're well-studied, aren't you?
@@ -16,7 +16,7 @@ Your result was Novice Rank!\xfffeTry a little harder, okay?
 Your result was Beginner Rank!\xfffeStart from the basics, eh?
 まってましたよ！\xf000븁\x0000\xfffeダウンロードした　シングルバトルの\xfffeけんていに　チャレンジ　しちゃう？
 Will you download\xfffea special Battle Evaluation?
-ダウンロードする　ものが\xfffeみあたらない　ですね……\xf000븁\x0000\xfffeどうする？
+ダウンロードする　ものが\xfffeみあたらない　ですね......\xf000븁\x0000\xfffeどうする？
 とくべつな　シングルバトルの\xfffeバトルけんていを　ダウンロードしました！\xf000븁\x0000\xfffeチャレンジは　いちどきりなので\xfffeでんげんを　とちゅうで　きらずに\xf000븀\x0000\xfffeさいごまで　たたかってくださいな\xf000븁\x0000
 とくべつな　ダブルバトルの\xfffeバトルけんていを　ダウンロードしました！\xf000븁\x0000\xfffeチャレンジは　いちどきり　なので\xfffeでんげんを　とちゅうで　きらずに\xf000븀\x0000\xfffeさいごまで　たたかってくださいな\xf000븁\x0000
 Challenge it now?

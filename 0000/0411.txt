@@ -11,6 +11,6 @@ Pulled in the rod too late!\xf000븁\x0000
 You can't warp into\xfffethe Entralink here!
 You can't warp while in the middle\xfffeof a mission in the Entralink.
 You're currently connected to someone,\xfffeso you can't warp to the Entralink.
-……ハイリンクで　おこなわれている\xfffeミッションに　さんかします！\xf000븁\x0000\xfffeしゅうりょうごは　ここに　もどります\xf000븁\x0000\xfffeミッションに　さんかするため\xfffeあいてのハイリンクに　ワープした！\xf000븁\x0000
+......ハイリンクで　おこなわれている\xfffeミッションに　さんかします！\xf000븁\x0000\xfffeしゅうりょうごは　ここに　もどります\xf000븁\x0000\xfffeミッションに　さんかするため\xfffeあいてのハイリンクに　ワープした！\xf000븁\x0000
 Connection dropped.
 ふたりで　いるときは\xfffeハイリンクに　ワープできません

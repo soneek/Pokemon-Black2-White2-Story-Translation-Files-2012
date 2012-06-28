@@ -1,9 +1,9 @@
 Hey \xf000Ā\x0001\x0000!\xf000븁\x0000
 \xf000Ā\x0001\x0001: Yo!\xfffeGot your Pokémon yet?\xf000븁\x0000\xfffeこの　あたりには\xfffeポケモントレーナーが　いなくて\xf000븀\x0000\xfffeオレも　たいくつ　なんだよ！\xf000븁\x0000
-えっ？\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000
+えっ？\xf000븁\x0000\xfffe......　......　......\xfffe......　......　......\xf000븁\x0000
 ベルって　ひとが\xfffeポケモンを　くれる？　ほんとかよ\xf000븁\x0000
-\xf000Ā\x0001\x0001のいもうと: \xf000Ā\x0001\x0000さん\xf000븁\x0000\xfffe……ポケモンを　もらったら\xfffeぜったいに　たいせつに　してあげてね\xf000븁\x0000
-\xf000Ā\x0001\x0001: ……そうだよな\xf000븁\x0000
+\xf000Ā\x0001\x0001のいもうと: \xf000Ā\x0001\x0000さん\xf000븁\x0000\xfffe......ポケモンを　もらったら\xfffeぜったいに　たいせつに　してあげてね\xf000븁\x0000
+\xf000Ā\x0001\x0001: ......そうだよな\xf000븁\x0000
 よし！　オマエの\xfffeポケモンを　もらいに　いくぞ！\xf000븁\x0000\xfffeオレには　やることが　ある！\xf000븁\x0000\xfffeそのために\xfffeあいぼうの　ポケモン　いがいにも\xf000븀\x0000\xfffeたよれる　にんげんが　いるんだよ\xf000븁\x0000\xfffeそう！　オマエだよ　オマエ！\xfffeオマエ　センスが　ありそうだからな\xf000븁\x0000
 さきに　かえってな\xf000븁\x0000
 はーい！　おにいちゃん\xf000븁\x0000\xfffeじゃーねー　\xf000Ā\x0001\x0000さん\xf000븁\x0000
@@ -26,7 +26,7 @@ Hey \xf000Ā\x0001\x0000!\xf000븁\x0000
 \xf000Ā\x0001\x0001: おいッ！\xfffeオマエ　はんこうき　かよ\xf000븁\x0000\xfffeソイツ！\xfffeソイツが　\xf000Ā\x0001\x0000　です
 Bianca: はじめまして！\xfffeあえて　よかった！\xf000븁\x0000\xfffeでは　あなたに　おたずね　します\xf000븁\x0000\xfffeポケモンずかん　かんせいに\xfffeきょうりょく　してくれますか？
 ありがとう！\xf000븁\x0000\xfffeあなたの　おかげで　アララギはかせの\xfffeけんきゅうが　はかどります！\xf000븁\x0000\xfffeそれになにより　ポケモンずかんを\xfffeうめていくのって　たのしいんだよ！
-そ　そんなあ……\xf000븁\x0000\xfffeいっ　いまのは\xfffeあたしの　ききまちがい　ですよね\xf000븁\x0000\xfffeあなたに　おたずね　します\xf000븁\x0000\xfffeポケモンずかん　かんせいに\xfffeきょうりょく　してくれますか？
+そ　そんなあ......\xf000븁\x0000\xfffeいっ　いまのは\xfffeあたしの　ききまちがい　ですよね\xf000븁\x0000\xfffeあなたに　おたずね　します\xf000븁\x0000\xfffeポケモンずかん　かんせいに\xfffeきょうりょく　してくれますか？
 \xf000Ā\x0001\x0001: なッ！\xfffeベルって　ひと　いたんだろ\xf000븁\x0000\xfffeって　オマエ\xfffeポケモン　もらってこいよッ！
 \xf000Ā\x0001\x0001: なッ！\xfffeベルって　ひと　いたんだろ\xf000븁\x0000\xfffeって　オマエ\xfffeポケモン　もらってこいよッ！\xf000븁\x0000
 Bianca: それでは\xf000븁\x0000\xfffeじゃじゃーん！！\xf000븁\x0000\xfffeこのなかに　あなたの\xfffeパートナーとなる　ポケモンがいるの！\xf000븁\x0000
@@ -51,15 +51,15 @@ Bianca: This will be the first\xfffeentry in your Pokédex!\xf000븁\x0000
 Bianca: The Pokédex...!\xf000븁\x0000\xfffeIt's a high-tech device\xfffethat records data about every\xf000븀\x0000\xfffePokémon you meet!\xf000븁\x0000\xfffeTake the Pokédex with you\xfffeeverywhere you go.\xf000븁\x0000\xfffeYou can try to meet every Pokémon\xfffein the Unova region.\xf000븁\x0000\xfffeIt's a request from\xfffeProfessor Juniper herself.
 それにしても\xfffeアララギはかせ　ったら！\xf000븁\x0000\xfffeふつうは　オーケーの\xfffeへんじを　もらってから\xf000븀\x0000\xfffeしゅっぱつ　させるよねえ？
 \xf000Ā\x0001\x0001: おーい\xfffeいつまで　またせるんだよ！\xf000븁\x0000\xfffeって　オマエ！\xf000븁\x0000
-そいつが\xfffeオマエの　パートナー！\xf000븁\x0000\xfffe……よかったな\xf000븁\x0000\xfffeいもうとも　いってたけど　ポケモンは\xfffeぜったい　たいせつに　しろよな！\xf000븁\x0000\xfffeで　オマエ\xfffeもってる　ソレ　なんだよ？\xf000븁\x0000
+そいつが\xfffeオマエの　パートナー！\xf000븁\x0000\xfffe......よかったな\xf000븁\x0000\xfffeいもうとも　いってたけど　ポケモンは\xfffeぜったい　たいせつに　しろよな！\xf000븁\x0000\xfffeで　オマエ\xfffeもってる　ソレ　なんだよ？\xf000븁\x0000
 Bianca: それは　ポケモンずかん　だよ\xf000븁\x0000
-\xf000Ā\x0001\x0001: ……オレにも\xfffeポケモンずかんを　ください\xf000븁\x0000\xfffeオレは　つよくなりたい！\xf000븁\x0000\xfffeポケモンずかんが　あれば\xfffeポケモンに　くわしく　なれる……\xf000븀\x0000\xfffeつまり　つよくなれるだろッ！\xf000븁\x0000
+\xf000Ā\x0001\x0001: ......オレにも\xfffeポケモンずかんを　ください\xf000븁\x0000\xfffeオレは　つよくなりたい！\xf000븁\x0000\xfffeポケモンずかんが　あれば\xfffeポケモンに　くわしく　なれる......\xf000븀\x0000\xfffeつまり　つよくなれるだろッ！\xf000븁\x0000
 Bianca: あなた　は？\xf000븁\x0000
 オレは　\xf000Ā\x0001\x0001！\xf000븁\x0000\xfffeだいじな　ものを　さがすため\xfffeあいぼうの　ポケモンと\xf000븀\x0000\xfffeイッシュちほうを　たび　する！\xf000븁\x0000
 Bianca: うん　そうだね！\xf000븁\x0000\xfffeどんな　りゆうか　わからないけど\xfffeたびに　でることは　いいことだもの！\xf000븁\x0000\xfffeちょうど　もうひとつ\xfffeポケモンずかんも　あるし\xf000븁\x0000\xfffe２ねんまえに　くらべて　ポケモンの\xfffeぶんぷも　かわったみたいだから\xf000븀\x0000\xfffeみんなで　しらべたほうが　いいもんね\xf000븁\x0000
 Bianca: ねえねえ\xf000븁\x0000\xfffeふたりとも　ポケモンが　いるんでしょ\xfffeポケモンしょうぶ　してみないの？
 \xf000Ā\x0001\x0001: さあて！　オマエが\xfffeどれだけの　トレーナーか　たしかめる！\xf000븁\x0000\xfffeオレが　タマゴから\xfffeそだてた　\xf000ā\x0001\x0003　でッ！\xf000븁\x0000
-\xf000Ā\x0001\x0001: ……まけたか\xfffeやせいの　ポケモンとは　ちがうな！\xf000븁\x0000\xfffeまあ　いいや\xfffeオマエが　たよれる　トレーナーだと\xf000븀\x0000\xfffeわかっただけで　じゅうぶん！\xf000븁\x0000\xfffeじゃ　オレ　さきにいくからな！\xfffeオマエ　もっと　つよくなっておけッ！\xf000븁\x0000
+\xf000Ā\x0001\x0001: ......まけたか\xfffeやせいの　ポケモンとは　ちがうな！\xf000븁\x0000\xfffeまあ　いいや\xfffeオマエが　たよれる　トレーナーだと\xf000븀\x0000\xfffeわかっただけで　じゅうぶん！\xf000븁\x0000\xfffeじゃ　オレ　さきにいくからな！\xfffeオマエ　もっと　つよくなっておけッ！\xf000븁\x0000
 \xf000Ā\x0001\x0001: はじめての　しょうぶで\xfffeそこまで　たたかえれば　じゅうぶん！\xf000븁\x0000\xfffeじゃ　オレ　さきにいくからな！\xfffeオマエ　もっと　つよくなっておけよッ！\xf000븁\x0000
 Bianca: どっちの ポケモンも\xfffeすごく　がんばったよね！\xf000븁\x0000\xfffeだけど　そのコは　まだ　よわいから\xfffeたたかわせて　そだててあげないと\xf000븁\x0000
 さて！　しょうぶを　して\xfffeきずついた　ポケモンのため\xf000븁\x0000\xfffeポケモンセンターに　いって\xfffeげんきに　してあげようよ！\xf000븁\x0000
@@ -68,19 +68,19 @@ Bianca: ポケモンセンターは\xfffeどこの　まちでも　いっしょ
 おっと！\xfffeわすれるところでした\xf000븁\x0000\xfffeほら！　これこれ！\xfffeランニングシューズ！\xf000븁\x0000
 \xf000Ā\x0001\x0000 received\xfffethe \xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
 ママ: よし　ぴったり！\xfffeじゃ　せつめいしょを　よむわね\xf000븁\x0000\xfffe「ランニングシューズは\xfffe　Ｂボタンを　おすことで　いままでより\xf000븀\x0000\xfffe　はやく　はしれるように　なります！\xf000븁\x0000\xfffe　ランニングシューズを　はいて\xfffe　おもいっきり　はしりまくろう！」\xf000븁\x0000\xfffeこれで　あなたと　\xf000ā\x0001\x0002\xfffeどこまでも　かけぬけられるわね！\xf000븁\x0000
-\xf000Ā\x0001\x0001のいもうと: あの……\xfffeあたしからは　コレを\xf000븁\x0000
+\xf000Ā\x0001\x0001のいもうと: あの......\xfffeあたしからは　コレを\xf000븁\x0000
 \xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002タウンマップ\xf000\xff00\x0001\x0000を　もらった！
 Bianca: ねえねえ　その　タウンマップ\xfffeどうして　２つも　あるの？\xf000븁\x0000
 \xf000Ā\x0001\x0001のいもうと: １つは\xfffeおにいちゃんに　わたしてほしいの\xf000븁\x0000
 ママ: そうね！　うみを　わたるまで\xfffeいっぽんみち　とはいえ\xf000븀\x0000\xfffeタウンマップが　あると　べんりよね\xf000븁\x0000\xfffeだって　タウンマップを　つかえば\xfffeイッシュちほうの　ようすも\xf000븀\x0000\xfffeばっちり　まるわかり　だもんね！\xf000븁\x0000
-Bianca: ……エヘヘ\xf000븁\x0000\xfffeなんだか　みてる\xfffeこっちまで　うれしくなっちゃうね！\xf000븁\x0000\xfffeさあ！　つぎに　むかうのは\xfffe１９ばんどうろ　だよ！\xf000븁\x0000\xfffeポケモンの　つかまえかたを\xfffeばっちり　おしえてあげるからね！\xf000븁\x0000
+Bianca: ......エヘヘ\xf000븁\x0000\xfffeなんだか　みてる\xfffeこっちまで　うれしくなっちゃうね！\xf000븁\x0000\xfffeさあ！　つぎに　むかうのは\xfffe１９ばんどうろ　だよ！\xf000븁\x0000\xfffeポケモンの　つかまえかたを\xfffeばっちり　おしえてあげるからね！\xf000븁\x0000
 ママ: いってらっしゃい！\xf000븁\x0000\xfffe\xf000ā\x0001\x0002と　いっしょに\xfffeいろんな　ポケモン　いろんな　ひとを\xf000븀\x0000\xfffeその　めで　みてらっしゃい！
 \xf000Ā\x0001\x0001のいもうと: ポケモンと\xfffeなかよく　してあげてね！
 Bianca: おうい！\xf000븁\x0000
 Bianca: ねえねえ！\xf000븁\x0000
 どうだった？\xfffeジムリーダーとの　ポケモンしょうぶ\xf000븁\x0000\xfffeって！　それは\xfffeベーシックバッジ！\xf000븁\x0000\xfffeすごいすごーい！　ポケモンと\xfffeたびを　はじめたばかり　なのに！\xf000븁\x0000\xfffeあなたには　トレーナーの\xfffeさいのうが　あるよ　ぜったい！！\xf000븁\x0000\xfffeじゃあ　わたしからは　これ\xfffe「おんがえし」の　わざマシン　だよ！\xf000븁\x0000
 おんがえしを　おぼえた　ポケモンは\xfffeトレーナーに　なつくほどに\xf000븀\x0000\xfffeわざの　いりょくが　アップするんだよ\xf000븁\x0000
-それにしても　チェレンったら……\xf000븁\x0000
+それにしても　チェレンったら......\xf000븁\x0000
 チェレン: ベル！\xf000븁\x0000\xfffe２ねんぶり　だね\xf000븁\x0000
 Bianca: うひゃあ！\xf000븁\x0000
 どっ　どうしたの？\xf000븁\x0000
@@ -89,7 +89,7 @@ Bianca: うひゃあ！\xf000븁\x0000
 Bianca: あっ　あたしも！\xf000븁\x0000
 いっしょに　アララギはかせも\xfffeとうろく　したよ！\xf000븁\x0000
 ライブキャスターが　なっている！
-\xf000Ā\x0001\x0000 connected\xfffeto the Live Caster.\xf000븁\x0000
+\xf000Ā\x0001\x0000 connected\xfffeto the Xtransceiver.\xf000븁\x0000
 Bianca: ね　\xf000Ā\x0001\x0000！\xfffeアララギはかせ　かっこいいでしょ！\xf000븁\x0000\xfffeライブキャスターで　はなせば\xfffeポケモンずかんの　かんせいぐあいを\xf000븀\x0000\xfffeひょうか　してくれたり\xf000븁\x0000\xfffeポケモンの　しんかに　ついて\xfffeいろいろ　おしえてくれるよ！\xf000븁\x0000\xfffeもちろん　あたしたちも！\xf000븁\x0000
 あなたの　ポケモンが\xfffeどれだけ　なついているか\xf000븀\x0000\xfffeあたしが　おしえてあげるね！！\xf000븁\x0000
 チェレン: そうだね\xf000븁\x0000\xfffeぼくは　ポケモンの　とくせいや\xfffeタイプの　あいしょうに　ついて\xf000븀\x0000\xfffeしっていることを　おしえてあげるよ\xf000븁\x0000
@@ -107,22 +107,22 @@ Is it okay to limit\xfffethe C-Gear's functionality?
 ほら！　Ｃギアが　きどうして\xfffeがめんが　あらわれたでしょ！\xf000븁\x0000\xfffeその　がめんの　みぎしたに　ある\xfffe？マークに　タッチすれば\xf000븀\x0000\xfffeＣギアの　せつめいが　よめるよ\xf000븁\x0000\xfffeで　どうするのお？\xf000븁\x0000\xfffeサンギタウンを　こえたさきの\xfffeタチワキシティなら\xf000븀\x0000\xfffeべつの　ポケモンジムも　あるけど？
 Ｃギアの　でんげんを　いれるなら\xfffeがめん　みぎしたの\xf000븀\x0000\xfffeでんげんマークを　タッチするんだよ！\xf000븁\x0000\xfffeそして　でんげんを　いれたあとは\xfffeがめんの　みぎしたに　ある\xf000븀\x0000\xfffe？マークに　タッチすれば\xf000븀\x0000\xfffeＣギアの　せつめいが　よめるよ！\xf000븁\x0000\xfffeで　どうするのお？\xf000븁\x0000\xfffeサンギタウンを　こえたさきの\xfffeタチワキシティなら\xf000븀\x0000\xfffeべつの　ポケモンジムも　あるけど？
 \xf000Ā\x0001\x0001: おい！\xfffeコイツが　はなしたいってさ\xf000븁\x0000
-\xf000Ā\x0001\x0001のいもうと: ……あのね\xfffe\xf000Ā\x0001\x0000さん\xf000븁\x0000\xfffeあたしの　チョロネコ……\xf000븁\x0000\xfffeしんか　しちゃってたけど\xfffeみつけてくれて　ありがとう！\xf000븁\x0000
+\xf000Ā\x0001\x0001のいもうと: ......あのね\xfffe\xf000Ā\x0001\x0000さん\xf000븁\x0000\xfffeあたしの　チョロネコ......\xf000븁\x0000\xfffeしんか　しちゃってたけど\xfffeみつけてくれて　ありがとう！\xf000븁\x0000
 \xf000Ā\x0001\x0001: まだ　あるんだろ？\xf000븁\x0000
-\xf000Ā\x0001\x0001のいもうと: ……あのね\xfffe\xf000Ā\x0001\x0000さん\xf000븁\x0000\xfffeここんとこね\xfffeポケモンの　ゆめを　みるの\xf000븀\x0000\xfffeゾロアーク　って　ポケモンの……\xf000븁\x0000\xfffeなんか　\xf000Ā\x0001\x0000さんの\xfffeなまえを　よんでいるんだよ\xf000븁\x0000
+\xf000Ā\x0001\x0001のいもうと: ......あのね\xfffe\xf000Ā\x0001\x0000さん\xf000븁\x0000\xfffeここんとこね\xfffeポケモンの　ゆめを　みるの\xf000븀\x0000\xfffeゾロアーク　って　ポケモンの......\xf000븁\x0000\xfffeなんか　\xf000Ā\x0001\x0000さんの\xfffeなまえを　よんでいるんだよ\xf000븁\x0000
 \xf000Ā\x0001\x0001: よく　わかんないけど\xfffeはなしを　きくと　どうやら\xf000븁\x0000\xfffeその　ゆめのなかの　ゾロアーク\xfffeチャンピオンロードに　いるらしいんだ\xf000븁\x0000\xfffeいいたいことは　それだけ\xfffeじゃーな\xf000븁\x0000
 あっ　わすれてた\xf000븁\x0000\xfffeチャンピオン　おめでとな！\xf000븁\x0000\xfffeオレの　いったとおりだったな\xfffeオマエには　センスが　あるってッ！\xf000븁\x0000
 パートナーである　ポケモンを\xfffeたたかわせるのが　ポケモントレーナー\xf000븁\x0000\xfffeそのなかでも　とびっきり　つよいのが\xfffeジムリーダー　なんだってね！
 ジムリーダーの　チェレンさんってね\xf000븁\x0000\xfffeすうねんまえ　ポケモンと　ともに\xfffeイッシュちほうを　めぐったそうよ
 トレーナーズスクールに\xfffeはやく　はいりたいなー\xf000븁\x0000\xfffeポケモンのこと\xfffeいろいろ　しりたいんだよねー
 オレ　ポケモンのこと　くわしいよ！\xf000븁\x0000\xfffeだって　トレーナーズスクールで\xfffeいろいろ　おしえてもらったもん！
-みはらしだい　からの　けしき……\xfffeめのまえに　ひろがる　１９ばんどうろ\xf000븀\x0000\xfffeあれは　ヒオウギの　じまんだな
+みはらしだい　からの　けしき......\xfffeめのまえに　ひろがる　１９ばんどうろ\xf000븀\x0000\xfffeあれは　ヒオウギの　じまんだな
 かがくの　ちからって　すげー！\xf000븁\x0000\xfffeいまなら　つうしんで\xfffe１００にん　どうじに　あそぶことが\xf000븀\x0000\xfffeできるんだってよー！
-ひとは　たびをして　おとなになる……\xfffeわたしも　このまちを　でようかなあ？
+ひとは　たびをして　おとなになる......\xfffeわたしも　このまちを　でようかなあ？
 やせいの　ポケモンは\xfffeひとを　おそうことも　あるの！\xf000븁\x0000\xfffeでもね　そばに　いれば\xfffeなかよくなれるのも　ポケモンよ
 あなたの　ママなら\xfffeポケモンを　やすませて\xf000븀\x0000\xfffeげんきに　するのも　じょうずよね！
-もしもーし\xf000븁\x0000\xfffeHello?\xf000븁\x0000\xfffeProfessor Juniper! It's\xfffebeen a while, huh?\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffeAh!　You want to give a Pokedex...\xfffeTo my child?\xf000븁\x0000\xfffeNot at all!　I'd love to let them\xfffego on a journey!\xf000븁\x0000
-Would should I do?　そのコ　ってば\xfffeもう　こっちに　きてるの？\xf000븁\x0000\xfffeなによそれ　あいかわらずね\xfffeきめたら　すぐに　うごくんだから\xf000븁\x0000\xfffeうん！　ベルちゃんね！\xfffeおおきな　みどりの　ぼうし　っと\xf000븁\x0000\xfffeはいはい\xfffeだいじょうぶ！　だいじょうぶ！\xf000븁\x0000
+Hello.\xf000븁\x0000\xfffeWho am I speaking to?\xf000븁\x0000\xfffeProfessor Juniper! It's\xfffebeen a while, huh?\xf000븁\x0000\xfffe...　... ...\xfffe...\xf000븁\x0000\xfffeAh!　You want to give a Pokedex...\xfffeTo my child?\xf000븁\x0000\xfffeNot at all!　I'd love to let them\xfffego on a journey!\xf000븁\x0000
+What should I do?　Oh, she's\xfffealready in town?\xf000븁\x0000\xfffeI'd better hurry and\xfffeget them out there then.\xf000븁\x0000\xfffeAh!　Her name is Bianca! She's\xfffewearing a big green hat.\xf000븁\x0000\xfffeYeah, yeah I got it!\xfffeNo problem!\xf000븁\x0000
 ここは　ヒオウギシティ\xfffeさらなる　はってんを　いみする　まち
 \xf000Ā\x0001\x0000's House
 このさき　ヒオウギみはらしだい\xfffeひろがる　イッシュの　けしき

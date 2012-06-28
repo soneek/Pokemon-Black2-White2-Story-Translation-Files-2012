@@ -3,7 +3,7 @@
 それは　がくしゅうそうち！\xf000븁\x0000\xfffeがくしゅうそうちを　もたせた\xfffeポケモンは　たたかわなくても\xf000븀\x0000\xfffeけいけんちを　わけてもらえるよ！\xf000븁\x0000\xfffeまだ　よわい　ポケモンを\xfffeそだてるのに　やくだつかもね！\xf000븁\x0000
 わたしは　おそうじおじさん♪\xfffeきれい　きれいに　したいのよ♪\xf000븁\x0000
 いらっしゃいませ！\xf000븁\x0000\xfffeエレベータを　おつかいに　なるなら\xfffeとびら　もしくは\xf000븀\x0000\xfffeよこの　スイッチを　おしてください
-いやあ……　いつも　ポケモンの\xfffeわざ「さわぐ」で　おこされて\xf000븀\x0000\xfffeちょいと　ボロボロ　なんです\xf000븁\x0000\xfffeでも　おこしてくれる　かのじょのため\xfffeきょうも　はりきって　がんばりますよ！
+いやあ......　いつも　ポケモンの\xfffeわざ「さわぐ」で　おこされて\xf000븀\x0000\xfffeちょいと　ボロボロ　なんです\xf000븁\x0000\xfffeでも　おこしてくれる　かのじょのため\xfffeきょうも　はりきって　がんばりますよ！
 きみの　もってる　ソレって\xfffeポケモンずかん　でしょ！\xf000븁\x0000\xfffeへえ！　すっごいじゃん！\xfffeポケモンを　あつめてるんだ！\xf000븁\x0000\xfffeわかった！\xfffeあたしも　てつだうね\xf000븁\x0000\xfffeねーねー　さいしょに　えらんだ\xfffeポケモンは　なーにー？
 ツタージャね！\xfffeじゃあ　これを　あげる！\xf000븁\x0000\xfffeポケモンに　もたせると　くさタイプの\xfffeわざの　いりょくが　あがるんだ！\xf000븁\x0000
 ミジュマルね！\xfffeじゃあ　これを　あげる！\xf000븁\x0000\xfffeポケモンに　もたせると　みずタイプの\xfffeわざの　いりょくが　あがるんだ！\xf000븁\x0000
@@ -21,4 +21,4 @@ If you wanna tell me,\xfffecome back later!
 レッツ　トライ　ヒウンラリー！\xfffeバトルカンパニー　オーケー！！
 バトルカンパニーは　ポケモンと\xfffeトレーナーのための　どうぐを\xf000븀\x0000\xfffeいろいろ　かいはつ　してるー！
 This is the Battle Company.\xfffeWe research and develop items!
-Burgh signs his name\xfffein the Cressers of his paintings.
+Burgh signs his name\xfffein the corners of his paintings.
