@@ -1,12 +1,12 @@
 Hey \xf000Ā\x0001\x0000!\xf000븁\x0000
-\xf000Ā\x0001\x0001: Yo!\xfffeGot your Pokémon yet?\xf000븁\x0000\xfffeこの　あたりには\xfffeポケモントレーナーが　いなくて\xf000븀\x0000\xfffeオレも　たいくつ　なんだよ！\xf000븁\x0000
-えっ？\xf000븁\x0000\xfffe......　......　......\xfffe......　......　......\xf000븁\x0000
-ベルって　ひとが\xfffeポケモンを　くれる？　ほんとかよ\xf000븁\x0000
-\xf000Ā\x0001\x0001のいもうと: \xf000Ā\x0001\x0000さん\xf000븁\x0000\xfffe......ポケモンを　もらったら\xfffeぜったいに　たいせつに　してあげてね\xf000븁\x0000
-\xf000Ā\x0001\x0001: ......そうだよな\xf000븁\x0000
-よし！　オマエの\xfffeポケモンを　もらいに　いくぞ！\xf000븁\x0000\xfffeオレには　やることが　ある！\xf000븁\x0000\xfffeそのために\xfffeあいぼうの　ポケモン　いがいにも\xf000븀\x0000\xfffeたよれる　にんげんが　いるんだよ\xf000븁\x0000\xfffeそう！　オマエだよ　オマエ！\xfffeオマエ　センスが　ありそうだからな\xf000븁\x0000
-さきに　かえってな\xf000븁\x0000
-はーい！　おにいちゃん\xf000븁\x0000\xfffeじゃーねー　\xf000Ā\x0001\x0000さん\xf000븁\x0000
+\xf000Ā\x0001\x0001: Yo!\xfffeGot your Pokémon yet?\xf000븁\x0000\xfffeYou already know how boring it is\xfffeto live in this city and not\xf000븀\x0000\xfffebe a Pokemon trainer!\xf000븁\x0000
+Huh?\xf000븁\x0000\xfffe......　......　......\xfffe......　......　......\xf000븁\x0000
+Someone named Bianca is going\xfffeto give you your Pokemon? No joke?\xf000븁\x0000
+\xf000Ā\x0001\x0001's sister: \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffe......Take good care of your\xfffePokemon after you get it.\xf000븁\x0000
+\xf000Ā\x0001\x0001: ......Right.xf000븁\x0000
+Alright!　You have to go\xfffeget your Pokemon!\xf000븁\x0000\xfffeオレには　やることが　ある！\xf000븁\x0000\xfffeA human needs to have\xfffehave a Pokemon to be able to depend\xf000븀\x0000\xfffeon in times of need.\xf000븁\x0000\xfffeそう！　オマエだよ　オマエ！\xfffeオマエ　センスが　ありそうだからな\xf000븁\x0000
+Head on home.\xf000븁\x0000
+Yes big brother!\xf000븁\x0000\xfffeBye \xf000Ā\x0001\x0000!\xf000븁\x0000
 \xf000Ā\x0001\x0001: Alright!\xfffeLet's go find Bianca!!
 \xf000Ā\x0001\x0001: Hey!\xfffeHave you checked the hilltop?
 \xf000Ā\x0001\x0001: それにしても\xf000븁\x0000\xfffeポケモンを　もらえるなんて\xfffeすごい　ラッキーだな　オマエ！
@@ -15,21 +15,21 @@ Hey \xf000Ā\x0001\x0000!\xf000븁\x0000
 \xf000Ā\x0001\x0001: まちなッ！\xf000븁\x0000\xfffeさっきまで　ポケセンに　いたけど\xfffeそれっぽい　ひとは　いなかったって\xf000븁\x0000
 \xf000Ā\x0001\x0001: トレーナーズスクールは\xfffeまだ　できたばっかり！\xf000븁\x0000\xfffeせんせい　というか\xfffeジムリーダーが　くるまで\xf000븀\x0000\xfffeだれも　はいれないぜッ！\xf000븁\x0000
 \xf000Ā\x0001\x0001: そっちは　１９ばんどうろ\xf000븁\x0000\xfffeまちじゅう　さがして　いなかったら\xfffeあとで　オレが　みてやるよ\xf000븁\x0000\xfffeオレには　あいぼうの\xfffeポケモンが　いるからなッ！\xf000븁\x0000
-\xf000Ā\x0001\x0001: なるほどなッ！\xf000븁\x0000\xfffeヒオウギといえば　たかだい\xf000븁\x0000\xfffeベルって　ひとも　きっと\xfffeたかだいで　けしきを　みているはずッ\xf000븁\x0000\xfffeさあ！\xfffeポケモン　もらってこいよ！\xf000븁\x0000
-\xf000Ā\x0001\x0001: オレの　よみに\xfffeまちがい　ないってッ！
-\xf000Ā\x0001\x0001: オレの　よみに\xfffeまちがい　ないってッ！\xf000븁\x0000
-???: きれい　だよねえ！\xf000븁\x0000
-ねえねえ\xfffeあなたも　そう　おもうでしょ？\xf000븁\x0000
-あっ\xfffeあたしは　ベル！\xf000븁\x0000\xfffeポケモンはかせ　である\xfffeアララギはかせの　じょしゅ　です\xf000븁\x0000\xfffeでね　ひとを　さがしているんだけど\xfffe\xf000Ā\x0001\x0000　って　ひと　しってる？
-って！\xfffeあなた　\xf000Ā\x0001\x0000くん！\xf000븁\x0000\xfffeうわー\xfffeきいてた　とおり　だよ！\xf000븁\x0000
-って！\xfffeあなた　\xf000Ā\x0001\x0000さん！\xf000븁\x0000\xfffeうわー\xfffeきいてた　とおり　だよ！\xf000븁\x0000
+\xf000Ā\x0001\x0001: Look!\xf000븁\x0000\xfffeThere's someone on the hill.\xf000븁\x0000\xfffeThat looks like it\xfffecould be Bianca.\xf000븁\x0000\xfffeCome on!\xfffeGo get your Pokemon!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Oh no. You're\xfffenot leaving yet!
+\xf000Ā\x0001\x0001: Oh no. You're\xfffenot leaving yet!\xf000븁\x0000
+???: This view is spectacular!\xf000븁\x0000
+Wouldn't you agree?\xf000븁\x0000
+Oh!\xfffeI'm Bianca!\xf000븁\x0000\xfffeI'm Professor Juniper's assistant\xfffewhen it comes to Pokemon.\xf000븁\x0000\xfffeI'm looking for somebody that lives here.\xfffeDo you know anyone named \xf000Ā\x0001\x0000?
+Ah!\xfffeYou're \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWow, you're\xfffejust as I heard!\xf000븁\x0000
+Ah!\xfffeYou're \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWow, you're\xfffejust as I heard!\xf000븁\x0000
 \xf000Ā\x0001\x0001: おいッ！\xfffeオマエ　はんこうき　かよ\xf000븁\x0000\xfffeソイツ！\xfffeソイツが　\xf000Ā\x0001\x0000　です
-Bianca: はじめまして！\xfffeあえて　よかった！\xf000븁\x0000\xfffeでは　あなたに　おたずね　します\xf000븁\x0000\xfffeポケモンずかん　かんせいに\xfffeきょうりょく　してくれますか？
-ありがとう！\xf000븁\x0000\xfffeあなたの　おかげで　アララギはかせの\xfffeけんきゅうが　はかどります！\xf000븁\x0000\xfffeそれになにより　ポケモンずかんを\xfffeうめていくのって　たのしいんだよ！
-そ　そんなあ......\xf000븁\x0000\xfffeいっ　いまのは\xfffeあたしの　ききまちがい　ですよね\xf000븁\x0000\xfffeあなたに　おたずね　します\xf000븁\x0000\xfffeポケモンずかん　かんせいに\xfffeきょうりょく　してくれますか？
+Bianca: I'm pleased!\xfffeNice to meet you!\xf000븁\x0000\xfffeI have to ask you something.\xf000븁\x0000\xfffeWould you want to fill up\xfffethe pages in the Pokedex?
+Thank you!\xf000븁\x0000\xfffeWith your help, Professor Juniper will\xfffe be able to do more research!\xf000븁\x0000\xfffeFilling up the Pokedex will\xfffebe lots of fun!
+Hmm......\xf000븁\x0000\xfffeYou must've heard me\xfffeincorrectly.\xf000븁\x0000\xfffeI'll ask it again.\xf000븁\x0000\xfffeWould you want to fill up\xfffethe pages in the Pokedex?
 \xf000Ā\x0001\x0001: なッ！\xfffeベルって　ひと　いたんだろ\xf000븁\x0000\xfffeって　オマエ\xfffeポケモン　もらってこいよッ！
 \xf000Ā\x0001\x0001: なッ！\xfffeベルって　ひと　いたんだろ\xf000븁\x0000\xfffeって　オマエ\xfffeポケモン　もらってこいよッ！\xf000븁\x0000
-Bianca: それでは\xf000븁\x0000\xfffeじゃじゃーん！！\xf000븁\x0000\xfffeこのなかに　あなたの\xfffeパートナーとなる　ポケモンがいるの！\xf000븁\x0000
+Bianca: Alright.\xf000븁\x0000\xfffeTa-da!\xf000븁\x0000\xfffeThese are the Pokemon that\xfffecould become your partner!\xf000븁\x0000
 ほのおタイプの　ポケモン\xfffe「\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」だよ\xf000븀\x0000\xfffeこの　ポケモンを　えらぶ？
 くさタイプの　ポケモン\xfffe「\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」だよ\xf000븀\x0000\xfffeこの　ポケモンを　えらぶ？
 みずタイプの　ポケモン\xfffe「\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」だよ\xf000븀\x0000\xfffeこの　ポケモンを　えらぶ？
@@ -49,16 +49,16 @@ Bianca: \xf000Ă\x0001\x0000!\xfffeWhat an awesome nickname!\xf000븁\x0000
 Bianca: This will be the first\xfffeentry in your Pokédex!\xf000븁\x0000
 \xf000Ā\x0001\x0000 obtained the \xf000\xff00\x0001\x0002Pokédex\xf000\xff00\x0001\x0000!
 Bianca: The Pokédex...!\xf000븁\x0000\xfffeIt's a high-tech device\xfffethat records data about every\xf000븀\x0000\xfffePokémon you meet!\xf000븁\x0000\xfffeTake the Pokédex with you\xfffeeverywhere you go.\xf000븁\x0000\xfffeYou can try to meet every Pokémon\xfffein the Unova region.\xf000븁\x0000\xfffeIt's a request from\xfffeProfessor Juniper herself.
-それにしても\xfffeアララギはかせ　ったら！\xf000븁\x0000\xfffeふつうは　オーケーの\xfffeへんじを　もらってから\xf000븀\x0000\xfffeしゅっぱつ　させるよねえ？
-\xf000Ā\x0001\x0001: おーい\xfffeいつまで　またせるんだよ！\xf000븁\x0000\xfffeって　オマエ！\xf000븁\x0000
-そいつが\xfffeオマエの　パートナー！\xf000븁\x0000\xfffe......よかったな\xf000븁\x0000\xfffeいもうとも　いってたけど　ポケモンは\xfffeぜったい　たいせつに　しろよな！\xf000븁\x0000\xfffeで　オマエ\xfffeもってる　ソレ　なんだよ？\xf000븁\x0000
-Bianca: それは　ポケモンずかん　だよ\xf000븁\x0000
-\xf000Ā\x0001\x0001: ......オレにも\xfffeポケモンずかんを　ください\xf000븁\x0000\xfffeオレは　つよくなりたい！\xf000븁\x0000\xfffeポケモンずかんが　あれば\xfffeポケモンに　くわしく　なれる......\xf000븀\x0000\xfffeつまり　つよくなれるだろッ！\xf000븁\x0000
-Bianca: あなた　は？\xf000븁\x0000
-オレは　\xf000Ā\x0001\x0001！\xf000븁\x0000\xfffeだいじな　ものを　さがすため\xfffeあいぼうの　ポケモンと\xf000븀\x0000\xfffeイッシュちほうを　たび　する！\xf000븁\x0000
-Bianca: うん　そうだね！\xf000븁\x0000\xfffeどんな　りゆうか　わからないけど\xfffeたびに　でることは　いいことだもの！\xf000븁\x0000\xfffeちょうど　もうひとつ\xfffeポケモンずかんも　あるし\xf000븁\x0000\xfffe２ねんまえに　くらべて　ポケモンの\xfffeぶんぷも　かわったみたいだから\xf000븀\x0000\xfffeみんなで　しらべたほうが　いいもんね\xf000븁\x0000
-Bianca: ねえねえ\xf000븁\x0000\xfffeふたりとも　ポケモンが　いるんでしょ\xfffeポケモンしょうぶ　してみないの？
-\xf000Ā\x0001\x0001: さあて！　オマエが\xfffeどれだけの　トレーナーか　たしかめる！\xf000븁\x0000\xfffeオレが　タマゴから\xfffeそだてた　\xf000ā\x0001\x0003　でッ！\xf000븁\x0000
+Professor Juniper will\xfffebe so happy!\xf000븁\x0000\xfffeI'll let her know that everything\xfffewent well when I talk to her.\xf000븀\x0000\xfffeIs that OK?
+\xf000Ā\x0001\x0001: Hey.\xfffeI can't wait forever!\xf000븁\x0000\xfffeHurry up!\xf000븁\x0000
+Oh!\xfffeThat's your partner!\xf000븁\x0000\xfffe......I need to act.\xf000븁\x0000\xfffeMy sister expects me\xfffeto get a Pokedex!\xf000븁\x0000\xfffeDo you think I'll\xfffebe able to?\xf000븁\x0000
+Bianca: Good luck with the Pokedex.\xf000븁\x0000
+\xf000Ā\x0001\x0001: ......I'd like\xfffea Pokedex too.\xf000븁\x0000\xfffeI want to get stronger!\xf000븁\x0000\xfffeMeeting a bunch a Pokemon\xfffeand using the Pokedex......\xf000븀\x0000\xfffeWill make me stronger!\xf000븁\x0000
+Bianca: Who are you?\xf000븁\x0000
+I'm　\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeI want to make new\xfffePokemon friends and travel through\xf000븀\x0000\xfffethe Unova region!\xf000븁\x0000
+Bianca: Ah I see!\xf000븁\x0000\xfffeI don't see how traveling\xfffecould be a bad thing!\xf000븁\x0000\xfffeI actually happen to\xfffehave a spare Pokedex.\xf000븁\x0000\xfffeThis design is from 2 years\xfffeago, so it won't look as\xf000븀\x0000\xfffenice as the current one.\xf000븁\x0000
+Bianca: Hey, hey.\xf000븁\x0000\xfffeWhy not have two people\xfffeworking on the Pokedex?
+\xf000Ā\x0001\x0001: Hey!　You're not the only\xfffetrainer here anymore!\xf000븁\x0000\xfffeThe egg that I was taking care of\xfffehatched into a \xf000ā\x0001\x0003!\xf000븁\x0000
 \xf000Ā\x0001\x0001: ......まけたか\xfffeやせいの　ポケモンとは　ちがうな！\xf000븁\x0000\xfffeまあ　いいや\xfffeオマエが　たよれる　トレーナーだと\xf000븀\x0000\xfffeわかっただけで　じゅうぶん！\xf000븁\x0000\xfffeじゃ　オレ　さきにいくからな！\xfffeオマエ　もっと　つよくなっておけッ！\xf000븁\x0000
 \xf000Ā\x0001\x0001: はじめての　しょうぶで\xfffeそこまで　たたかえれば　じゅうぶん！\xf000븁\x0000\xfffeじゃ　オレ　さきにいくからな！\xfffeオマエ　もっと　つよくなっておけよッ！\xf000븁\x0000
 Bianca: どっちの ポケモンも\xfffeすごく　がんばったよね！\xf000븁\x0000\xfffeだけど　そのコは　まだ　よわいから\xfffeたたかわせて　そだててあげないと\xf000븁\x0000
@@ -117,7 +117,7 @@ Is it okay to limit\xfffethe C-Gear's functionality?
 トレーナーズスクールに\xfffeはやく　はいりたいなー\xf000븁\x0000\xfffeポケモンのこと\xfffeいろいろ　しりたいんだよねー
 オレ　ポケモンのこと　くわしいよ！\xf000븁\x0000\xfffeだって　トレーナーズスクールで\xfffeいろいろ　おしえてもらったもん！
 みはらしだい　からの　けしき......\xfffeめのまえに　ひろがる　１９ばんどうろ\xf000븀\x0000\xfffeあれは　ヒオウギの　じまんだな
-かがくの　ちからって　すげー！\xf000븁\x0000\xfffeいまなら　つうしんで\xfffe１００にん　どうじに　あそぶことが\xf000븀\x0000\xfffeできるんだってよー！
+The power of science is wonderful!\xf000븁\x0000\xfffeYou can play alongside\xfffe100 different people\xf000븀\x0000\xfffeat once!
 ひとは　たびをして　おとなになる......\xfffeわたしも　このまちを　でようかなあ？
 やせいの　ポケモンは\xfffeひとを　おそうことも　あるの！\xf000븁\x0000\xfffeでもね　そばに　いれば\xfffeなかよくなれるのも　ポケモンよ
 あなたの　ママなら\xfffeポケモンを　やすませて\xf000븀\x0000\xfffeげんきに　するのも　じょうずよね！
