@@ -10,4 +10,4 @@ Quit
 ふたのカセキ　なんだね！\xfffeいい　チョイスじゃないか！\xf000븁\x0000\xfffeそいつを　ふくげん　するなら\xfffeうちの　うけつけに　たのむと　いいよ！\xf000븁\x0000
 はねのカセキ　かい！\xfffeめのつけどころが　ちがうね！\xf000븁\x0000\xfffeそいつを　ふくげん　するなら\xfffeうちの　うけつけに　たのむと　いいよ！\xf000븁\x0000
 Lenora adds to her collection\xfffeof research material regularly!
-Lenora puts her research material,\xfffepBurghcularly her fossils, out on display.
+Lenora puts her research material,\xfffeparticularly her fossils, out on display.
