@@ -1,8 +1,8 @@
-Bianca: I'll give you a quic tour\xfffeof the Pokémon Center!\xf000븁\x0000
-The Pokémon Center will heal\xfffeyour Pokémon for free!\xf000븁\x0000\xfffeDon't hesitate to ask for thier help\xfffeif your Pokémon are hurt!\xf000븁\x0000
-Lend me your Pokémon inside\xfffetheir ball please.\xf000븁\x0000
+Bianca: I'll give you a quick tour\xfffeof the Pokémon Center!\xf000븁\x0000
+The Pokémon Center will heal\xfffeyour Pokémon for free!\xf000븁\x0000\xfffeDon't hesitate to ask for their help\xfffeif your Pokémon are hurt!\xf000븁\x0000
+Lend me your Pokémon inside\xfffeits ball please.\xf000븁\x0000
 Over there is the PC!\xf000븁\x0000
-Here is the PC!\xfffEvery trainer can use it.\xf000븁\x0000\xfffeYou can deposit Pokémon here.\xf000븁\x0000\xfffeYou can also withdraw Pokémon from the\xfffePC at any time!\xf000븁\x0000
+Here is the PC!\xfffeEvery trainer can use it.\xf000븁\x0000\xfffeYou can deposit Pokémon here.\xf000븁\x0000\xfffeYou can also withdraw Pokémon from the\xfffePC at any time!\xf000븁\x0000
 Follow me over there!\xf000븁\x0000
 This is the Poké Mart!\xf000븁\x0000\xfffeThis is the place to buy useful items and\xfffesell the ones you don't need anymore!\xf000븁\x0000\xfffePokémon are kept in Poké Balls,\xfffewhen can be purchased at\xf000븀\x0000\xfffeany Poké Mart!\xf000븁\x0000
 Alright \xf000Ā\x0001\x0000. Here are some\xfffePoké Balls as a present from me!\xf000븁\x0000
@@ -10,4 +10,4 @@ Alright \xf000Ā\x0001\x0000. Here are some\xfffePoké Balls as a present from m
 Bianca: Follow me!\xf000븁\x0000\xfffeI'll show you how to use Poké Balls\xfffeto catch Pokémon!\xf000븀\x0000\xfffeCome on outside!\xf000븁\x0000
 Huh?\xfffe\xf000Ā\x0001\x0000's \xf000ā\x0001\x0001......\xf000븁\x0000
 It's nature is \xf000Ĉ\x0001\x0002......！\xf000븁\x0000\xfffeThe journey with your Pokémon\xfffewill be interesting!
-Yo!　I'm the guy that gives advice\xfffein the Pokémon Centers!\xf000븁\x0000\xfffeHeal your Pokémon often to\xfffekeep them at full strength!
+Yo! I'm the guy that gives advice\xfffein the Pokémon Centers!\xf000븁\x0000\xfffeHeal your Pokémon often to\xfffekeep them at full strength!
