@@ -40,10 +40,10 @@ Become leader
 Join group
 Quit
 Enter
-つごうの　わるくなった\xfffeメンバーが　います\xf000븁\x0000\xfffeもういちど　さいしょから\xfffeつうしんを　やりなおして　ください
+つごうの わるくなった\xfffeメンバーが います\xf000븁\x0000\xfffeもういちど さいしょから\xfffeつうしんを やりなおして ください
 Welcome to the Pokémon Musical!\xf000븁\x0000\xfffeHere you and your friends can\xfffeperform together!\xf000븁\x0000\xfffeWould you like to participate?
 I'm sorry, but you don't have an\xfffeeligible Pokémon in your party.\xf000븁\x0000\xfffePlease come back again with\xfffedifferent Pokémon!\xf000븁\x0000
-それでは　さんかする　ポケモンを\xfffeえらんでください
+それでは さんかする ポケモンを\xfffeえらんでください
 Would you like to use\xfffeInfrared Communication or\xf000븀\x0000\xfffeDS Wireless Communications?
 Infrared Communication
 DS Wireless Communications

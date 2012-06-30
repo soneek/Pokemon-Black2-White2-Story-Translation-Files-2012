@@ -1,4 +1,4 @@
-\xf000Ā\x0001\x0000 received\xfffe\xf000ȁ\x0001\x0001BP!
+\xf000Ā\x0001\x0000 received \xf000ȁ\x0001\x0001 BP!
 Saving your record data...\xfffeDon't turn off the power.
 Saving...\xfffeDon't turn off the power.
 Congratulations! You've successfully\xfffereached a seven-win streak!\xf000븁\x0000\xfffeSince you've won seven in a row,\xfffeI present you with these Battle Points!\xf000븁\x0000

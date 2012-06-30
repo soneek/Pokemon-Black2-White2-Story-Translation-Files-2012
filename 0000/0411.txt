@@ -13,4 +13,4 @@ You can't warp because there is a\xfffemission going on at the Entralink.
 You can't warp to the Entralink because\xfffeyou are connecting with someone.
 Participating in an ongoing mission\xfffeat the Entralink!\xf000븀\x0000\xfffeYou'll return here after the mission.\xf000븁\x0000\xfffeYou will warp to another person's \xfffeEntralink to participate in the mission!\xf000븁\x0000
 The connection has been lost.
-ふたりで　いるときは\xfffeハイリンクに　ワープできません
+ふたりで いるときは\xfffeハイリンクに ワープできません

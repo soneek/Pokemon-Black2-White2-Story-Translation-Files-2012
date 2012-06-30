@@ -21,5 +21,5 @@ If you catch a Pokémon that's\xfffe\xf000ă\x0001\x0000 type, please show it to
 The Pokémon you chose is not the one\xfffeI requested.\xf000븁\x0000\xfffeWhat I want to paint is a Pokémon that's\xfffe\xf000ă\x0001\x0000 type!
 Oh!\xfffeThe shape of this Egg...\xf000븁\x0000\xfffeSuperb! It gives me chills!\xfffeIt's electrifying! It makes me tremble!\xf000븁\x0000\xfffeAlas, even I cannot tell what type\xfffean Egg is!
 さくひんめい「うけとるもの」
-さくひんめい「いどうする　ポケモン」
+さくひんめい「いどうする ポケモン」
 さくひんめい「おくるもの」

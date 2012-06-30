@@ -1,3 +1,3 @@
-１４Route
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeパソコンの　ボックスは\xfffeさいだい　２４こまで　ふえます！\xf000븁\x0000\xfffeつまり　７２０ひき\xfffeあずけることが　できます！
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeライブキャスターを\xfffeつかっている　とき\xf000븁\x0000\xfffeじゅうじボタンの\xfffeじょうげさゆうを　おすと\xf000븁\x0000\xfffeがめんの　ふんいきが\xfffeいろいろ　かわります！
+Route 14
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeYou can have up to\xfffe24 boxes in your PC!\xf000븁\x0000\xfffeIn other words,\xfffeyou can store up to 720 Pokémon!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeWhen you're using\xfffethe Xtransceiver...\xf000븁\x0000\xfffePress any direction on the Control Pad\xfffeto make changes to the screen!

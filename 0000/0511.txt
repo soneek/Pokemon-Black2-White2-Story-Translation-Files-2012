@@ -17,7 +17,7 @@ Give up on teaching a move\xfffeto \xf000Ă\x0001\x0000?
 Give up on learning\xfffe\xf000ć\x0001\x0001?
 \xf000Ă\x0001\x0000 didn't learn\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
 \xf000Ā\x0001\x0002 gave a\xfffeHeart Scale as thanks!
-Is it OK to forget the\xfffemove \xf000ć\x0001\x0000?
+Delete the move\xfffe\xf000ć\x0001\x0000?
 Which move should\xfffe\xf000Ă\x0001\x0000 remember?\xf000븁\x0000
 Should the move \xf000ć\x0001\x0001\xfffebe remembered?
 Give up trying to make \xfffe\xf000Ă\x0001\x0000 remember a move?
@@ -35,9 +35,9 @@ Which Pokémon should learn it?\xf000븁\x0000
 If any of your Pokémon needs to\xffferemember a move, bring me a Heart Scale!
 Eggs can't remember moves!
 This Pokémon hasn't forgotten\xfffeany moves.
-ぶんるい
-いりょく
-めいちゅう
+Category
+POWER
+ACCURACY
 PP
 Battle Move
 Appeal point(s)
@@ -47,8 +47,8 @@ Contest Move
 \xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
 Quit
 ---
-Back
-おぼえる
+QUIT
+TEACH
 Remember which move?
 \xf000Ă\x0001\x0000
 Lv. \xf000Ȃ\x0001\x0000

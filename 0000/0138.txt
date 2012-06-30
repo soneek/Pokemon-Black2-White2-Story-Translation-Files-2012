@@ -1,18 +1,18 @@
-ウォッホン！\xf000븁\x0000\xfffeわたくし　せかいかっこくに　ある\xfffeポケモンだいすきクラブの　なかでも\xf000븁\x0000\xfffeいちばん　ポケモンが　すきな\xfffeかいちょう　なのであります！\xf000븁\x0000
-きみも　トレーナーなら\xfffeどれだけ　あいじょうを　もって\xf000븁\x0000\xfffeポケモンを　そだてているか\xfffeわたくしに　みせてくれないかい？
-きみは　シャイな　トレーナーだな！
+ウォッホン！\xf000븁\x0000\xfffeわたくし せかいかっこくに ある\xfffeポケモンだいすきクラブの なかでも\xf000븁\x0000\xfffeいちばん ポケモンが すきな\xfffeかいちょう なのであります！\xf000븁\x0000
+きみも トレーナーなら\xfffeどれだけ あいじょうを もって\xf000븁\x0000\xfffeポケモンを そだてているか\xfffeわたくしに みせてくれないかい？
+きみは シャイな トレーナーだな！
 Oh!\xfffeSo, which Pokémon?\xf000븁\x0000
 ...Hm.\xfffeI'm not really sure...
 Hm? It's a bit hard to judge\xfffehow you've been treating an egg...
-おお！　この　\xf000ā\x0001\x0000\xfffeであったときは　レベル\xf000Ȃ\x0001\x0001　だったのに\xf000븀\x0000\xfffeいまでは　レベル\xf000Ȃ\x0001\x0002　なのかい！\xf000븁\x0000
+おお！ この \xf000ā\x0001\x0000\xfffeであったときは レベル\xf000Ȃ\x0001\x0001 だったのに\xf000븀\x0000\xfffeいまでは レベル\xf000Ȃ\x0001\x0002 なのかい！\xf000븁\x0000
 You've raised it wonderfully!\xfffeThat's superb affection!\xf000븁\x0000
 You've raised it very well!\xfffeThere's absolutely affection there!\xf000븁\x0000
 You've raised it quite well!\xfffeYou have some affection, certainly.\xf000븁\x0000
 I see! It's not much, but\xfffeI believe I feel your affection.\xf000븁\x0000
 That's thanks for showing me\xfffesuch magnificent affection!
-いやー　きみには\xfffeいいものを　みせてもらった！\xf000븁\x0000\xfffeこれからも　あいじょう　こめて\xfffeポケモンを　そだててほしいね！
-って　ちっとも　そだってないねえ\xf000븁\x0000\xfffeだけど　もんだいないよ\xfffeこれから　ともに　たびをすれば\xf000븀\x0000\xfffeどんどん　そだつに　きまってるよ！
-だいすきクラブへ　ようこそ！\xf000븁\x0000\xfffeポケモンと　あなたが\xfffeどれだけ　なかよしか　みましょうか？
+いやー きみには\xfffeいいものを みせてもらった！\xf000븁\x0000\xfffeこれからも あいじょう こめて\xfffeポケモンを そだててほしいね！
+って ちっとも そだってないねえ\xf000븁\x0000\xfffeだけど もんだいないよ\xfffeこれから ともに たびをすれば\xf000븀\x0000\xfffeどんどん そだつに きまってるよ！
+だいすきクラブへ ようこそ！\xf000븁\x0000\xfffeポケモンと あなたが\xfffeどれだけ なかよしか みましょうか？
 I'm not really sure how you\xfffecould be good friends with an egg...
 Ah, your \xf000ā\x0001\x0000...\xf000븁\x0000
 It's extraordinarily attached to you!\xfffeI'm so jealous!
@@ -21,10 +21,10 @@ It's pretty attached...\xfffeIt's made glad to be with you!
 Hm, you're kinda close...\xfffeThat's how it feels, anyway.
 I don't feel anything good or bad...\xfffeSeems like an ordinary relationship.
 Um...\xfffeI'm not sure it likes you much.
-ひょっとして　あなた......\xf000븁\x0000\xfffeとっても　きびしい　ひと？\xfffeすごく　きらわれている　かんじ......
+ひょっとして あなた......\xf000븁\x0000\xfffeとっても きびしい ひと？\xfffeすごく きらわれている かんじ......
 Don't be shy...!\xfffeNo need to hide it, show me!
-むふぅ
-ぐぼぼぼ！
+Mufoo!
+Gubobobo!
 ぷきゅ？
 くあー！
 ごろ

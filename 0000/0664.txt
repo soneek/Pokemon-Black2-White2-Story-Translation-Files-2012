@@ -7,4 +7,4 @@ Would you like to buy another one?
 Fresh Water\xf000봃\x0001\x0001$200
 Soda Pop\xf000봃\x0001\x0001$300
 Lemonade\xf000봃\x0001\x0001$350
-Quit
+Cancel

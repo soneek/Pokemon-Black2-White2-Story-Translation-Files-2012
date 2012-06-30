@@ -13,4 +13,4 @@ Hello! My name is Loblolly, and I'm\xfffea Décor designer.\xf000븁\x0000\xfffe
 \xf000Ĳ\x0001\x0002
 \xf000Ĳ\x0001\x0003
 \xf000Ĳ\x0001\x0004
-Quit
+Cancel

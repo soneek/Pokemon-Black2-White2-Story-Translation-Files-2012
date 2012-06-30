@@ -8,11 +8,11 @@ Sorry, we're getting things ready.\xfffePlease come back later.
 You have at least one Pokémon\xfffethat can't be taken in.
 Communication error.
 Random Matchup
-GTS
+Global Trade
 Musical Photos
 Battle Videos
 Info
-Quit
+Cancel
 Would you like to make a Global Trade?
 You may trade Pokémon with other\xfffePokémon fans from around the world with\xf000븀\x0000\xfffeGlobal Trade.\xf000븁\x0000\xfffeGlobal Trade has two forms: GTS and\xfffeGTS Negotiations.\xf000븁\x0000\xfffePlease be careful, because each has a\xfffedifferent way of trading.\xf000븁\x0000
 GTS
@@ -29,38 +29,38 @@ Info
 Back
 You may trade Pokémon in two ways when\xfffeusing GTS.\xf000븁\x0000\xfffeYou may offer a Pokémon for trade\xfffeor search among offered Pokémon.\xf000븁\x0000
 Should I describe things in\xfffegreater detail?
-わかった
+You will be asked to put up the\xfffePokémon you are offering to trade.\xf000븁\x0000\xfffeAt that time, you will be asked what\xfffePokémon you would like in return.\xf000븁\x0000\xfffeIf another player offers your desired\xfffePokémon in return for your offered\xf000븀\x0000\xfffePokémon, the trade will go through.\xf000븁\x0000
 You may search among the Pokémon\xfffethat are offered by other Trainers.\xf000븁\x0000\xfffeThey will all identify what Pokémon\xfffetheir Trainers want back in return.\xf000븁\x0000\xfffeIf you find one that you want, you\xfffemust provide us with the kind of\xf000븀\x0000\xfffePokémon wanted in return.\xf000븁\x0000
 Offer Pokémon?
-Info
-Back
+Seek Pokémon?
+Understood
 Would you like to start\xfffePokémon GTS Negotiations?
 Start Negotiations
 Info
 Back
 In GTS Negotiations, you set the trading\xfffeconditions based on what kinds of\xf000븀\x0000\xfffePokémon you'd like to trade.\xf000븁\x0000\xfffeIf you find a person with matching\xfffeconditions, you may proceed to a\xf000븀\x0000\xfffeNegotiation Trade with that person.\xf000븁\x0000\xfffeIn order to trade, you need to have two\xfffeor more Pokémon in your party.\xf000븁\x0000
 Should I describe things in\xfffegreater detail?
-わかった
+In a Negotiation Trade, each person\xfffeoffers three Pokémon to trade.\xf000븁\x0000\xfffeThen, each person will choose one of the\xfffeother person's three Pokémon.\xf000븁\x0000
 You can set three conditions in a\xfffeNegotiation Trade: the level of Pokémon\xf000븀\x0000\xfffeto trade, the Pokémon you want to\xf000븀\x0000\xfffereceive, and the Pokémon up for offer.\xf000븁\x0000\xfffeYou may trade with a person whose\xfffeconditions match yours, or choose\xf000븀\x0000\xfffeTrade Rendezvous to try another trade\xf000븀\x0000\xfffewith a previous trading partner.\xf000븁\x0000
 Negotiation Trade?
-View
-Info
-Back
+Trading Conditions?
+Understood
+Would you like to view or upload\xfffeBattle Videos?
 With Battle Videos, you may post a\xfffeBattle Video you took with your\xf000븀\x0000\xfffeVs. Recorder or view Battle Videos from\xf000븀\x0000\xfffeother Trainers.\xf000븁\x0000\xfffeYou may search the Battle Videos by\xfffePokémon, battle facility, ranking, etc.\xf000븁\x0000\xfffeThe Battle Video you post will be assigned\xfffea 12-digit code.\xf000븁\x0000\xfffeYour friends may view your Battle Video\xfffeby entering this 12-digit code here.\xf000븁\x0000
 View or upload
-View
 Info
 Back
+Would you like to view or upload\xfffeMusical Photos?
 With Musical Photos, you may post a photo\xfffeyou took at the Pokémon Musical in\xf000븀\x0000\xfffeNimbasa City by using the Vs. Recorder.\xf000븁\x0000\xfffeYou may also view photos taken by other\xfffepeople, sorted by the Pokémon you like.\xf000븁\x0000
 View or upload
 Info
-Quit
+Back
 Would you like to take the\xfffeRandom Matchup challenge?
 Challenge
 Info
 Back
 A Random Matchup is a battle with other\xfffePokémon fans from around the world.\xf000븁\x0000\xfffeThere are five kinds of Random Matchups:\xfffeSingle, Double, Triple, Rotation,\xf000븀\x0000\xfffeand Launcher.\xf000븁\x0000\xfffeAlso, Random Matchups have two modes:\xfffeFree mode and Rating mode.\xf000븁\x0000\xfffeIn Free mode, everyone can participate\xfffein battles freely.\xf000븁\x0000\xfffeIn Rating mode, you may participate in\xfffebattles after you set Game Sync, access\xf000븀\x0000\xfffethe Pokémon Global Link website with your\xf000븀\x0000\xfffecomputer, and register your\xf000븀\x0000\xfffeGame Sync ID.\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xfffe(Pokémon Global Link)\xf000븁\x0000
-わかった
+Would you like to know more details?
 Free Mode
 Rating Mode
 Special Rules
@@ -70,26 +70,26 @@ Rating mode is recommended for those who\xfffewant to master battles.\xf000븁\x
 There are several special rules\xfffefor Random Matchups.\xf000븁\x0000\xfffeAny Pokémon higher than Lv. 50 will be\xfffeset to that level for the battle.\xf000븁\x0000\xfffePokémon nicknames won't be used.\xf000븁\x0000\xfffeYou have a limited time to choose Pokémon\xfffefor a battle and to give orders to your\xf000븀\x0000\xfffePokémon during the battle.\xf000븁\x0000\xfffeDon't exceed the time limit,\xfffeor your Pokémon and its moves\xf000븀\x0000\xfffewill be chosen for you!\xf000븁\x0000\xfffeThere's also a time limit on the battle.\xf000븁\x0000\xfffeThe winner will be determined when time\xffferuns out, even if both sides still have\xf000븀\x0000\xfffePokémon standing.\xf000븁\x0000
 Which Battle would you like\xfffeto choose?
 Single Battle
-Back
+Double Battle
 Triple Battle
 Rotation Battle
 Launcher Battle
 Back
 Would you like to take the\xfffeSingle Battle challenge?
-Enter
+Would you like to take the \xfffeDouble Battle Challenge?
 Would you like to take the \xfffeTriple Battle Challenge?
-Quit
+Would you like to take the \xfffeRotation Battle Challenge?
 Would you like to take the \xfffeLauncher Battle Challenge?
 Confirm
 Rules
 Back
 For a Single Battle, you need to have\xfffethree to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose three Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
 For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
+For a Triple Battle, you need to have\xfffesix Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen decide their order and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
+In a Rotation Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
+In a Launcher Battle, you have a\xfffeTriple Battle with your Wonder Launcher.\xf000븀\x0000\xfffeYou need to have six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen decide their order and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
+てもちか バトルボックスの\xfffeどちらを つかうか えらんでください
 Goods
-Battle Box
-Quit
-For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
-Enter
 Battle Box
 Quit
 てもちか バトルボックスの\xfffeどちらを つかうか えらんでください

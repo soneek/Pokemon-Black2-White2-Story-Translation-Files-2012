@@ -12,10 +12,10 @@ Oh, you prefer not to say?\xfffeOh, well...
 Thanks! Will you tell me your other\xfffefeelings, too?
 Got it! Thanks!
 INTRODUCTION
-かったとき
-まけたとき
+WHEN YOU WIN
+WHEN YOU LOSE
 WHEN YOU BECOME NO. 1
-おしえない
+NOT TELLING
 Platform for Single Trains
 Platform for Double Trains
 Platform for Multi Trains
