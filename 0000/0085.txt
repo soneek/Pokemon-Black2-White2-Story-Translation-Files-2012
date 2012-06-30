@@ -1,17 +1,17 @@
-﻿You're at \xf000ȃ\x0001\x0000 in a row!\xf000븁\x0000\xfffeNext up is number \xf000Ȁ\x0001\x0001.\xfffeContinue battling?
-Continue
-Record
-Stop
-Retire
-End your challenge?
-Save your game\xfffeand take a break?
-Saving the game.\xfffePlease don't turn off the power.
-Delete the existing Battle Video\xfffeand record this battle?
-おともだちの\xfffeせんたくを　まっています
+Current winning streak: \xf000ȃ\x0001\x0000!\xf000븁\x0000\xfffeNext car: No. \xf000Ȁ\x0001\x0001.\xfffeContinue to battle?
+つづける
+きろくする
+やすむ
+リタイア
+Cancel your challenge?
+Save and quit the game?
+Saving...\xfffeDon't turn off the power.
+Delete your existing Battle Video and\xfffesave the last battle?
+Awaiting your friend's selection.
 The game must be saved\xfffebefore being led back.
-You've chosen to retire,\xfffeso your challenge will be ended.
-Saving a Battle Video.\xfffePlease don't turn off the power!
-\xf000Ā\x0001\x0000 recorded\xfffethe previous battle.
-Record a Battle Video\xfffefor this battle?
-Connection waiting.
+You have chosen to retire from\xfffethis challenge.
+Saving your Battle Video...\xfffeDon't turn off the power.
+\xf000Ā\x0001\x0000's battle has been saved as a\xfffeBattle Video.
+Would you like to save the last battle as\xfffeyour Battle Video?
+Communicating. Please stand by...
 test

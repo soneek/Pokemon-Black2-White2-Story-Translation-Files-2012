@@ -1,16 +1,16 @@
-けしきウキウキ　しょうぶワクワク\xfffeロイヤルイッシュごうへ　ようこそ！\xf000븁\x0000\xfffeチケットは　１０００円　です\xfffeふねに　のられますか？
-この　ふねは　１にち　１かい\xfffeしゅっこうする　ゆうらんせん　です\xf000븁\x0000
-ロイヤルイッシュごうの　うんこうは\xfffeゆうがた　のみと　なっております\xf000븀\x0000\xfffeあらためて　おこし　くださいませ
-Oh? You don't have enough money!\xfffeWe await your coming another time.
-チケットは　１０００円　です\xfffeふねに　のられますか？
-イッシュちほうの　おおきな　はし\xfffeスカイアローブリッジを　くぐり\xf000븁\x0000\xfffeワンダーブリッジを　まわって\xfffeヒウンシティに　もどります\xf000븁\x0000\xfffeきてきが　５かい　なりましたら\xfffeとうちゃくの　あいずで　ございます\xf000븁\x0000
-ロイヤルイッシュごうの　かんぱんでは\xfffeじまんの　けしきを　たのしめます\xf000븁\x0000\xfffeきゃくしつには　しょうぶずきな\xfffeトレーナーが　あつまって　おります\xf000븁\x0000\xfffeぜひ　けしきも　しょうぶも\xfffeおたのしみ　ください\xf000븁\x0000\xfffeなお　むせんきや　けいきるいへの\xfffeえいきょうが　あるため\xf000븁\x0000\xfffeせんないで　Ｃギアを\xfffeつかうことは　できません\xf000븁\x0000\xfffeごりかいの　ほど\xfffeよろしく　おねがい　いたします\xf000븁\x0000
-Ｃギアの　でんげんを\xfffeオフにしますが　よろしいでしょうか？
-We will be departing soon.\xfffeOff you go!\xf000븁\x0000
-Very well, then.\xfffeWe await your coming another time.
-Thank you for boarding with us.\xfffeWe await your coming another time.
-Today's cruise has\xfffealready departed.\xf000븀\x0000\xfffePlease come back again tomorrow.
-おめでとう　ございます！\xf000븁\x0000\xfffeあなたは　せんないに　いる\xfffeトレーナー　ぜんいんに　かちました！\xf000븁\x0000\xfffeこちらは　けいひんと　なります\xfffeおうけとり　くださいませ！\xf000븁\x0000
-Board
-Explanation
+Welcome to the Royal Unova!\xf000븁\x0000\xfffeThe scenery is exhilarating,\xfffethe battles are exciting.\xf000븁\x0000\xfffeThe ticket is $1,000.\xfffeWould you like to get on board?
+The Royal Unova leaves once a day,\xfffeonly in the evening.\xf000븀\x0000\xfffeIt is a cruiser-type passenger ship.\xf000븁\x0000
+The Royal Unova operates only in\xfffethe evening.\xf000븀\x0000\xfffePlease come back again.
+I'm sorry, you don't have enough money.\xfffePlease come back again.
+The ticket is $1,000.\xfffeWould you like to get on board?
+The ship goes under a big bridge called\xfffeSkyarrow Bridge in the Unova region,\xf000븀\x0000\xfffethen turns around at Marvelous Bridge\xf000븀\x0000\xfffeand returns to Castelia City.\xf000븁\x0000\xfffeWe'll let you know when it's time\xfffeto leave by blowing a whistle five times.\xf000븁\x0000
+From the deck of the world-famous Royal\xfffeUnova, you can enjoy a spectacular view.\xf000븁\x0000\xfffeAnd the passenger cabins are full of\xfffeTrainers who love to battle.\xf000븁\x0000\xfffePlease enjoy both the view and\xfffethe battles!\xf000븁\x0000\xfffeNote that as C-Gears may affect radio\xfffesignals or instruments in the ship,\xf000븀\x0000\xfffewe ask that you refrain from using them.\xf000븀\x0000\xfffeThank you.\xf000븁\x0000
+The power of the C-Gear will be turned\xfffeoff. Is that OK?
+We are leaving the port shortly.\xfffeBon voyage!\xf000븁\x0000
+Certainly.\xfffePlease come back again.
+Thank you for sailing with us on the\xfffeRoyal Unova.\xf000븁\x0000\xfffeHave a nice day!
+We are closed for the day.\xfffePlease come again tomorrow.
+Congratulations!\xf000븁\x0000\xfffeYou've defeated all the Trainers\xfffeon the ship!\xf000븁\x0000\xfffePlease accept this prize.\xf000븁\x0000
+ふねにのる
+Get On Board
 Quit

@@ -1,10 +1,10 @@
-ハロー！　ハロー！\xfffeユナイテッドタワーに　ごようですか？
-ハロー！　この　ふねは\xfffeユナイテッドタワー　いきです
-Let me lead you!\xfffeHere, get onto the ship!\xf000븁\x0000
-ユナイテッドタワーは\xfffeせかいじゅうから　トレーナーが\xf000븀\x0000\xfffeあつまってくる　ばしょ　です！\xf000븁\x0000\xfffeもし　おきゃくさまに\xfffeとおく　はなれた　ばしょで　くらす\xf000븀\x0000\xfffeおともだちが　いらっしゃれば\xf000븁\x0000\xfffeかんどうの　さいかいなど\xfffeはたせるのでは　ないでしょうか！\xf000븁\x0000
-We await your next visit!
-Yes
-No
-What's that?
+Hi! Would you like to go to Unity Tower?
+People are quite different,\xfffedepending on where they live.\xf000븁\x0000\xfffeIt's a bit surprising that rules and ways\xfffeof thinking are different just because\xf000븀\x0000\xfffethe places we live are different!
+One person will be on board!\xfffePlease get on board!\xf000븁\x0000
+Unity Tower is a place where Trainers\xfffegather from all over the world!\xf000븁\x0000\xfffeIf you have friends who live far away,\xfffeyou may be able to have a merry reunion!\xf000븁\x0000
+Please come again!
+はい
+いいえ
+なにそれ？
 うんめいの　あかいいと　って\xfffeいっぽん　だけじゃなく\xf000븀\x0000\xfffeいくつかある　なかから　えらぶのよ\xf000븁\x0000\xfffeというわけで　あなたにも　これを\xf000븁\x0000
 その　あかいいとを　もっている\xfffeポケモンは　メロメロに　されたとき\xf000븀\x0000\xfffeあいても　メロメロに　しちゃうの！

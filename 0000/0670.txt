@@ -1,4 +1,4 @@
-﻿no data
+no data
 no data
 no data
 no data
@@ -153,5 +153,5 @@ White Forest\xfffeThe gleaming forest!
 おいおい！\xfffeおかねが　たりないぞ！
 また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
 おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
-Buy
-Nope
+かう
+いらない

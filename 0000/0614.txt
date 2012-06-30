@@ -1,10 +1,10 @@
-Welcome!\xfffeWhat do you need?
-Welcome to the TM counter!\xfffeWhat do you need?
+Welcome!\xfffeMay I help you?
+Welcome to the Technical Machine\xfffedepartment! May I help you?
 Is there anything else I may do\xfffefor you?
 Please come again!
 
 Buy
 Sell
-Cancel
-Welcome!\xfffeThis is the Point Exchange Corner!\xf000븁\x0000\xfffeWill you exchange\xfffeBP for prizes?
-Collect more BP,\xfffeand do come back again!
+No thanks!
+Welcome to the\xfffeExchange Service Corner!\xf000븁\x0000\xfffeWould you like to trade in your BP\xfffefor some fabulous prizes?
+Please save some BP\xfffeand come see us again.

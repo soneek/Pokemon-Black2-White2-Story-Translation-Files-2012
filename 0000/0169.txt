@@ -39,9 +39,9 @@ Bianca: Alright.\xf000븁\x0000\xfffeTa-da!\xf000븁\x0000\xfffeThese are the Po
 Choose a Pokémon.
 Is this the Pokémon you want?
 Pick this one!
-Yes
-No
-\xf000Ā\x0001\x0000 chose\xfffe\xf000ā\x0001\x0001!
+はい
+いいえ
+\xf000Ā\x0001\x0000 obtained \xfffe\xf000ā\x0001\x0001!
 Bianca: Wow!　I think \xf000ā\x0001\x0002\xfffeis perfect for you!\xf000븁\x0000\xfffeDo you want to give your\xfffePokémon a nickname?
 Bianca: That's OK. You don't\xfffeneed to give it a nickname.\xf000븁\x0000
 Bianca: \xf000Ă\x0001\x0000! Is that\xfffegoing to be its nickname?
@@ -62,19 +62,19 @@ Bianca: Hey, hey.\xf000븁\x0000\xfffeWhy not have two people\xfffeworking on th
 \xf000Ā\x0001\x0001: ......I lost. Everything was so\xfffedifferent against wild Pokémon!\xf000븁\x0000\xfffeEh, oh well.\xfffeThis just means that\xf000븀\x0000\xfffeyou're gonna be a great trainer!\xf000븁\x0000\xfffeI'm going on ahead!\xfffeYou better get stronger!\xf000븁\x0000
 \xf000Ā\x0001\x0001: That was our first battle,\xfffebut it was great!\xf000븁\x0000\xfffeI'm going on ahead!\xfffeYou better get stronger!\xf000븁\x0000
 Bianca: It's hard getting used\xfffeto your first Pokémon!\xf000븁\x0000\xfffeAs you journey, you will\xfffeboth grow much stronger.\xf000븁\x0000
-Now! That's battle took a lot\xfffeout of your Pokémon.\xf000븁\x0000\xfffeLet's go get them healed\xfffeat the Pokémon Center!\xf000븁\x0000
+Now! That battle took a lot\xfffeout of your Pokémon.\xf000븁\x0000\xfffeLet's go get them healed\xfffeat the Pokémon Center!\xf000븁\x0000
 Bianca: The Pokémon Center is also\xfffea gathering spot for people.\xf000븁\x0000\xfffeLet's head in!\xf000븁\x0000
 Mom: Ah!　You must be\xfffeBianca!\xf000븁\x0000\xfffeSo \xf000Ā\x0001\x0000\xfffepicked \xf000ā\x0001\x0002.\xf000븁\x0000\xfffeI'm so excited!\xf000븁\x0000
 Ah!\xfffeI almost forgot!\xf000븁\x0000\xfffeLook!　Ta-da!\xfffeRunning Shoes!\xf000븁\x0000
 \xf000Ā\x0001\x0000 received a pair of\xfffe\xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
 Mom: That's right! They came\xfffewith instructions.\xf000븁\x0000\xfffe“Hold the B Button to run faster than\xfffenormal. Put on the Running Shoes and\xf000븀\x0000\xfffetear around to your heart's content!"\xf000븁\x0000\xfffeThese shoes will be\xfffeuseful on your journey!\xf000븁\x0000\xfffeYou and \xf000ā\x0001\x0002 will\xfffehave lots of fun!\xf000븁\x0000
 \xf000Ā\x0001\x0001's sister: Um......\xfffeI wanted to give you this.\xf000븁\x0000
-\xf000Ā\x0001\x000 received a\xfffe\xf000\xff00\x0001\x0002Town Map\xf000\xff00\x0001\x0000!
+\xf000Ā\x0001\x0000received a\xfffe\xf000\xff00\x0001\x0002Town Map\xf000\xff00\x0001\x0000!
 Bianca: Why did you hand\xfffeover 2 Town Maps?\xf000븁\x0000
 \xf000Ā\x0001\x0001's sister: One of them is\xfffefor my big brother.\xf000븁\x0000
 Mom: Great!　That Town Map will help\xfffeyou out when traveling on land,\xf000븀\x0000\xfffeand on water.\xf000븁\x0000\xfffeThat map even tells\xfffeyou about every place in\xf000븀\x0000\xfffethe Unova region!\xf000븁\x0000
 Bianca: ......Ehehe.\xf000븁\x0000\xfffeI'm glad to see that\xfffelook on your face!\xf000븁\x0000\xfffeYeah!　Come and meet\xfffeme on Route 19!\xf000븁\x0000\xfffeYou need to learn how\xfffeto catch Pokémon!\xf000븁\x0000
-Mom: Have a good time!\xf000븁\x0000\xfffeYou can find the Town Map\xfffeby going into your bag,\xf000븀\x0000\xfffethen into your \xf000ā\x0001\x0002 pocket!
+Mom: Have a good time!\xf000븁\x0000\xfffeGo with \xf000ā\x0001\x0002\xfffeand meet plenty of\xf000븀\x0000\xfffeother Pokémon!
 \xf000Ā\x0001\x0001's sister: Pokémon are the best!
 Bianca: おうい！\xf000븁\x0000
 Bianca: ねえねえ！\xf000븁\x0000
@@ -88,7 +88,7 @@ Bianca: うひゃあ！\xf000븁\x0000
 これで　きみの　ライブキャスターから\xfffeぼくに　れんらくが　できるね\xf000븁\x0000
 Bianca: あっ　あたしも！\xf000븁\x0000
 いっしょに　アララギはかせも\xfffeとうろく　したよ！\xf000븁\x0000
-ライブキャスターが　なっている！
+The Xtransceiver is ringing.
 \xf000Ā\x0001\x0000 connected\xfffeto the Xtransceiver.\xf000븁\x0000
 Bianca: ね　\xf000Ā\x0001\x0000！\xfffeアララギはかせ　かっこいいでしょ！\xf000븁\x0000\xfffeライブキャスターで　はなせば\xfffeポケモンずかんの　かんせいぐあいを\xf000븀\x0000\xfffeひょうか　してくれたり\xf000븁\x0000\xfffeポケモンの　しんかに　ついて\xfffeいろいろ　おしえてくれるよ！\xf000븁\x0000\xfffeもちろん　あたしたちも！\xf000븁\x0000
 あなたの　ポケモンが\xfffeどれだけ　なついているか\xf000븀\x0000\xfffeあたしが　おしえてあげるね！！\xf000븁\x0000
@@ -100,8 +100,8 @@ Bianca: ジムリーダーって\xfffeそうぞういじょうに　たいへん
 それじゃあ　つづけて\xfffeＣギアを　つかえるように　するね！\xf000븁\x0000\xfffeＣギアは　せきがいせんや\xfffeむせん　Ｗｉ－Ｆｉなど\xf000븁\x0000\xfffeつうしんに　かんけいする\xfffeデバイス　なんだよ！\xf000븁\x0000
 \xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0001Ｃギア\xf000\xff00\x0001\x0000を　てにいれた！
 Turn on the C-Gear\xfffeand begin communication?
-Yes
-No
+はい
+いいえ
 Is it okay to limit\xfffethe C-Gear's functionality?
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）\xf000븁\x0000
 ほら！　Ｃギアが　きどうして\xfffeがめんが　あらわれたでしょ！\xf000븁\x0000\xfffeその　がめんの　みぎしたに　ある\xfffe？マークに　タッチすれば\xf000븀\x0000\xfffeＣギアの　せつめいが　よめるよ\xf000븁\x0000\xfffeで　どうするのお？\xf000븁\x0000\xfffeサンギタウンを　こえたさきの\xfffeタチワキシティなら\xf000븀\x0000\xfffeべつの　ポケモンジムも　あるけど？

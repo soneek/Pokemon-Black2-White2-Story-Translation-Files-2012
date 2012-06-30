@@ -1,4 +1,4 @@
-﻿We have miraculous medicines\xfffethat can make Pokémon healthy!\xf000븁\x0000
+We have miraculous medicines\xfffethat can make Pokémon healthy!\xf000븁\x0000
 がいこくから　とりよせた\xfffeかんぽうやくは　ききめ　バッチリ！\xf000븁\x0000\xfffeだけど　ちょっぴり　にがいから\xfffeポケモン　いやがっちゃうみたいなの
 Welcome!\xfffeDirect produce delivery!\xf000븁\x0000\xfffeHow about a $500 bottle of\xfffeMoomoo Milk for the long journey?
 Here's your Moomoo Milk!\xf000븁\x0000
@@ -6,9 +6,9 @@ OhohohoHO!\xfffeYour bag is full!
 OhohohoHO!\xfffeYou don't have enough money!
 また　こんど\xfffeかってくださいね！\xf000븁\x0000\xfffeちなみに　うちの　モーモーミルクは\xfffeさんち　ちょくそう\xf000븀\x0000\xfffeしぼりたて　しんせん　なんですよ！
 Here's your dozen!\xfffeTwelve bottles of Moomoo Milk!\xf000븁\x0000
-One
-A dozen
-Nope
+１ほん
+１ダース
+いらない
 ......ごめんね\xf000븁\x0000\xfffeチャールズって　ヤツが\xfffeぜーんぶ　かってっちゃったの
 Youuu! Listen up!\xfffeYou want some good stuff?
 Then show me a Pokémon\xfffeover Level 30!\xf000븁\x0000

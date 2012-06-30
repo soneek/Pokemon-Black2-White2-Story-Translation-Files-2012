@@ -1,26 +1,26 @@
-﻿It's a cardboard box filled with\xfffeold electrical appliances.
-It's a cardboard box filled with\xfffeold electrical appliances.\xf000븁\x0000\xfffeHuh? Rotom is interested in\xfffethe appliances' motors...\xf000븁\x0000\xfffePut Rotom inside a motor?
-Rotom gave up on\xfffepossessing a motor...
-Which motor should\xfffeRotom possess?\xf000븁\x0000
-That Pokémon can't\xfffepossess a motor.
-An egg isn't able\xfffeto possess a motor.
-Which motor should\xfffe\xf000Ă\x0001\x0000 possess?
-Microwave Oven
-Washing Machine
-Rotary Fan
-Refrigerator
-Lawn Mower
-Return to normal
+It's full of cardboard boxes with\xfffeelectrical appliances in them.
+It's full of cardboard boxes with\xfffeelectrical appliances in them.\xf000븁\x0000\xfffeOh? Rotom would like to investigate the\xfffemotors of the electrical appliances...\xf000븁\x0000\xfffeIs that OK?
+Rotom reluctantly gave up\xfffeon entering a motor...
+Which Rotom will you allow\xfffeto enter a motor?\xf000븁\x0000
+That Pokémon can't enter a motor.
+An Egg can't enter a motor.
+Which appliance's motor will you\xfffeallow \xf000Ă\x0001\x0000 to enter?
+レンジ
+せんたくき
+せんぷうき
+れいぞうこ
+しばかりき
+Recall
 Quit
-\xf000Ă\x0001\x0000 possessed\xfffethe motor!
-\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000However, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000Should a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
-Give up on learning\xfffe\xf000ć\x0001\x0001?
-\xf000Ă\x0001\x0000 didn't learn\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 came\xfffeout of the motor!
+\xf000Ă\x0001\x0000 entered the motor.
+\xf000Ă\x0001\x0000 is trying to\xfffelearn \xf000ć\x0001\x0001!\xf000븁\x0000\xfffeBut \xf000Ă\x0001\x0000 can't learn more than\xfffefour moves.\xf000븁\x0000\xfffeDelete a move to make room\xfffefor \xf000ć\x0001\x0001?
+Give up on learning the\xfffemove \xf000ć\x0001\x0001?
+\xf000Ă\x0001\x0000 did not learn\xfffe\xf000ć\x0001\x0001.\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 emerged from the motor.
 Delete the move\xfffe\xf000ć\x0001\x0001?
-１\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014　...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいに　わすれた！\xf000븁\x0000\xfffeそして......！\xf000븁\x0000\xfffe
-\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0002!\xf000븁\x0000
-\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0002.\xf000븁\x0000
-The chosen \xf000Ă\x0001\x0000 is already\xfffepossessing that appliance's motor!\xf000븁\x0000
-\xf000Ă\x0001\x0000 came\xfffeout of the motor!
-\xf000Ă\x0001\x0000 can't\xfffepossess the motor!\xf000븁\x0000
-\xf000Ă\x0001\x0000 gave up on\xfffepossessing a motor...
+1, \xf000븂\x0001\x00142, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Ta-da!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...\xf000븁\x0000
+\xf000Ă\x0001\x0000 learned \xf000ć\x0001\x0002!
+\xf000Ă\x0001\x0000 forgot \xf000ć\x0001\x0002...\xf000븁\x0000
+\xf000Ă\x0001\x0000 has already entered\xfffethe appliance motor.\xf000븁\x0000
+\xf000Ă\x0001\x0000 emerged from the motor.
+\xf000Ă\x0001\x0000 hasn't entered a motor.\xf000븁\x0000
+\xf000Ă\x0001\x0000 reluctantly gave up on\xfffeentering a motor...

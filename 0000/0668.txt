@@ -1,7 +1,7 @@
-﻿Welcome to the\xfffePokémon World Tournament!\xf000븁\x0000
+Welcome to the\xfffePokémon World Tournament!\xf000븁\x0000
 Would you like to register?
-Register
-Explanation
+さんかする
+Info
 Quit
 Which tournament would\xfffeyou like to hear about?
 We hope you join\xfffeus again!
@@ -24,15 +24,15 @@ Which Tournament\xfffewould you like to enter?
 Champions
 Type Expert
 Download
-Driftveil
+ホドモエ
 Unova Leaders
 Kanto Leaders
 Johto Leaders
 Hoenn Leaders
 Sinnoh Leaders
 World Leaders
-Rental
-Mix
+レンタル
+ミックス
 Rental Master
 Mix Master
 About Battle Rules
@@ -42,15 +42,15 @@ Which tournament would\xfffeyou like to join?
 Which Battle Rules\xfffewould you like?
 These are the tournaments\xfffeyou are able to join.
 Hmmm...?\xf000븁\x0000\xfffeIt seems there aren't any\xfffetournaments you are able to join.\xf000븁\x0000
-Single Battle
-Double Battle
-Triple Battle
-Rotation Battle
+Free mode is for casual battles against\xfffeother Pokémon fans around the world.\xf000븁\x0000\xfffeFeel free to challenge it!\xf000븁\x0000
+Rating mode is recommended for those who\xfffewant to master battles.\xf000븁\x0000\xfffeWhen communication is established, you\xfffeare likely to battle against a person with\xf000븀\x0000\xfffea similar Rating.\xf000븁\x0000\xfffeYour Rating starts at 1500. When you win,\xfffeit goes up. When you lose, it goes down.\xf000븁\x0000\xfffeSo the higher your Rating is, the\xfffestronger you are as a Trainer!\xf000븁\x0000\xfffeThere's one thing you should be careful\xfffeabout in Rating mode.\xf000븁\x0000\xfffeYour record and Rating will be erased if\xfffeyou connect to Nintendo Wi-Fi Connection\xf000븀\x0000\xfffewith a different DS System.\xf000븁\x0000\xfffeSo please be careful if you switch!\xf000븁\x0000
+There are several special rules\xfffefor Random Matchups.\xf000븁\x0000\xfffeAny Pokémon higher than Lv. 50 will be\xfffeset to that level for the battle.\xf000븁\x0000\xfffePokémon nicknames won't be used.\xf000븁\x0000\xfffeYou have a limited time to choose Pokémon\xfffefor a battle and to give orders to your\xf000븀\x0000\xfffePokémon during the battle.\xf000븁\x0000\xfffeDon't exceed the time limit,\xfffeor your Pokémon and its moves\xf000븀\x0000\xfffewill be chosen for you!\xf000븁\x0000\xfffeThere's also a time limit on the battle.\xf000븁\x0000\xfffeThe winner will be determined when time\xffferuns out, even if both sides still have\xf000븀\x0000\xfffePokémon standing.\xf000븁\x0000
+Which Battle would you like\xfffeto choose?
 You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe3 or more Pokémon.\xf000븁\x0000
 You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more Pokémon.\xf000븁\x0000
 You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe6 Pokémon.\xf000븁\x0000
 You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more Pokémon.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
+You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe3 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
 You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
 You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe6 different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
 You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
@@ -81,23 +81,23 @@ If you win the Unova Leaders\xfffeTournament, you can participate\xf000븁\x0000
 If you win the World Leaders Tournament\xfffeonce more, you will be able\xf000븁\x0000\xfffeto participate in the Champions\xfffeTournament!\xf000븀\x0000\xfffeDo your best!\xf000븁\x0000
 If you are victorious in\xfffeeach region's Leaders Tournament\xf000븁\x0000\xfffeand the Rental Tournament,\xfffeyou will be able to participate\xf000븁\x0000\xfffein the Rental Master\xfffeTournament!\xf000븁\x0000
 If you are victorious in\xfffeeach region's Leaders Tournament\xf000븁\x0000\xfffeand the Mix Tournament,\xfffeyou will be able to participate\xf000븁\x0000\xfffein the Mix Master\xfffeTournament!\xf000븁\x0000
-Normal
-Fire
-Water
-Grass
-Electric
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
+ノーマル
+ほのお
+みず
+くさ
+でんき
+こおり
+かくとう
+どく
+じめん
+ひこう
+エスパー
+むし
+いわ
+ゴースト
+ドラゴン
+あく
+はがね
 Victory Record
 Tournament Download
 Quit
@@ -107,7 +107,7 @@ Power Off
 
 Brought up the Tournament\xfffeVictory record!\xf000븁\x0000
 Brought up the Tournament\xfffeDownload system!\xf000븁\x0000
-Right
+みぎのクジ
 Center
 Left
 We are now preparing\xfffea Special Tournament.\xf000븀\x0000\xfffePlease wait a while longer!

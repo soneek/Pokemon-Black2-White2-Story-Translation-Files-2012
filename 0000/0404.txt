@@ -1,9 +1,9 @@
-デオキシスが　いんせきに\xfffeはんのう　している......\xf000븁\x0000\xfffeつれている　デオキシスを\xfffeいんせきに　ちかづけますか？
-Put which Deoxys\xfffenext to the meteorite?\xf000븁\x0000
-That Pokémon doesn't\xfffereact to the meteorite.
-Eggs don't react\xfffeto the meteorite.
-\xf000Ă\x0001\x0000 transformed\xfffeinto its Balance Form!
-\xf000Ă\x0001\x0000 transformed\xfffeinto its Attack Form!
-\xf000Ă\x0001\x0000 transformed\xfffeinto its Defense Form!
-\xf000Ă\x0001\x0000 transformed\xfffeinto its Speed Form!
-It's a mysterious meteorite\xfffethat came from space...
+Deoxys is reacting to the meteor...\xf000븁\x0000\xfffeWould you like to bring the Deoxys\xfffein your party closer to the meteor?
+Which Deoxys would you like to\xfffebring closer to the meteor?\xf000븁\x0000
+The Pokémon is not reacting\xfffeto the meteor.
+The Egg is not reacting\xfffeto the meteor.
+\xf000Ă\x0001\x0000 has changed to\xfffehave balanced stats!
+\xf000Ă\x0001\x0000 has changed to\xfffehave superior stats for attacking!
+\xf000Ă\x0001\x0000 has changed to\xfffehave superior stats when defending!
+\xf000Ă\x0001\x0000 has changed\xfffeto have increased Speed!
+There is a meteor that fell from space...

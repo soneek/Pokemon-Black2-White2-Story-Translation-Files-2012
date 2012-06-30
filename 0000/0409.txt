@@ -1,15 +1,15 @@
 Quit
-1st Floor
-2nd Floor
-3rd Floor
-7th Floor
-11th Floor
-14th Floor
-19th Floor
-22th Floor
-23th Floor
-25th Floor
-28th Floor
-47th Floor
-55th Floor
-Where do you want to go
+１かい
+２かい
+３かい
+７かい
+１１かい
+１４かい
+１９かい
+２２かい
+２３かい
+２５かい
+２８かい
+４７かい
+５５かい
+Which floor would you like to go to?

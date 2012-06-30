@@ -1,32 +1,32 @@
-Welcome!\xfffeWhat do you need?
+Welcome!\xfffeMay I help you?
 Please come again!
-Is there anything else\xfffeI may do for you?
-You don’t have enough money!\xf000븁\x0000
+Is there anything else I may do\xfffefor you?
+You don't have enough money.\xf000븁\x0000
 \xf000ĉ\x0001\x0000? Certainly.\xfffeHow many would you like?
-For \xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000(s), \xfffethat will be $\xf000Ȇ\x0001\x0002, please.
-For \xf000ĉ\x0001\x0000,\xfffethat will be \xf000ȃ\x0001\x0002 BP, please.
-For No. \xf000ȁ\x0001\x0000 "\xf000ć\x0001\x0001,"\xfffethat will be $\xf000Ȅ\x0001\x0002, please.
-For No. \xf000ȁ\x0001\x0000 "\xf000ć\x0001\x0001,"\xfffethat will be \xf000ȃ\x0001\x0002 BP, please.
-Here you are!\xfffeThank you!\xf000븅\x0001\x0001\xf000븁\x0000You put away the \xf000ĉ\x0001\x0000(s)\xfffein the \xf000Ē\x0001\x0001 Pocket.\xf000븁\x0000
-You can't hold\xfffeany more than that!\xf000븁\x0000
-Cancel
+\xf000ĉ\x0001\x0000, and you want \xf000ȁ\x0001\x0001. \xfffeThat will be $\xf000Ȇ\x0001\x0002. OK?
+\xf000ĉ\x0001\x0000 will cost \xf000ȃ\x0001\x0002 BP.\xfffeIs that OK?
+No. \xf000ȁ\x0001\x0000, \xf000ć\x0001\x0001?\xfffeThat will be $\xf000Ȅ\x0001\x0002. OK?
+No. \xf000ȁ\x0001\x0000, \xf000ć\x0001\x0001?\xfffeThat will be \xf000ȃ\x0001\x0002 BP. OK?
+Here you are!\xfffeThank you!\xf000븅\x0001\x0001\xf000븁\x0000\xfffeYou put away the \xf000ĉ\x0001\x0000\xfffein the \xf000Ē\x0001\x0001 Case.\xf000븁\x0000
+You can't take any more of this item.\xf000븁\x0000
+Quit
 $\xf000Ȅ\x0001\x0001
 \xf000ȁ\x0001\x0001 BP
-－－－
-You also get a Premier Ball\xfffeas an added bonus!\xf000븁\x0000
-You don’t have enough BP!\xf000븁\x0000
+ーーー
+You also get a Premier Ball as\xfffean added bonus.\xf000븁\x0000
+You don't have enough BP.\xf000븁\x0000
 Buy
 Sell
 Quit
-Money
-$\xf000Ȇ\x0001\x0000\xf000Ȇ\x0001\x0000
+おこづかい
+$\xf000Ȇ\x0001\x0000
 \xf000ȃ\x0001\x0000 BP
 In Bag: \xf000Ȃ\x0001\x0000
-x\xf000ȁ\x0001\x0000
-$\xf000Ȇ\x0001\x0000\xf000Ȇ\x0001\x0000
+x \xf000ȁ\x0001\x0000
+$\xf000Ȇ\x0001\x0000
 \xf000ȅ\x0001\x0000 BP
-Yes
-No
+はい
+いいえ
 \xf000ć\x0001\x0001
 \xf000ć\x0001\x0000　だね\xfffe\xf000ĉ\x0001\x0001　\xf000ȁ\x0001\x0002コ　もらうよ？
 \xf000ȁ\x0001\x0001コ

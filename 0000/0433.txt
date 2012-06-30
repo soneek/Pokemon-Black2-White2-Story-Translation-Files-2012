@@ -1,6 +1,6 @@
-﻿This tree looks like it can be cut down!\xfffeWould you like to use Cut?
+This tree looks like it can be\xfffecut down! Would you like to cut it?
 \xf000Ă\x0001\x0000 used Cut!\xf000븁\x0000
-This tree looks like it can be cut down!
+This tree looks like it can be\xfffecut down!
 This rock appears to be breakable.\xfffeWould you like to use Rock Smash?
 It's a big boulder, but a Pokémon\xfffemay be able to push it aside.
 \xf000Ă\x0001\x0000 used Rock Smash!\xf000븁\x0000
@@ -28,7 +28,7 @@ Teleport to \xf000ą\x0001\x0000,\xfffethe last place you or your Pokémon reste
 \xf000Ă\x0001\x0000 used Flash!\xf000븁\x0000
 \xf000Ă\x0001\x0000 used Teleport!\xf000븁\x0000
 \xf000Ă\x0001\x0000 used Dig!\xf000븁\x0000
-It's very deep here...\xfffeWill a Pokémon be able to Dive here?
-It's very deep here...\xfffeDo you want to use Dive?
+It's a deep part of the sea, but a\xfffePokémon may be able to dive down.
+It's a deep part of the sea.\xfffeWould you like to use Dive?
 \xf000Ă\x0001\x0000 used Dive!\xf000븁\x0000
 ふたりで　いるときは\xfffe\xf000ć\x0001\x0000は　つかえません！

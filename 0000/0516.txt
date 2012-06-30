@@ -5,7 +5,7 @@
 この　さきにいる　ポケモンも\xfffeぜーんぶ　つってみたいものだ！
 Route 1
 Route 1
-Trainer Tips!\xf000븁\x0000\xfffe\xfffeYou came all this way,\xfffeso talk to everyone!\xf000븁\x0000\xfffeThey're sure to tell you\xfffehelpful information!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeMake an effort to talk to all the\xfffepeople you meet during your journey!\xf000븁\x0000\xfffeChances are they will have something\xfffeuseful to tell you.
 Bianca: おうい！\xf000븁\x0000
 Bianca: ねえねえ！\xf000븁\x0000
 ......ここ　なつかしいなあ\xf000븁\x0000
