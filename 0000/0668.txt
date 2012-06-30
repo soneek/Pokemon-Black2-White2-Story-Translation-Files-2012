@@ -65,7 +65,7 @@ To participate in the tournament,\xfffe\xf000Ȁ\x0001\x0000 Pokémon are require
 ...OK!\xfffeRegistration is complete!\xf000븀\x0000\xfffePlease come this way!\xf000븁\x0000
 Hm...?\xf000븁\x0000\xfffeIt seems there's a problem\xfffewith your participating Pokémon.
 Please draw to see which\xfffePokémon will join you in battle!
-Okay, it is time to\xfffesee the results!\xf000븁\x0000\xfffeHmmm...\xf000븁\x0000\xfffe...　...　...\xfffe...　...　...\xf000븁\x0000\xfffeTa-da! Here it is!\xf000븁\x0000\xfffeYour Rental Pokémon\xfffewill be this one!\xf000븁\x0000
+Okay, it is time to\xfffesee the results!\xf000븁\x0000\xfffeHmmm...\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeTa-da! Here it is!\xf000븁\x0000\xfffeYour Rental Pokémon\xfffewill be this one!\xf000븁\x0000
 We are now preparing the\xfffeSpecial Tournament.\xf000븁\x0000\xfffeIt will take a lot time,\xfffeso please be patient!
 Oh, you lost...\xf000븁\x0000\xfffeBut don't give up!\xfffeDo your best!\xf000븁\x0000
 One more round to the final...\xf000븁\x0000\xfffeIt's okay!　Next time\xfffeyou'll rise even higher!\xf000븁\x0000
@@ -86,9 +86,9 @@ If you are victorious in\xfffeeach region's Leaders Tournament\xf000븁\x0000\xf
 みず
 くさ
 でんき
-こおり
+Freeze
 かくとう
-どく
+Poison
 じめん
 ひこう
 エスパー

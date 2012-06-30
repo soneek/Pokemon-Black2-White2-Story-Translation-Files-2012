@@ -17,7 +17,7 @@ Deposit Pokémon
 Withdraw Pokémon
 Move Pokémon
 Move items
-さようなら
+See Ya!
 Battle Box
 Pokémon in your party may be stored\xfffein the storage system's Boxes.
 Pokémon stored in Boxes may be added\xfffeto your party.
@@ -39,4 +39,4 @@ You can see the members at the time\xfffewhen you entered the Hall of Fame.
 Log out of the Record System.
 Accessed Professor Juniper's PC.\xf000븁\x0000
 Accessed the Help System.\xf000븁\x0000
-　
+ 

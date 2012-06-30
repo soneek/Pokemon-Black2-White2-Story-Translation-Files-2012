@@ -46,7 +46,7 @@ Contest Move
 \xf000Ȃ\x0001\x0000
 \xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
 Quit
-ーーー
+---
 Back
 おぼえる
 Remember which move?

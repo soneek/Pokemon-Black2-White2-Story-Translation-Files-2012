@@ -1,4 +1,4 @@
-テスト
+test
 Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Single Train here.\xf000븁\x0000
 Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Double Train here.\xf000븁\x0000
 Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Multi Train here.\xf000븁\x0000

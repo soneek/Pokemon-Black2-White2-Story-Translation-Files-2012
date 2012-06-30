@@ -11,6 +11,6 @@ Certainly.\xfffePlease come back again.
 Thank you for sailing with us on the\xfffeRoyal Unova.\xf000븁\x0000\xfffeHave a nice day!
 We are closed for the day.\xfffePlease come again tomorrow.
 Congratulations!\xf000븁\x0000\xfffeYou've defeated all the Trainers\xfffeon the ship!\xf000븁\x0000\xfffePlease accept this prize.\xf000븁\x0000
-ふねにのる
+Explain
 Get On Board
 Quit

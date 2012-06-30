@@ -2,8 +2,8 @@ no data
 no data
 \xf000ȃ\x0001\x0000, \xf000ȃ\x0001\x0001, \xf000ȃ\x0001\x0002, \xf000ȃ\x0001\x0003\xfffe\xf000ȃ\x0001\x0004
 \xf000ē\x0001\x0000
-はい
-いいえ
+Yes
+No
 What are people's favorite things?\xfffeWhat is popular right now?\xf000븁\x0000\xfffeHave you ever wondered about\xfffethese things?\xf000븁\x0000\xfffeWelcome to Passerby Analytics HQ!\xf000븁\x0000\xfffeThis is where you can find\xfffeall the answers.\xf000븁\x0000\xfffe...You have good eyes.\xfffeEyes full of curiosity.\xf000븁\x0000\xfffe...Good! I will specially appoint you\xfffeas a statistician!\xf000븁\x0000
 \xf000Ā\x0001\x0001 was appointed\xfffeas a statistician!\xf000븁\x0000
 Statisticians have only one task!\xfffeThey conduct requested surveys.\xf000븁\x0000\xfffeFirst, you'll receive survey requests\xfffefrom me.\xf000븁\x0000\xfffeThen, with the Survey Radar, you'll\xfffechoose the survey you want to conduct.\xf000븁\x0000\xfffeThen, if you pass by a lot of people,\xfffethe radar will collect the information.\xf000븁\x0000\xfffeOf course, we've prepared compensation\xfffefor the survey.\xf000븁\x0000\xfffeStatistician \xf000Ā\x0001\x0001!\xfffeI expect you to do a great job!\xf000븁\x0000
@@ -341,7 +341,7 @@ Good day!\xfffeGreetings are important!\xf000븁\x0000
 こんにちは\xf000븁\x0000\xfffeかんしゃの　きもちを\xfffeわすれていない？\xf000븁\x0000
 あら？\xfffeモンスターボールを　おとしたわよ\xf000븀\x0000\xfffeはい　どうぞ\xf000븁\x0000
 \xf000Ā\x0001\x0001は\xfffeおとした　モンスターボールを\xf000븀\x0000\xfffeうけとった\xf000븁\x0000
-......　......\xfffe......　......\xf000븁\x0000\xfffeこら！　まちなさい！\xf000븁\x0000\xfffeおせわに　なった　ひとには\xfffeかんしゃ　する！\xf000븁\x0000\xfffeささいなことだけど　だいじなことよ\xf000븁\x0000\xfffeさあ　あなたの　かんしゃの　きもちを\xfffeおしえてもらえるかしら？
+...... ......\xfffe...... ......\xf000븁\x0000\xfffeこら！　まちなさい！\xf000븁\x0000\xfffeおせわに　なった　ひとには\xfffeかんしゃ　する！\xf000븁\x0000\xfffeささいなことだけど　だいじなことよ\xf000븁\x0000\xfffeさあ　あなたの　かんしゃの　きもちを\xfffeおしえてもらえるかしら？
 よかったら　また　あなたの\xfffeかんしゃの　きもちを\xf000븀\x0000\xfffeおしえてくれるかしら？
 
 それじゃ　またこんどね\xf000븁\x0000\xfffeかんしゃの　きもちは\xfffeわすれちゃ　ダメよ

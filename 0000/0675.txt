@@ -76,7 +76,7 @@ Rotation Battle
 Launcher Battle
 Back
 Would you like to take the\xfffeSingle Battle challenge?
-けってい
+Enter
 Would you like to take the \xfffeTriple Battle Challenge?
 Quit
 Would you like to take the \xfffeLauncher Battle Challenge?
@@ -85,11 +85,11 @@ Rules
 Back
 For a Single Battle, you need to have\xfffethree to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose three Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
 For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
-てもち
+Goods
 Battle Box
 Quit
 For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
-けってい
+Enter
 Battle Box
 Quit
 てもちか バトルボックスの\xfffeどちらを つかうか えらんでください

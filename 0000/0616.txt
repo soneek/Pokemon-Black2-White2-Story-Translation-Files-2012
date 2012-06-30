@@ -28,8 +28,8 @@ You don't have enough money...
 Do you want to take back the other\xfffeone, too? 
 Huh? Now, now.\xf000븁\x0000\xfffeIf you leave that Pokémon with\xfffeme, you'll be left with just one.\xf000븁\x0000\xfffeYou will be better off if you catch\xfffesome more, if I do say so myself.
 $\xf000ȅ\x0001\x0002
-あずける
-ひきとる
+Store
+Take
 Quit
 Lv. \xf000Ȃ\x0001\x0001
 \xf000ā\x0001\x0000⑭ Lv. \xf000Ȃ\x0001\x0001

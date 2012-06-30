@@ -63,13 +63,13 @@ Kanto Region
 Johto Region
 Hoenn Region
 Sinnoh Region
-チェレン
+Cheren
 ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
+Burgh
+Elesa
+Clay
+Skyla
+Drayden
 シズイ
 ベル
 ポッド

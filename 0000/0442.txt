@@ -33,13 +33,13 @@ A Sweet Soirée
 Exciting Nimbasa
 \xf000Ģ\x0001\x0000
 Quit
-はい
-いいえ
+Yes
+No
 Info
 Become leader
 Join group
 Quit
-けってい
+Enter
 つごうの　わるくなった\xfffeメンバーが　います\xf000븁\x0000\xfffeもういちど　さいしょから\xfffeつうしんを　やりなおして　ください
 Welcome to the Pokémon Musical!\xf000븁\x0000\xfffeHere you and your friends can\xfffeperform together!\xf000븁\x0000\xfffeWould you like to participate?
 I'm sorry, but you don't have an\xfffeeligible Pokémon in your party.\xf000븁\x0000\xfffePlease come back again with\xfffedifferent Pokémon!\xf000븁\x0000
