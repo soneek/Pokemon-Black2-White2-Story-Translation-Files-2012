@@ -6,7 +6,7 @@ You don’t have enough money!\xf000븁\x0000
 For \xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000(s), \xfffethat will be $\xf000Ȇ\x0001\x0002, please.
 \xf000ĉ\x0001\x0000 は\xfffe\xf000Ȇ\x0001\x0002円に なりますが？
 \xf000ĉ\x0001\x0000 ですね\xfffe\xf000Ȇ\x0001\x0002円に なりますが？
-はい どうぞ\xfffeまいど ありがとう ございます\xf000븅\x0001\x0001\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0000を\xfffe\xf000Ē\x0001\x0001ポケットに しまった\xf000븁\x0000
+Here you are!\xfffeThank you!\xf000븅\x0001\x0001\xf000븁\x0000\xfffeYou put away the \xf000ĉ\x0001\x0000\xfffein the \xf000Ē\x0001\x0001 Case.\xf000븁\x0000
 はい どうぞ\xfffeありがとう ございますー\xf000븅\x0001\x0001\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0000を\xfffe\xf000Ē\x0001\x0001ポケットに しまった\xf000븁\x0000
 You can't hold\xfffeany more than that!\xf000븁\x0000
 You can't hold\xfffeany more than that!\xf000븁\x0000

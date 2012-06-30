@@ -88,11 +88,11 @@ For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\
 For a Triple Battle, you need to have\xfffesix Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen decide their order and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
 In a Rotation Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
 In a Launcher Battle, you have a\xfffeTriple Battle with your Wonder Launcher.\xf000븀\x0000\xfffeYou need to have six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen decide their order and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
-てもちか バトルボックスの\xfffeどちらを つかうか えらんでください
+For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
 Goods
 Battle Box
 Quit
-てもちか バトルボックスの\xfffeどちらを つかうか えらんでください
+For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
 Enter Mode
 Battle Box
 Quit
