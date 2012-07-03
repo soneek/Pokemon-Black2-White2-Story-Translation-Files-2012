@@ -349,7 +349,7 @@ Hello!
 たいいんランクって しってる？\xf000븁\x0000\xfffeなんどか ちょうさいらいを\xfffeたっせいすると\xf000븀\x0000\xfffeランクが アップするんだ！\xf000븁\x0000\xfffeランクが アップすると\xfffeみんなから そんけいされるし\xf000븁\x0000\xfffeいいものが もらえる\xfffeいらいを うけられるらしいよ！
 たいいんランクって しってる？\xf000븁\x0000\xfffeあ Ｂランクの\xfffe\xf000Ā\x0001\x0001たいいん\xf000븁\x0000\xfffeＢランクまで アップしたんだ\xfffeがんばってるみたいだね\xf000븁\x0000\xfffeランクが あがったら\xfffeあたらしい いらいも ふえるから\xf000븀\x0000\xfffeたいちょうに はなしてみるといいよ
 たいいんランクって しってる？\xf000븁\x0000\xfffeあ Ａランクの\xfffe\xf000Ā\x0001\x0001たいいん\xf000븁\x0000\xfffeもう Ａランクたいいん なんだね\xfffeすごいな......\xf000븁\x0000\xfffeオレも がんばって\xfffeちょうさしないと！\xf000븁\x0000\xfffeＡランクの いらいは\xfffeむずかしい らしいから\xf000븀\x0000\xfffeがんばって ちょうさしてね！
-たいいんランクって しってる？\xf000븁\x0000\xfffe......って Ｓランクの\xfffe\xf000Ā\x0001\x0001たいいん！\xf000븁\x0000\xfffeあとすこしで さいこうの\xfffeＳＳランクたいいん ですね！\xf000븁\x0000\xfffeオレ おうえんしています！\xfffeがんばってください！！
+たいいんランクって しってる？\xf000븁\x0000\xfffe......って Ｓランクの\xfffe\xf000Ā\x0001\x0001たいいん！\xf000븁\x0000\xfffeあとすこしで さいこうの\xfffeＳＳランクたいいん ですね！\xf000븁\x0000\xfffeオレ おうえんしています！\xfffeがんばってください!!
 たいいんランクって しってる？\xf000븁\x0000\xfffe......って ＳＳランクの\xfffe\xf000Ā\x0001\x0001たいいん！\xf000븁\x0000\xfffeしつれいしました！\xf000븁\x0000\xfffeオレも すこしでも ランクが\xfffeあがるように がんばります！
 じぶんの じょうほうを\xfffeしりたいときは\xf000븁\x0000\xfffeおくの かべにある\xfffeえんグラフを しらべてごらん\xf000븁\x0000\xfffeあそこには たいいんじょうほうが\xfffeかかれているんだ\xf000븁\x0000\xfffeもちろん キミのことも\xfffeちょうさずみさ！
 アンケートには もうこたえた？\xf000븁\x0000\xfffeじぶんが どんな ひとなのか\xfffeこれぐらいは こたえたほうが いいよ
@@ -374,7 +374,7 @@ Hello!
 うれしいときに つい いってしまう！\xfffeそんな ことばを おしえてよ！
 やったー!
 それじゃ またこんどね\xf000븁\x0000\xfffeうれしい ときは\xfffeおもいっきり よろこばなきゃ ね！
-ステキな セリフ！！\xf000븁\x0000\xfffeすれちがいログの はつげんで\xfffeすばやく にゅうりょくできるように\xf000븀\x0000\xfffeとうろく しておいたからね！
+ステキな セリフ!!\xf000븁\x0000\xfffeすれちがいログの はつげんで\xfffeすばやく にゅうりょくできるように\xf000븀\x0000\xfffeとうろく しておいたからね！
 あ \xf000Ā\x0001\x0001たいいん!\xfffeおあいできて こうえいです!\xf000븁\x0000どうしよう～\xfffe\xf000Ā\x0001\x0001たいいんに\xf000븀\x0000はなしかけられちゃった!
 STATISTICIANS WANTED!\xfffeFOR DETAILS, ASK THE LEADER!
 \xf000Ā\x0001\x0000\xfffeStatistician rank: C rank\xfffeNumber of times thanked: \xf000Ȅ\x0001\x0002\xfffeNumber of people passed by: \xf000Ȅ\x0001\x0001
@@ -382,4 +382,4 @@ STATISTICIANS WANTED!\xfffeFOR DETAILS, ASK THE LEADER!
 \xf000Ā\x0001\x0000\xfffeStatistician rank: A rank\xfffeNumber of times thanked: \xf000Ȅ\x0001\x0002\xfffeNumber of people passed by: \xf000Ȅ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffeStatistician rank: S rank\xfffeNumber of times thanked: \xf000Ȅ\x0001\x0002\xfffeNumber of people passed by: \xf000Ȅ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffeStatistician rank: S+ rank\xfffeNumber of times thanked: \xf000Ȅ\x0001\x0002\xfffeNumber of people passed by: \xf000Ȅ\x0001\x0001
-レッツ トライ ヒウンラリー！\xfffeすれちがいちょうさたい オーケー！！
+レッツ トライ ヒウンラリー！\xfffeすれちがいちょうさたい オーケー!!

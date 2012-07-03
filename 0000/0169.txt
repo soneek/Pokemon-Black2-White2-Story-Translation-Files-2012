@@ -78,7 +78,7 @@ Mom: Have a good time!\xf000븁\x0000\xfffeGo with \xf000ā\x0001\x0002\xfffeand
 \xf000Ā\x0001\x0001's sister: Pokémon are the best!
 Bianca: おうい！\xf000븁\x0000
 Bianca: ねえねえ！\xf000븁\x0000
-どうだった？\xfffeジムリーダーとの ポケモンしょうぶ\xf000븁\x0000\xfffeって！ それは\xfffeベーシックバッジ！\xf000븁\x0000\xfffeすごいすごーい！ ポケモンと\xfffeたびを はじめたばかり なのに！\xf000븁\x0000\xfffeあなたには トレーナーの\xfffeさいのうが あるよ ぜったい！！\xf000븁\x0000\xfffeじゃあ わたしからは これ\xfffe「おんがえし」の わざマシン だよ！\xf000븁\x0000
+どうだった？\xfffeジムリーダーとの ポケモンしょうぶ\xf000븁\x0000\xfffeって！ それは\xfffeベーシックバッジ！\xf000븁\x0000\xfffeすごいすごーい！ ポケモンと\xfffeたびを はじめたばかり なのに！\xf000븁\x0000\xfffeあなたには トレーナーの\xfffeさいのうが あるよ ぜったい!!\xf000븁\x0000\xfffeじゃあ わたしからは これ\xfffe「おんがえし」の わざマシン だよ！\xf000븁\x0000
 おんがえしを おぼえた ポケモンは\xfffeトレーナーに なつくほどに\xf000븀\x0000\xfffeわざの いりょくが アップするんだよ\xf000븁\x0000
 それにしても チェレンったら......\xf000븁\x0000
 Cheren: ベル！\xf000븁\x0000\xfffe２ねんぶり だね\xf000븁\x0000
@@ -91,7 +91,7 @@ Bianca: あっ あたしも！\xf000븁\x0000
 The Xtransceiver is ringing.
 \xf000Ā\x0001\x0000 connected\xfffeto the Xtransceiver.\xf000븁\x0000
 Bianca: ね \xf000Ā\x0001\x0000！\xfffeアララギはかせ かっこいいでしょ！\xf000븁\x0000\xfffeライブキャスターで はなせば\xfffeポケモンずかんの かんせいぐあいを\xf000븀\x0000\xfffeひょうか してくれたり\xf000븁\x0000\xfffeポケモンの しんかに ついて\xfffeいろいろ おしえてくれるよ！\xf000븁\x0000\xfffeもちろん あたしたちも！\xf000븁\x0000
-あなたの ポケモンが\xfffeどれだけ なついているか\xf000븀\x0000\xfffeあたしが おしえてあげるね！！\xf000븁\x0000
+あなたの ポケモンが\xfffeどれだけ なついているか\xf000븀\x0000\xfffeあたしが おしえてあげるね!!\xf000븁\x0000
 Cheren: そうだね\xf000븁\x0000\xfffeぼくは ポケモンの とくせいや\xfffeタイプの あいしょうに ついて\xf000븀\x0000\xfffeしっていることを おしえてあげるよ\xf000븁\x0000
 \xf000Ā\x0001\x0001: ジムリーダーだな！\xfffeさっそくだけど ちょうせん だぜッ！\xf000븁\x0000
 Cheren: きみも\xfffeてごわそうな トレーナーだね\xf000븁\x0000\xfffeりょうかい！\xfffeでは ポケモンジムに おいで\xf000븁\x0000

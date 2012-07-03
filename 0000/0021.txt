@@ -38,10 +38,10 @@ Pecha Berry
 Sleep
 ひるみ
 Confused
-ピンポン！ ピンポーン！！\xf000븁\x0000\xfffeだいせいかい です！\xfffeあなたに これを プレゼント！\xf000븁\x0000
+ピンポン！ ピンポーン!!\xf000븁\x0000\xfffeだいせいかい です！\xfffeあなたに これを プレゼント！\xf000븁\x0000
 ダブルバトルで キーのみを もった\xfffeみかたの ポケモンに\xf000븀\x0000\xfffeいばるの わざを つかうと\xf000븁\x0000\xfffeわざを うけた みかたの\xfffeこうげきりょくが あがり\xf000븀\x0000\xfffeキーのみで こんらんが なおります！\xf000븁\x0000\xfffeそして こうげきりょくの あがった\xfffeポケモンで あいてを こうげき！\xf000븁\x0000\xfffeダブルバトルって くみあわせで\xfffeいろんな ことが できますよ！
 If you want a quiz,\xfffejust come back and tell me!
-ブブー！！\xf000븁\x0000\xfffeざんねん...... ハズレです\xfffeまた チャレンジ してください
+ブブー!!\xf000븁\x0000\xfffeざんねん...... ハズレです\xfffeまた チャレンジ してください
 The blackboard is filled with\xfffeinformation about status effects\xf000븁\x0000\xfffethat can come up during battle.\xf000븁\x0000
 Which will you look at?
 どくを うけると\xfffeたたかっている あいだ\xf000븀\x0000\xfffeたいりょくが へっていきます\xf000븁\x0000\xfffeせんとうが おわっても\xfffeどくの ままです\xf000븁\x0000\xfffeどくけしで なおしましょう\xf000븁\x0000
