@@ -34,7 +34,7 @@ Teach a move to an Egg?\xfffeImpossible, even for me! Keh!
 The bond with your Pokémon\xfffeis not strong enough! Keh!
 That Pokémon already knows\xfffethat move! Keh!
 I should teach \xf000ć\x0001\x0001 to\xfffe\xf000ā\x0001\x0000, right? Keh!
-ここに しるした ポケモンに\xfffeきゅうきょくの わざを おしえる！\xf000븁\x0000\xfffeもえる ほのおの ポケモン\xfffe リザードン バクフーン\xf000븀\x0000\xfffe バシャーモ ゴウカザル\xf000븀\x0000\xfffe エンブオー\xf000븁\x0000\xfffeたゆたう みずの ポケモン\xfffe カメックス オーダイル\xf000븀\x0000\xfffe ラグラージ エンペルト\xf000븀\x0000\xfffe ダイケンキ\xf000븁\x0000\xfffeしずかな くさの ポケモン\xfffe フシギバナ メガニウム\xf000븀\x0000\xfffe ジュカイン ドダイトス\xf000븀\x0000\xfffe ジャローダ
+Allow me to recite the Pokémon who\xfffecan be taught the ultimate moves!\xf000븁\x0000The blazing fire Pokémon...\xfffeCharizard, Typhlosion,\xf000븀\x0000Blaziken, Infernape,\xf000븀\x0000and Emboar!\xf000븁\x0000The restless water Pokémon...\xfffeBlastoise, Feraligatr,\xf000븀\x0000Swampert, Empoleon,\xf000븀\x0000and Daikenki!\xf000븁\x0000And the quiet grass Pokémon...\xfffeVenusaur, Meganium,\xf000븀\x0000Sceptile, Torterra,\xf000븀\x0000and Jalorda!
 Heya!\xf000븁\x0000\xfffeThe professor gave you a Pokémon to\xfffestart your journey, right?\xf000븁\x0000\xfffeIf that Pokémon is still with you, and if\xfffeyou two have a strong bond, there's a\xf000븀\x0000\xfffespecial move it can learn...\xf000븁\x0000\xfffeWant me to teach it a battle combo move?
 A special move...\xfffeShould I teach it a battle-combo move?
 I can't teach these Pokémon.

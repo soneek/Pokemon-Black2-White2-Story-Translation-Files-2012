@@ -62,8 +62,8 @@ Cheren: \xf000Ā\x0001\x0000！\xfffeできれば きみも きてほしい！\x
 Drayden: セイガイハシティか......\xf000븁\x0000\xfffeサザナミタウンから\xfffeきたに なにが ある......？\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeプラズマだん から\xfffeポケモンたちを まもってくれぬか！\xf000븁\x0000\xfffeポケモンと ひととの まじわりは\xfffeどうあるべきか どうすべきかは\xf000븀\x0000\xfffeそれぞれが かんがえることだ\xf000븁\x0000\xfffeあいつら プラズマだんが\xfffeかってに きめること ではない！
 Drayden: すこしずつ だが\xfffeこおりが とけてゆく......\xf000븁\x0000\xfffeきみたちの おかげ なんだろう\xfffeひとりの トレーナーとして かんしゃする
 なぜ ポケモンは\xfffeわれわれの そばに いてくれるのか？\xf000븁\x0000\xfffeポケモンと はなせたら わかるけど\xfffeきくのは なんだか こわいね
-この まちには いきてきた\xfffeひと すべての おもいが\xf000븁\x0000\xfffeかたちを かえずに\xfffeつみかさなって いるんだよ
-この まちは たえず かわっていく\xf000븁\x0000\xfffeそして かわるたびに そのとき\xfffeいきている ひとたちの おもいを\xf000븀\x0000\xfffeきざみこめば いいんだよ
+The thoughts of all the people\xfffein this town never change...\xf000븀\x0000they only accumulate.
+This town is in a state\xfffeof constant change!\xf000븁\x0000And when it changes, if the people\xfffeget a chance to contribute\xf000븀\x0000their thoughts, that's just great!
 おれ ひとりでは\xfffeとうたつ できなかった たかみにも\xf000븀\x0000\xfffeポケモンが いてくれたから とどいた\xf000븁\x0000\xfffeそして ポケモンも おれが いたから\xfffeタフになったと しんじている！
 I believe there are things that can't be\xfffechanged, no matter how inconvenient.
 I think there are things that have to\xfffechange, no matter how attached you are.
@@ -78,8 +78,8 @@ Gym leader Drayden is\xfffethe mayor that's led Opelucid City.\xf000븁\x0000\xf
 イッシュの シンボルである\xfffeゼクロム レシラム だけど\xf000븀\x0000\xfffeいまは どこに いるのだろうな\xf000븁\x0000\xfffeだれかに おおむかしからの\xfffeちえを つたえているのかな？
 りそうを おいもとめる......\xfffeそれは ひと それぞれ\xf000븀\x0000\xfffeポケモン それぞれ だよ\xf000븁\x0000\xfffeこの まちが れきしを だいじにして\xfffeりそうを もとめているように......
 しんじつを おいもとめる......\xfffeそれは ひと それぞれ\xf000븀\x0000\xfffeポケモン それぞれ だよ\xf000븁\x0000\xfffeこの まちが へんかを だいじにして\xfffeしんじつを もとめているように......
-この メロディに こめられた\xfffeむかしの ひとびとの きぼう......\xf000븀\x0000\xfffeいまに よみがえらせるの
-この メロディに こめた\xfffeボクたちの きぼう......\xf000븀\x0000\xfffeみらいに とどけるんだ
+This melody is filled\xfffewith the hopes of ancient peoples...\xf000븀\x0000to revive them in the present!
+This melody is filled\xfffewith our hopes...\xf000븀\x0000to be sent into the future!
 ふと\xfffeアイリスの ことが よぎった\xf000븁\x0000\xfffeそう チャンピオンの\xfffeアイリスの ことだよ......\xf000븁\x0000
 かのじょは どのような\xfffeチャンピオンに なるのだろうな
 Opelucid City\xfffeWhere past and future entwine!

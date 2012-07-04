@@ -33,7 +33,7 @@ Turbo Blaze
 Persim Berry
 Aspear Berry
 Pecha Berry
-ピンポーン！\xf000븁\x0000\xfffeせいかい です！\xfffeつぎの もんだい です\xf000븁\x0000
+Ding-ding-ding!\xf000븁\x0000You're correct!\xfffeNow for the next question!\xf000븁\x0000
 では ポケモンの わざ\xfffeいばるは こうげきした あいての\xf000븀\x0000\xfffeこうげきりょくを あげますが\xf000븁\x0000\xfffeそのとき つかわれた ポケモンは\xfffeどんな じょうたいに なるでしょう？
 Sleep
 ひるみ
@@ -41,10 +41,10 @@ Confused
 ピンポン！ ピンポーン!!\xf000븁\x0000\xfffeだいせいかい です！\xfffeあなたに これを プレゼント！\xf000븁\x0000
 ダブルバトルで キーのみを もった\xfffeみかたの ポケモンに\xf000븀\x0000\xfffeいばるの わざを つかうと\xf000븁\x0000\xfffeわざを うけた みかたの\xfffeこうげきりょくが あがり\xf000븀\x0000\xfffeキーのみで こんらんが なおります！\xf000븁\x0000\xfffeそして こうげきりょくの あがった\xfffeポケモンで あいてを こうげき！\xf000븁\x0000\xfffeダブルバトルって くみあわせで\xfffeいろんな ことが できますよ！
 If you want a quiz,\xfffejust come back and tell me!
-ブブー!!\xf000븁\x0000\xfffeざんねん...... ハズレです\xfffeまた チャレンジ してください
+BZZZZZT!\xf000븁\x0000Sorry... That's wrong!\xfffeBut come take the challenge again!
 The blackboard is filled with\xfffeinformation about status effects\xf000븁\x0000\xfffethat can come up during battle.\xf000븁\x0000
 Which will you look at?
-どくを うけると\xfffeたたかっている あいだ\xf000븀\x0000\xfffeたいりょくが へっていきます\xf000븁\x0000\xfffeせんとうが おわっても\xfffeどくの ままです\xf000븁\x0000\xfffeどくけしで なおしましょう\xf000븁\x0000
+Poisoning makes a Pokémon\xfffelose health during battle.\xf000븁\x0000Even after the battle ends,\xfffepoison will remain.\xf000븁\x0000Heal it with an Antidote.\xf000븁\x0000
 Paralyzation lowers speed and makes a\xfffePokémon sometimes unable to use moves.\xf000븁\x0000\xfffeFollowing the battle,\xfffeparalyzation will remain.\xf000븁\x0000\xfffeHeal it with a Paralyze Heal.\xf000븁\x0000
 Sleep will make a Pokémon\xfffetemporarily unable to use moves.\xf000븁\x0000\xfffeThough it can wake up,\xfffeif sleeping when the battle ends,\xf000븀\x0000\xfffea Pokémon will stay asleep.\xf000븁\x0000\xfffeHeal it with an Awakening.\xf000븁\x0000
 Being burned will not only lower Attack,\xfffebut steadily lower health.\xf000븁\x0000\xfffeEven after the battle ends,\xfffea burn will remain.\xf000븁\x0000\xfffeHeal it with a Burn Heal.\xf000븁\x0000

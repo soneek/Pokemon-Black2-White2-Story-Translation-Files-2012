@@ -1,4 +1,4 @@
-わたしは\xfffeジムバッジに こめられた おもい......\xf000븁\x0000\xfffeあなたと いっしょに たたかった\xfffeポケモンが わかるのです\xf000븁\x0000\xfffeあなたの もっている\xfffeジムバッジを みても いいですか？
+I can see the thoughts\xfffecontained in a gym badge...\xf000븁\x0000I know what Pokémon\xfffeyou were fighting with!\xf000븁\x0000Shall I take a look\xfffeat one of your gym badges?
 OK. You don't have to show me anything.\xfffeI'm sure your memories are all you need!
 Which Badge are you going to show me?
 The Pokémon you obtained\xfffethe Basic Badge with were... \xf000븁\x0000
@@ -26,5 +26,5 @@ Legend Badge
 Wave Badge
 Quit
 えっ？ その ジムバッジは\xfffeまだ てに いれてないけど......\xf000븁\x0000
-ほんかん ここに ふにんしてから\xfffeなーんも することが ないのだ\xf000븁\x0000\xfffeよるは そとに だれも いないし\xfffeへいわ そのもの だからなー
+Ever since I got appointed here,\xfffeI haven't had to do a thing!\xf000븁\x0000There's not a soul out at night...\xfffeIt's the picture of peace!
 よるは そとに だれも いなくて\xfffeへいわ だった その わけが\xf000븁\x0000\xfffeおそろしーい\xfffeポケモンの おかげとは ふくざつだな

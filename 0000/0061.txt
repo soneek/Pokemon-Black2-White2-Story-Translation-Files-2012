@@ -65,4 +65,4 @@ Certainly.\xfffePlease continue to enjoy yourself.
 You've defeated all the\xfffetrainers on the ship!
 Thank you for boarding\xfffethe Royal Isshu!\xf000븁\x0000\xfffeToday, there are \xf000Ȁ\x0001\x0003 trainers\xfffeaboard the Royal Isshu.\xf000븀\x0000\xfffePlease, enjoy yourself!\xf000븁\x0000
 Today, there are \xf000Ȁ\x0001\x0003 trainers\xfffeaboard the Royal Isshu.\xf000븀\x0000\xfffeYou have... ah! Congratulations!\xf000븁\x0000\xfffeYou were victorious\xfffeover all the trainers!\xf000븁\x0000\xfffeThe ship has set sail,\xfffebut will you disembark?
-ごじょうせん ありがとうございました\xf000븁\x0000\xfffeこの ゆうらんせんは まもなく\xfffeヒウンシティに とうちゃくいたします\xf000븁\x0000
+Thank you for boarding with us.\xf000븁\x0000The cruise will arrive back\xfffeat Hiun City momentarily.\xf000븁\x0000

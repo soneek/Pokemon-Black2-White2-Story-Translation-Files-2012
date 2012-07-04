@@ -1,7 +1,7 @@
 わざマシンを そろえるには\xfffeショッピングモールも チェック！\xf000븁\x0000\xfffeそう！ フキヨセシティの\xfffeわざマシンコレクターに じまんさ！
-１かいで うっているのは\xfffeいろんな くすりに スプレーなど\xf000븁\x0000\xfffe２かいで うっているのは\xfffeわざマシンに メール\xf000븁\x0000\xfffe３かいで うっているのは\xfffeきそポイントを あげる どうぐに\xf000븀\x0000\xfffeしょうぶのときに つかえる どうぐ\xf000븁\x0000\xfffeぼく ポケモンジムを ガイドする\xfffeガイドーさんに あこがれて\xf000븀\x0000\xfffeあんないの れんしゅうを してるよ！
+The first floor sells\xfffevarious medicines and repellents.\xf000븁\x0000The second floor sells\xfffeTMs and mail.\xf000븁\x0000The third floor sells items\xfffethat give Effort Values\xf000븀\x0000and items used during battles.\xf000븁\x0000One day, I long to be a guide\xfffeat the Pokémon gyms...\xf000븀\x0000I'm practicing my guiding!
 ショッピングモールの なかなのに\xfffeポケモンしょうぶを いどまれたわ！\xf000븁\x0000\xfffeいいわ！ つよい ものが\xfffeいきのこる ばしょって ことね！
-あたしが よく かうのは\xfffeポケモンの たいりょくを あげる\xf000븀\x0000\xfffeマックスアップ という どうぐ\xf000븁\x0000\xfffeほかにも いろんな どうぐが\xfffeうっていて めうつり しちゃう！
+I typically buy HP Ups\xfffeto increase my Pokémon's health.\xf000븁\x0000But there's so much else\xfffeto buy that I get distracted!
 ゆうがたが まちどおしいです\xfffeそう ゆうがたこそが フィーバー！
 タイムセール デース！\xf000븁\x0000\xfffeあの モンスターボールがッ！\xf000븁\x0000\xfffeなんとッ！\xf000븁\x0000\xfffe１０パーセント オフ なの！\xfffeさあ かってくださーい!!
 タイムセール デース！\xf000븁\x0000\xfffeあの キズぐすりがッ！\xf000븁\x0000\xfffeなんとッ！\xf000븁\x0000\xfffe１０パーセント オフ なの！\xfffeさあ かってくださーい!!
@@ -12,7 +12,7 @@
 なんと！ １０パーセントオフ なのに\xfffeこれいじょう もてないですってー!!
 いい トレーナーほど かんがえる！\xf000븁\x0000\xfffeそれは パートナーである\xfffeポケモンを かたせる ためさ！
 ポケモンと かくれんぼ しても\xfffeすぐに みつかっちゃうんだよ！\xf000븁\x0000\xfffeでも まいごに なっても\xfffeすぐに みつけてくれるんだよ！
-いらっしゃいませ\xfffeショッピングモール アールナインに！\xf000븁\x0000\xfffeはい ９Routeに あるから\xfffeアールナイン なんですよ\xf000븁\x0000\xfffeあるのに ないん と\xfffeおぼえてくださいね！
+Welcome to the\xfffeShopping Mall R9!\xf000븁\x0000Yes, we're called "R9"\xfffebecause we're on Route 9.\xf000븁\x0000Whatever you do,\xfffeat least remember that!
 あたいの ランプラーは\xfffeポケモンしょうぶじゃ よわいけどさ\xf000븀\x0000\xfffeパンを じょうずに やくんだよ！
 わたし...... おじょうさま よ\xf000븁\x0000\xfffeおかいものに きてみたのだけれど\xfffeどこに なにが うっているか\xf000븀\x0000\xfffeわからなくて こまっているのよね\xf000븁\x0000\xfffeあなた おかねを わたすから\xfffe「すごいキズぐすり」を\xf000븀\x0000\xfffeかってきて くれないかしら？
 ありがとう！\xfffeそれじゃ おかねを わたすわね\xf000븁\x0000\xfffe「すごいキズぐすり」よ\xfffeおねがい ね！

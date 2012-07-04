@@ -1,22 +1,22 @@
 Wyza: Heeey!\xfffeCome, this waaay!\xf000븁\x0000
-ナンデヤ: わくわく ドキドキ！\xfffeクイズで ハップン！\xf000븁\x0000\xfffeきょうの チャレンジャーは\xfffeこの かた でーす！\xf000븁\x0000
-ワカルデ: はーい ようこそ！\xf000븁\x0000\xfffeクイズで ハップン！ の\xfffeはじまり だよ！\xf000븁\x0000\xfffeどんどん あてて\xfffeはっぷん しちゃおう！\xf000븁\x0000\xfffeさっそく もんだいだ！\xf000븁\x0000
+Wyza: Th-thump, th-thump!\xfffeIt's the Thrill Quiz!\xf000븁\x0000Here is today's\xfffeCHALLENGEEEEER!\xf000븁\x0000
+Gawdit: Hello, welcome!\xf000븁\x0000Thrill Quiz!\xfffeCOMMENCE!\xf000븁\x0000Hold on tight,\xfffe'cause you'll be thrilled!\xf000븁\x0000Straight to the question!\xf000븁\x0000
 Ansa: Good luuuck!\xf000븁\x0000
 Gawdit: QUESTION!\xf000븁\x0000
-ナンデヤ: まあっ！\xfffeすごく むずかしい じゃない！\xf000븀\x0000\xfffeこんなの とけるのかしら？\xf000븁\x0000
+Wyza: Why!\xfffeThat one's a toughie!\xf000븀\x0000Can you even answer it?!\xf000븁\x0000
 Ansa: Give! A! HINT! Give! A! HINT!\xf000븁\x0000
 Gawdit: What's this?!\xfffeThe audience demands a hint!\xf000븁\x0000
 Wyza: Very well!\xfffeGive them what they want!\xf000븁\x0000
-ワカルデ: あー これは\xfffeいい ヒント だねえ\xf000븁\x0000\xfffeでは チャレンジャー こたえて！\xf000븁\x0000
+Gawdit: Ah, now that's\xfffea clever hint!\xf000븁\x0000Well, challenger, your answer!\xf000븁\x0000
 Gawdit: HOORAH!\xfffeCOR-RECT!\xf000븁\x0000
 Wyza: Great! You're amazing!\xf000븁\x0000
 Ansa: Whooooo! WHOOOOO!\xfffeGreat effort! Great effort!\xf000븁\x0000
-ワカルデ: おめでとう！\xf000븁\x0000\xfffeさあー しょうひんの\xfffeどくけし です！\xf000븁\x0000
+Gawdit: Congratulations!\xf000븁\x0000Here's your\xfffeAntidote prize!\xf000븁\x0000
 Gawdit: Aww... too bad!\xfffeJust TOO bad! That's incorrect!\xf000븁\x0000
 Wyza: Ohhh... unbelievable!\xf000븁\x0000
 Ansa: Great effort!\xfffeGreffort! Greffort!\xf000븁\x0000
-ワカルデ: そうだね ナイガンだ！\xf000븁\x0000\xfffeさあ...... きねんひんの\xfffeまひなおし です！\xf000븁\x0000
-ナンデヤ: わくわく ドキドキ！\xfffeクイズで ハップン！\xf000븀\x0000\xfffeまた あした おあいしましょうー！
+Gawdit: Yes, greffort indeed!\xf000븁\x0000Well... here's a\xfffeParalyz Heal memento!\xf000븁\x0000
+Wyza: Th-thump, th-thump!\xfffeThat was the Thrill Quiz!\xf000븀\x0000Let's meet again tomorrow!
 Gawdit: You like quiz shows?
 Wyza: I wanna be on TV!
 Ansa: GREFFOOORT!
@@ -27,7 +27,7 @@ What do you pay with\xfffewhen you go shopping?\xf000븁\x0000
 What do you get when\xfffetwo lovers come together?\xf000븁\x0000
 What's a father's\xfffeyounger brother called?\xf000븁\x0000
 Who teaches you\xfffethings at school?\xf000븁\x0000
-ポケモンに もたせられるのは\xfffeメールと カメール\xf000븀\x0000\xfffeどちら？\xf000븁\x0000
+Do Pokémon hold\xfffemail or Huntail?\xf000븁\x0000
 What moves by\xfffeway of pedaling?\xf000븁\x0000
 What's a two-on-two\xfffePokémon battle called?\xf000븁\x0000
 What do you use\xfffeto take pictures?\xf000븁\x0000
@@ -45,7 +45,7 @@ What's the Healing Pokémon\xfffewith good hearing?\xf000븁\x0000
 What's the\xfffecasket Pokémon?\xf000븁\x0000
 What's the evolution\xfffeof Koromori?\xf000븁\x0000
 What's the evolution\xfffeof Darumakka?\xf000븁\x0000
-よわっている ポケモンを\xfffeひれで つつんでくれる\xf000븀\x0000\xfffeかいほうポケモンって なにかな？\xf000븁\x0000
+What's the Pokémon that\xfffelooks after weak Pokémon?\xf000븁\x0000
 What's the\xfffeTrance Pokémon?\xf000븁\x0000
 What's the beautiful,\xfffewhite-winged swan Pokémon?\xf000븁\x0000
 What's the Trap Pokémon\xfffethat hides in mud?\xf000븁\x0000
@@ -68,17 +68,17 @@ Hint!\xfffeIt's not beauty!\xf000븁\x0000
 Hint!\xfffeIt didn't come from space!\xf000븁\x0000
 Hint!\xfffeNot quite the Lightning Pokémon!\xf000븁\x0000
 Hint!\xfffeIt's in Thunderstone Cave!\xf000븁\x0000
-ヒント！\xfffeタイプの ひとつは\xf000븀\x0000\xfffeひこうタイプ です！\xf000븁\x0000
+Hint!\xfffeOne of its types is flying!\xf000븁\x0000
 Hint!\xfffeIt's a really tiny Pokémon!\xf000븁\x0000
 Hint!\xfffeIt weighs about 33 pounds!\xf000븁\x0000
 Hint!\xfffeIt's not a seed or a turtle!\xf000븁\x0000
-ヒント！\xfffeあなたは せいかい しますよ！\xf000븀\x0000\xfffeたぶんね！\xf000븁\x0000
+Hint!\xfffeYou could be right!\xf000븀\x0000Maybe! There's a chance!\xf000븁\x0000
 Hint!\xfffeIt's a ghost type!\xf000븁\x0000
 Hint!\xfffeIt's got a big heart!\xf000븁\x0000
 Hint!\xfffeIt's not a snowman!\xf000븁\x0000
 Hint!\xfffeIt's not a fire type!\xf000븁\x0000
-ヒント！\xfffeゆめくいポケモン が\xf000븀\x0000\xfffeしんか した ポケモンです！\xf000븁\x0000
+Hint!\xfffeIt's the evolution of\xf000븀\x0000the Dreameater Pokémon!\xf000븁\x0000
 Hint!\xfffeIt's a swan... nah, too easy!\xf000븁\x0000
-ヒント！\xfffeでんきタイプと じめんタイプの\xf000븀\x0000\xfffeポケモン です！\xf000븁\x0000
+Hint!\xfffeIt's an electric and ground type!\xf000븁\x0000
 Hint!\xfffeIt's not Fly!\xf000븁\x0000
-ヒント！\xfffe\xf000Ā\x0001\x0000さんに\xf000븀\x0000\xfffeかんけい ありまーす！\xf000븁\x0000
+Hint!\xfffeIt has to do with you, \xf000Ā\x0001\x0000!\xf000븁\x0000
