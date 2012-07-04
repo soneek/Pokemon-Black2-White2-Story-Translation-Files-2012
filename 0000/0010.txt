@@ -1,4 +1,4 @@
-Test
+test
 Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Single Train here.\xf000븁\x0000
 Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Double Train here.\xf000븁\x0000
 Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Multi Train here.\xf000븁\x0000
@@ -83,7 +83,7 @@ You don't want to team up with me?\xfffeOK then, bye!\xf000븁\x0000
 Become leader
 Join group
 Launch DS Wireless Communications?
-つうしんの せつだんに\xfffeしっぱい しました
+Failed to disconnect
 Saving...\xfffeDon't turn off the power.
 Unfortunately, you have been\xfffedemoted to Rank \xf000ȁ\x0001\x0000...\xf000븁\x0000
 Would you like to use\xfffeInfrared Communication or\xf000븀\x0000\xfffeDS Wireless Communications?

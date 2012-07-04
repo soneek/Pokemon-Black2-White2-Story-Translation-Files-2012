@@ -11,7 +11,7 @@ Accessed Prof. Juniper's PC.\xf000븁\x0000
 Your Hall of Fame data is corrupted.\xf000븁\x0000\xfffeIt will be fixed if you enter the\xfffeHall of Fame again.\xf000븁\x0000
 Congratulations!\xf000븁\x0000\xfffeMore wallpapers were added\xfffeto commemorate your success.\xf000븁\x0000
 Congratulations!\xf000븁\x0000\xfffeWallpapers were added to commemorate\xfffeyour victory against the Champion.\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000\xfffeキュレムを つかまえた きねんとして\xfffeかべがみが ついか されました！\xf000븁\x0000
+おめでとうございます!\xf000븁\x0000\xfffeキュレムを つかまえた きねんとして\xfffeかべがみが ついか されました!\xf000븁\x0000
 The Pokémon Storage System\xfffewas accessed.\xf000븁\x0000
 Deposit Pokémon
 Withdraw Pokémon
@@ -39,3 +39,4 @@ You can see the members at the time\xfffewhen you entered the Hall of Fame.
 Log out of the Record System.
 Accessed Professor Juniper's PC.\xf000븁\x0000
 Accessed the Help System.\xf000븁\x0000
+ 

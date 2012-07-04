@@ -23,10 +23,6 @@ Would you like to make a GTS trade?
 Trade
 Info
 Back
-Would you like to make a GTS trade?
-Trade
-Info
-Back
 You may trade Pokémon in two ways when\xfffeusing GTS.\xf000븁\x0000\xfffeYou may offer a Pokémon for trade\xfffeor search among offered Pokémon.\xf000븁\x0000
 Should I describe things in\xfffegreater detail?
 You will be asked to put up the\xfffePokémon you are offering to trade.\xf000븁\x0000\xfffeAt that time, you will be asked what\xfffePokémon you would like in return.\xf000븁\x0000\xfffeIf another player offers your desired\xfffePokémon in return for your offered\xf000븀\x0000\xfffePokémon, the trade will go through.\xf000븁\x0000
@@ -88,14 +84,18 @@ For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\
 For a Triple Battle, you need to have\xfffesix Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen decide their order and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
 In a Rotation Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
 In a Launcher Battle, you have a\xfffeTriple Battle with your Wonder Launcher.\xf000븀\x0000\xfffeYou need to have six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen decide their order and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
-For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
+Please choose between Goods and Battle Boxes.
 Goods
 Battle Box
 Quit
-For a Double Battle, you need to have\xfffefour to six Pokémon.\xf000븁\x0000\xfffeBefore a battle, you and your opponent\xfffeshow your Pokémon to each other,\xf000븀\x0000\xfffethen choose four Pokémon and battle.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAlso, you can't take special Pokémon\xfffeor Eggs into battle.\xf000븁\x0000
-Enter Mode
+Please choose between Goods and Battle Boxes.
+Determine
 Battle Box
 Quit
 Uh-oh!\xf000븁\x0000\xfffeI'm sorry, but your party and all your\xfffePC Boxes are full.\xf000븁\x0000\xfffeTo use the GTS, you must have\xffferoom in your party or in a PC Box.\xf000븁\x0000
 Uh-oh!\xf000븁\x0000\xfffeYou need at least two Pokémon in your\xfffeparty to use the GTS.\xf000븁\x0000
 Uh-oh!\xf000븁\x0000\xfffeYou need at least two Pokémon in your\xfffeparty to use GTS Negotiations.\xf000븁\x0000
+In the Global Terminal, you can battle or\xfffetrade Pokémon with Pokémon fans from\xf000븀\x0000\xfffearound the world by connecting to\xf000븀\x0000\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffeFor details, please listen to the\xfffeexplanation at each facility.\xf000븁\x0000
+ランダムマッチ または\xfffeWi-Fiたいかいの さんかちゅうに\xf000븀\x0000\xfffeほんたいの でんげんが きれたため\xf000븁\x0000\xfffe1じかん\xfffeランダムマッチや たいかいで\xf000븀\x0000\xfffeたいせんが できなくなります\xf000븁\x0000\xfffeじかんが たちましたら\xfffeおこしください
+でんげんの せつだんに ついて
+ランダムマッチ または\xfffeWi-Fiたいかいの さんかちゅうに\xf000븀\x0000\xfffeほんたいの でんげんが きれると\xf000븁\x0000\xfffe1じかん ランダムマッチや たいかいで\xfffeたいせんが できなくなります\xf000븀\x0000\xfffeごちゅうい ください\xf000븁\x0000

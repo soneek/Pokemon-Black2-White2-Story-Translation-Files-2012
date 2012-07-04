@@ -1,6 +1,6 @@
-あのね！ どくタイプの ポケモンには\xfffeどくポケモンで いどみな！ って\xf000븀\x0000\xfffeホミカちゃんが おしえてくれたよ\xf000븁\x0000\xfffeホミカちゃんはね ジムリーダーなの！\xfffeかっこよく がっきを ひくんだよ!!
+あのね! どくタイプの ポケモンには\xfffeどくポケモンで いどみな! って\xf000븀\x0000\xfffeホミカちゃんが おしえてくれたよ\xf000븁\x0000\xfffeホミカちゃんはね Gym Leaderなの!\xfffeかっこよく がっきを ひくんだよ!!
 ジムバッジを たくさん もってるほど\xfffeショップで かうことが できる\xf000븀\x0000\xfffeどうぐの しゅるいも ふえるのか!!
-きみは ジムバッジを\xfffe\xf000Ȁ\x0001\x0000コ もっているんだ？\xf000븁\x0000\xfffeほう！ だったら ショップで かえる\xfffeどうぐも いろいろ ふえているよな！ 
+きみは ジムバッジを\xfffe\xf000Ȁ\x0001\x0000コ もっているんだ?\xf000븁\x0000\xfffeほう! だったら ショップで かえる\xfffeどうぐも いろいろ ふえているよな! 
 Hey, you there!\xf000븁\x0000When you play, do you prefer\xfffeto do it outside or inside?
 I see, I see, yes, yes!\xf000븁\x0000Do you care about what everyone\xfffeknows, or what no one knows?
 Oh, really!\xf000븁\x0000
@@ -10,7 +10,7 @@ Your curiosity seems\xfffeto know no bounds!
 You must be\xfffea very quiet person!
 You sound like\xfffesome kind of maniac!
 Outside
-Inside
-Either
-What everyone knows
-What no one knows
+At home
+Neither
+The thing everybody knows
+The thing nobody knows

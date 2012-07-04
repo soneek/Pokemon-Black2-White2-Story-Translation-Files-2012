@@ -24,7 +24,7 @@ Quake Badge
 Jet Badge
 Legend Badge
 Wave Badge
-Quit
-えっ？ その ジムバッジは\xfffeまだ てに いれてないけど......\xf000븁\x0000
+Cancel
+えっ? その ジムバッジは\xfffeまだ てに いれてないけど...\xf000븁\x0000
 Ever since I got appointed here,\xfffeI haven't had to do a thing!\xf000븁\x0000There's not a soul out at night...\xfffeIt's the picture of peace!
-よるは そとに だれも いなくて\xfffeへいわ だった その わけが\xf000븁\x0000\xfffeおそろしーい\xfffeポケモンの おかげとは ふくざつだな
+よるは そとに だれも いなくて\xfffeへいわ だった その わけが\xf000븁\x0000\xfffeおそろし-い\xfffeポケモンの おかげとは ふくざつだな

@@ -1,4 +1,4 @@
-Shaga: Should you wish it,\xfffeI can teach your Pokémon\xf000븀\x0000the ultimate dragon-type move.\xf000븁\x0000So, shall I teach\xfffeone of your Pokémon?\xf000븁\x0000
+Drayden: Should you wish it,\xfffeI can teach your Pokémon\xf000븀\x0000the ultimate dragon-type move.\xf000븁\x0000So, shall I teach\xfffeone of your Pokémon?\xf000븁\x0000
 Understood.\xfffeCome again if you change your mind.
 Hmm...\xf000븁\x0000\xfffeThis Pokémon can learn this move, but\xfffeyour bond of friendship is not yet\xf000븀\x0000\xfffestrong enough.\xf000븁\x0000\xfffeThat means I cannot teach\xfffeit this move.
 I see...\xf000븁\x0000\xfffeBut there are no Pokémon with\xfffeyou right now that can learn this move.
@@ -6,7 +6,7 @@ Which Pokémon should\xfffelearn this move?\xf000븁\x0000
 I'm very sorry, but...\xf000븁\x0000\xfffeThis Pokémon cannot learn this move.
 That's an interesting request, but...\xfffeNot even I can teach a move to an Egg.
 Hmm... It looks like this Pokémon\xfffealready knows \xf000ć\x0001\x0000.
-Shaga: Draco Meteor is\xfffetremendously powerful, but using it\xf000븀\x0000lowers your own Special Attack.
+Drayden: Draco Meteor is\xfffetremendously powerful, but using it\xf000븀\x0000lowers your own Special Attack.
 Give up on teaching a move\xfffeto \xf000Ă\x0001\x0000?
 \xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!
 \xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000However, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000Should a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?

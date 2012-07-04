@@ -1,2 +1,2 @@
-If you came from Route 4,\xfffeRaimon City is ahead!\xf000븁\x0000Next! If you came from Raimon City,\xfffeRoute 4 is ahead!
-ライモンシティに くわしいのは\xfffeでんこうけいじばんの おかげ！
+Route 4 から\xfffeいらした あなたに\xf000븀\x0000\xfffeこのさき Nimbasaシティです!\xf000븁\x0000\xfffeつぎ! Nimbasaシティ から\xfffeいらした あなたに\xf000븀\x0000\xfffeこのさき Route 4 です!
+Nimbasaシティに くわしいのは\xfffeでんこうけいじばんの おかげ!

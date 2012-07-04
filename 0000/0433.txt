@@ -16,10 +16,10 @@ The water is a deep blue...\xfffeWould you like to surf on it?
 Waterfall can't be used if you have\xfffesomeone with you.
 Surf can't be used if you have\xfffesomeone with you.
 \xf000Ă\x0001\x0000 used Defog!\xf000븁\x0000
-A deep fog drapes the area...\xfffeWill a Pokémon’s move lift it?
+A deep fog drapes the area...\xfffeWill a Pokémon's move lift it?
 The wall is very rocky...\xfffeWould you like to use Rock Climb?
 \xf000Ă\x0001\x0000 used Rock Climb!\xf000븁\x0000
-The wall is very rocky...\xfffeWill a Pokémon’s move scale it?
+The wall is very rocky...\xfffeWill a Pokémon's move scale it?
 Rock Climb can't be used if you have\xfffesomeone with you.
 It's a large waterfall.\xfffeWould you like to use Waterfall?
 \xf000Ă\x0001\x0000 used Waterfall!\xf000븁\x0000
@@ -31,4 +31,4 @@ Teleport to \xf000ą\x0001\x0000,\xfffethe last place you or your Pokémon reste
 It's a deep part of the sea, but a\xfffePokémon may be able to dive down.
 It's a deep part of the sea.\xfffeWould you like to use Dive?
 \xf000Ă\x0001\x0000 used Dive!\xf000븁\x0000
-ふたりで いるときは\xfffe\xf000ć\x0001\x0000は つかえません！
+ふたりで いるときは\xfffe\xf000ć\x0001\x0000は つかえません!

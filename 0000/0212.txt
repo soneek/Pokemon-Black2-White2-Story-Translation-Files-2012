@@ -1,6 +1,6 @@
 ポケモンたちが あるきつづけて\xfffeいつのまにか できたのが もりのみち\xf000븁\x0000\xfffeそっちを あるけば なんだか\xfffeポケモンきぶんを あじわえるでしょ
-よう！ たびの トレーナー！\xf000븁\x0000\xfffeきみも たのもしい ポケモンに\xfffeためしのいわを くだかせてみな！
+よう! たびの Trainer!\xf000븁\x0000\xfffeきみも たのもしい ポケモンに\xfffeためしのいわを くだかせてみな!
 There's a rock here...\xf000븁\x0000\xfffeHave \xf000Ă\x0001\x0000\xfffetry to smash it?
-\xf000Ă\x0001\x0000は\xfffeためしのいわを こわそうとした！\xf000븁\x0000\xfffeいわの いちぶが くだけ\xfffeすなと なって おちた!!\xf000븁\x0000
+\xf000Ă\x0001\x0000は\xfffeためしのいわを こわそうとした!\xf000븁\x0000\xfffeいわの いちぶが くだけ\xfffeすなと なって おちた!!\xf000븁\x0000
 There's a rock here...
 Ahead: Yaguruma Forest\xfffe...You have Antidotes, right?
