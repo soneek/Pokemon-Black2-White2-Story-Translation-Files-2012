@@ -86,7 +86,7 @@ Bianca: うひゃあ！\xf000븁\x0000
 どっ どうしたの？\xf000븁\x0000
 Cheren: せっかくだから\xfffeライブキャスターの とうろくを\xf000븀\x0000\xfffeと おもってね！\xf000븁\x0000
 これで きみの ライブキャスターから\xfffeぼくに れんらくが できるね\xf000븁\x0000
-Bianca: あっ あたしも！\xf000븁\x0000
+Bianca: Oh, I'm here too!\xf000븁\x0000
 いっしょに アララギはかせも\xfffeとうろく したよ！\xf000븁\x0000
 The Xtransceiver is ringing.
 \xf000Ā\x0001\x0000 connected\xfffeto the Xtransceiver.\xf000븁\x0000

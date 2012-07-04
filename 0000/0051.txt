@@ -287,33 +287,33 @@ Is this questionnaire fine?
 それじゃ はじめるわよ\xfffeこんかいの アンケートは......\xf000븁\x0000\xfffe: もしも......だったら』に ついてよ\xf000븁\x0000
 それじゃ はじめるわよ\xfffeこんかいの アンケートは......\xf000븁\x0000\xfffe: どんな あそびが すきか』に\xfffeついてよ\xf000븁\x0000
 それじゃ はじめるわよ\xfffeこんかいの アンケートは......\xf000븁\x0000\xfffe: ポケモン』に ついてよ\xf000븁\x0000
-: アナタの しゅみは？』
-: アナタは たいせんと こうかん\xfffeどっちが すき？』
-: アナタは とかいと いなか\xfffeすむなら どっち？』
-: アナタが あいてを えらぶなら\xfffeどっち？』
+"What's your hobby?"
+"Do you prefer to battle\xfffeor trade Pokémon?"
+"Do you prefer to live\xfffein the city or the country?"
+"Which kind of partner\xfffewould you choose?"
 : アナタは しょうらい\xfffeどんな ひとに なりたい？』
-: アナタが すきな おんがくは？』
+"What's your favorite\xfffekind of music?
 : もしも タイムマシンが あったら\xfffeどの じだいに いきたい？』
 : アナタが ともだちと あそぶなら\xfffeどう あそびたい？』
-: アナタが おもう\xfffeポケモンの おもしろいところは？』
-: アナタの おしごとは？』
-: アナタが すきな ポケモンは？』
-: アナタが ほしいのは どっち？』
-: アナタが あいてに\xfffeもとめるものは？』
+"What do you think is\xfffemost interesting about Pokémon?"
+"What's your job?"
+"What's your favorite kind of Pokémon?"
+"Which do you want?"
+"What do you look for\xfffein a partner?"
 : アナタは ゆめを おう？\xfffeそれとも げんじつを みる？』
-: アナタが すきな\xfffeTVばんぐみは？』
+"What are your favorite\xfffegenre of TV programs?"
 : アナタは まほうが つかえたら\xfffeどんなことを したい？』
-: アナタは きゅうじつは\xfffeなにしてる？』
+"What do you do\xfffeon your days off?"
 : アナタは ポケモンを\xfffeどれくらい あそんでる？』
 
-: アナタが すきな\xfffeポケモンの タイプは？』
-: アナタが だいじなのは？』
-: アナタが すきな\xfffeにんげんの タイプは？』
+"What's your favorite Pokémon type?"
+"What's important to you?"
+"What's your favorite\xfffekind of person?"
 : アナタが しょうらい\xfffeがんばりたいことは？』
-: アナタが すきな えいがは？』
+"What's your favorite\xfffegenre of movies?"
 : もし たくさん おかねを\xfffeもっていたら どうする？』
 : アナタが すきな ゲームは？』
-: アナタが すきな\xfffeジムリーダーは？』
+"What's your favorite gym leader?"
 なるほど なるほど......\xfffeそうなのね\xf000븁\x0000\xfffeつぎは......\xf000븁\x0000
 なるほど なるほど......\xfffeそうなのね\xf000븁\x0000\xfffe......はい これで おしまい！\xf000븁\x0000\xfffeありがとう \xfffeいいアンケートが とれたわ\xf000븁\x0000
 そうだ！ このアンケートようし\xfffeアナタにも あげるわ\xf000븁\x0000
