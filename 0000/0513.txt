@@ -33,7 +33,7 @@ Rental Pokemon
 じゃあ はじめますかねえ\xfffeよーい！ スタートです！\xf000븁\x0000
 じゃ さつえい はじめるぞい！\xfffe３ ２ １ アクショーーン!!\xf000븁\x0000
 Are you OK?\xfffeレッツ！ Shooting!!\xf000븁\x0000
-レポートを かいています\xfffeでんげんを きらないでください
+Saving...\xfffeDon't turn off the power.
 よし......\xfffeクランクアップだ......\xf000븁\x0000
 よーし！ クランクアップだっ！\xfffeみんな てっしゅう!!\xf000븁\x0000
 これにて クランクアップです！\xfffeみなさん！ ごくろうでしたね！\xf000븁\x0000

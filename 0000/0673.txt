@@ -119,4 +119,4 @@ Hey! Hey! そこの ユー！\xf000븁\x0000\xfffeこんなに さむい ウィ�
 テツを ライブキャスターに\xfffeとうろく しなおした\xf000븁\x0000
 それと もうひとつ\xfffeおねがいが あるんだ！\xf000븁\x0000\xfffeボク ライブキャスターを\xfffe\xf000Ā\x0001\x0000さんに かけすぎちゃって\xf000븀\x0000\xfffeマ...... じゃなくて\xf000븀\x0000\xfffeしごとばの せんぱいに\xf000븀\x0000\xfffeしかられちゃってさ\xf000븁\x0000\xfffeだから \xf000Ā\x0001\x0000さん から\xfffeれんらくを くれないかな？\xf000븀\x0000\xfffeえっ いいの？ よかった！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000さんは やさしいね\xf000븁\x0000\xfffeいつも ボクは\xfffeしごとばに いてばかりだから\xf000븀\x0000\xfffeでんぱが つながり にくいかも\xf000븀\x0000\xfffeしれないんだけど......\xf000븁\x0000\xfffeこまめに ライブキャスターを\xfffeチェックして れんらくを くれると\xf000븀\x0000\xfffeうれしいな\xf000븁\x0000\xfffeアハハ！\xf000븁\x0000\xfffeじゃあ きょうは これで かえるよ\xfffeさようなら \xf000Ā\x0001\x0000さん\xf000븁\x0000
 \xf000ā\x0001\x0002と \xf000ā\x0001\x0001を\xfffeこうかんしますか？\xf000븁\x0000
-その ポケモンは\xfffeこうかん できません\xf000븁\x0000
+It has learned an HM move.\xfffeYou cannot let it leave your party.

@@ -6,10 +6,10 @@ I might find another\xfffefossil by tomorrow,\xf000븀\x0000so come again if you
 えっ！？ ゴメン\xfffeよく きこえなかったんだけど\xf000븁\x0000\xfffeもう１ど きくよ！\xfffeはたらく くるまは すきかな？
 やあ！ まってたよ！\xfffeそれじゃあ さっそく はじめようか！
 はたらく くるま クイズ！\xf000븁\x0000\xfffeりゃく して\xfffeはたらＱ！\xf000븁\x0000\xfffeそれでは もんだいです！\xf000븁\x0000\xfffeねんきの はいった\xfffeさびた クレーンしゃが\xf000븀\x0000\xfffeめいぶつなのは ズバリ どこ？
-タチワキシティ
+Virbank City
 Driftveil City
 Sazanami Town
-セイガイハシティ
+Seigaiha City
 はたらく くるま クイズ！\xf000븁\x0000\xfffeりゃく して\xfffeはたらＱ！\xf000븁\x0000\xfffeそれでは もんだいです！\xf000븁\x0000\xfffe４Routeを とおる\xfffeトレーラーは ぜんぶで\xf000븀\x0000\xfffe３つの ボディカラーが ありますが\xf000븀\x0000\xfffeそれは あか あお\xf000븀\x0000\xfffeあとは ズバリ なにいろ？
 Green
 Yellow
@@ -21,7 +21,7 @@ Black
 ３もんめ
 ４もんめ
 はたらく くるま クイズ！\xf000븁\x0000\xfffeりゃく して\xfffeはたらＱ！\xf000븁\x0000\xfffeそれでは もんだいです！\xf000븁\x0000\xfffeきいろい ドリルカーが あるのは\xfffeズバリ！ どこの ジム？
-セイガイハシティジム
+Seigaiha City Gym
 Opelucid Gym
 Mistralton Gym
 Driftveil Gym

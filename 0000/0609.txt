@@ -712,8 +712,8 @@ Leppa Berry
 モモンのみ ４コ セット。\xfffeポケモンに もたせると\xfffeどくを かいふくする。
 チーゴのみ ４コ セット。\xfffeポケモンに もたせると\xfffeやけどを かいふくする。
 ナナシのみ ４コ セット。\xfffeポケモンに もたせると\xfffeこおりを かいふくする。
-ポケモンに もたせると\xfffeＰＰを １０だけ かいふくする。
-ポケモンに もたせると\xfffeＨＰを １０だけ かいふくする。
+If held by a Pokémon,\xfffeit restores a move's PP by 10.
+If held by a Pokémon, \xfffeit heals the user by just 10 HP.
 キーのみ ４コ セット。\xfffeポケモンに もたせると\xfffeこんらんを かいふくする。
 ラムのみ ４コ セット。\xfffeすべての じょうたい いじょうを\xfffeかいふくする。
 オボンのみ ４コ セット。\xfffeポケモンに もたせると\xfffeＨＰを すこしだけ かいふくする。
@@ -1550,7 +1550,7 @@ Woman
 ポケウッド
 ハイリンクフェス
 ＰＷＴ
-ジョインアベニュー
+Join Avenue
 Black City
 White Forest
 Medal Rally

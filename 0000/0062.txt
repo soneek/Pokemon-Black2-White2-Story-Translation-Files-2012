@@ -8,7 +8,7 @@ When you came through the door,\xfffeI remembered the melody!\xf000븁\x0000\xff
 それでは いにしえのうたを\xfffeおもいだすのを あきらめますか？
 \xf000Ă\x0001\x0000 didn't learn\xfffeAncient Song!\xf000븁\x0000
 Delete the move\xfffe\xf000ć\x0001\x0001?
-１\xf000븂\x0001\x0014 ２の\xf000븂\x0001\x0014...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ポカン！\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は \xf000ć\x0001\x0001の\xfffeつかいかたを きれいにわすれた！\xf000븁\x0000\xfffeそして......！\xf000븁\x0000
+1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000And...\xf000븁\x0000
 This is your first visit to this café.\xfffeAm I correct?\xf000븁\x0000\xfffePlease...\xf000븁\x0000
 Give this to your dear Pokémon.
 You came all the way here.\xfffeEnjoy...
