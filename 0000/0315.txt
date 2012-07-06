@@ -2,19 +2,19 @@
 \xf000Ā\x0001\x0001: That wasn't bad.\xf000븁\x0000\xfffeOur Pokemon seem to be\xfffegrowing stronger.\xf000븁\x0000\xfffeThey're gonna need our full\xfffesupport from now on,\xf000븁\x0000\xfffeHuh? Something for me?\xf000븁\x0000\xfffeUh...\xfffeA Town Map!?\xf000븁\x0000
 \xf000Ā\x0001\x0000 handed\xfffeover the Town Map!\xf000븁\x0000
 \xf000Ā\x0001\x0001: My little sister\xfffehad thi for me...\xf000븁\x0000\xfffeIf you go back home\xfffetell her I said thanks!\xf000븁\x0000
-???: にぎやか-と おもえば\xfffeポケモンしょうぶ だったのですね\xf000븀\x0000\xfffeいいね- わかいね-\xf000븁\x0000
-\xf000Ā\x0001\x0001: ダレ?\xf000븁\x0000
-???: ダレって...\xf000븁\x0000\xfffeぼくは この ぼくじょうの オ-ナ-!\xfffeとなりに いるのは おくさん!\xf000븁\x0000
-おくさん: ポケモンしょうぶの あとは\xfffeげんきに かいふく! でしょ\xf000븀\x0000\xfffeこれを あげるわ!\xf000븁\x0000
-あなたにも!\xf000븁\x0000
-ポケモンセンタ-が とおいとき\xfffeキズぐすりが あると たすかるもんね\xf000븁\x0000
-オ-ナ-: ところで きみたち\xfffeこのあたりで ぼくの\xf000븀\x0000\xfffeハ-デリアを みなかった-?\xf000븁\x0000\xfffeどこへ いったか みあたらないんだよ\xf000븁\x0000\xfffeいつも 2ひき いっしょ なのに\xfffeこんなことは はじめて だから\xf000븀\x0000\xfffeちょっと しんぱい なんだな-\xf000븁\x0000
+???: Hi. We noticed you two battling,\xfffeand were wondering if you saw a \xf000븀\x0000\xfffeいいね- わかいね-\xf000븁\x0000
+\xf000Ā\x0001\x0001: Who are you?\xf000븁\x0000
+???: I am...\xf000븁\x0000\xfffeI'm the owner of this ranch!\xfffeThis here is my wife!\xf000븁\x0000
+Owner's Wife: After a battle like that,\xfffeyou need to heal your Pokemon! Here,\xf000븀\x0000\xfffeyou can use this!\xf000븁\x0000
+You too!\xf000븁\x0000
+When far away from Pokemon Center,\xfffeuse Potions to to stay healthy.\xf000븁\x0000
+Owner: By the way,\xfffedid either of you see\xf000븀\x0000\xfffeanother Herdier?\xf000븁\x0000\xfffeMy 2 are usuallyxf000븁\x0000\xfffealways together,\xfffeso I got worried when I didn't\xf000븀\x0000\xfffesee her for the first time.\xf000븁\x0000
 \xf000Ā\x0001\x0001: なんだ ソレ!\xfffeほんとうに しんぱい なのかよッ!?\xf000븁\x0000\xfffeポケモンが いなくなったかも\xfffeしれないってのに!\xf000븁\x0000\xfffeいい! オレが さがすッ!\xfffe\xf000Ā\x0001\x0000! オマエも てつだえ!!\xf000븁\x0000
-オ-ナ-: なぜ かれは おこったの?\xf000븁\x0000\xfffeぼくじょうの どこかで\xfffeあそんでいるだけだと おもうけど\xf000븁\x0000
+Owner: なぜ かれは おこったの?\xf000븁\x0000\xfffeぼくじょうの どこかで\xfffeあそんでいるだけだと おもうけど\xf000븁\x0000
 おくさん: そうねえ...\xf000븁\x0000\xfffeねえ あなたの\xfffeポケモンが キズついたら いってね\xf000븀\x0000\xfffeあたしが げんきに してあげるから!
-ハ-デリア\xfffeどこへ いったんだ...?
-\xf000Ā\x0001\x0001: ハ-デリア...\xfffeもっと おくに まよいこんだのか?\xf000븁\x0000\xfffeよしッ!!\xf000븁\x0000
-しっかし ひろい ぼくじょうだなッ!
+Where could\xfffeHerdier be...?
+\xf000Ā\x0001\x0001: Herdier...\xfffeYou think it might be back there?\xf000븁\x0000\xfffeAlright!!\xf000븁\x0000
+It's gotta be somewhere\xfffeinthat pasture!
 まだ みつからないのかよ\xfffeしんぱい だな... ハ-デリア
 そうだ!\xfffeいいものを わけてやるよッ!\xf000븁\x0000
 マヒして しびれた\xfffeポケモンに つかってやれよ\xf000븁\x0000
@@ -23,7 +23,7 @@
 いまの なきごえ...!\xf000븁\x0000
 オレは この あたりを さがす!\xf000븁\x0000\xfffeオマエは もっと\xfffeおくを さがしてくれッ!!\xf000븁\x0000
 おくを さがせってッ!
-ハ-デリア: ...きゃう-ん
+Herdier: ...Kyauun.
 \xf000Ā\x0001\x0001: いまの なきごえ!\xfffeみつかったんだな!!\xf000븁\x0000\xfffeよかったあ!!\xf000븁\x0000\xfffeじゃ オ-ナ-を よんでくるから\xfffeそいつの そばに いてやれよッ!\xf000븁\x0000
 ???: クッ\xfffeじゃまもの め!\xf000븁\x0000\xfffeオレは なくこも だまる\xfffeプラズマだんの メンバ-!\xf000븁\x0000\xfffeおまえ...\xfffeプラズマだんを しっているか?
 そうとも! 2ねんまえ\xfffeポケモンを かいほうするため\xf000븁\x0000\xfffeイッシュを しはい しようとしていた\xfffeせいぎの しゅうだん だ!\xf000븁\x0000
@@ -31,21 +31,21 @@
 ...まあいい\xf000븁\x0000\xfffeおろかものに おれたちのことは\xfffeりかい できないのだ\xf000븁\x0000\xfffeそれにしても...\xf000븁\x0000\xfffeハ-デリアを おいかけていたら\xfffeこんなところに まよいこむし...\xf000븀\x0000\xfffeこどもに みつかってしまうし...\xf000븁\x0000\xfffeぜんぶ おまえの せいだ!\xfffeこれでも くらえ!!\xf000븁\x0000
 よし! この すきに\xfffeひとまず たいさん!\xf000븁\x0000
 ぎゃうっ! ばう!
-オ-ナ-: お-! ハ-デリア!\xf000븁\x0000\xfffeひとりで こんな おくまで\xfffeきちゃって なにが あったんだい?\xf000븁\x0000\xfffeなには ともあれ\xfffeきみたちには かんしゃ だよ-!\xf000븁\x0000
+Owner: お-! ハ-デリア!\xf000븁\x0000\xfffeひとりで こんな おくまで\xfffeきちゃって なにが あったんだい?\xf000븁\x0000\xfffeなには ともあれ\xfffeきみたちには かんしゃ だよ-!\xf000븁\x0000
 \xf000Ā\x0001\x0001: のんきだな!\xf000븁\x0000\xfffeもしかしたら ほんとうに ポケモンが\xfffeいなくなってたかも しれないんだぞ!\xf000븁\x0000\xfffeもっと たいせつに しろよな!\xf000븁\x0000
-オ-ナ-: ...ふむう\xfffeかれは なにか あったのかな-?\xf000븁\x0000\xfffeポケモンが いなくなることを\xfffeおびえているような...\xf000븁\x0000\xfffeさあ ハ-デリア\xfffeみんなが まってるよ! かえろ-\xf000븁\x0000
-オ-ナ-: Thank you! Both you and\xfffeyour Pokemon helped us out!\xf000븁\x0000\xfffeすごいね-! あれかい?\xfffeアデクさんに きたえてもらったの-?
+Owner: ...ふむう\xfffeかれは なにか あったのかな-?\xf000븁\x0000\xfffeポケモンが いなくなることを\xfffeおびえているような...\xf000븁\x0000\xfffeさあ ハ-デリア\xfffeみんなが まってるよ! かえろ-\xf000븁\x0000
+Owner: Thank you! Both you and\xfffeyour Pokemon helped us out!\xf000븁\x0000\xfffeThis is wonderful! Huh?\xfffeYou have to train with Alder?
 この ぼくじょうは\xfffeもともと ポケモンを まもるため\xf000븁\x0000\xfffeかきねを つくったのが\xfffeはじまり なんだよね-!
 オ-ナ-: たしかに ハ-デリアが\xfffeかってに いなくなるのは へんだね-\xf000븁\x0000\xfffeいつも 2ひきで あそんだり\xfffeぼくじょうの しごとを しているのに
-うん! あなたの ポケモン\xfffeげんき いっぱいね!!
+Oh! Your Pokemon\xfffeare already healthy!!
 Your Pokémon...\xfffeseem a bit weary.\xf000븁\x0000Let them rest for a bit.\xfffeGotta be healthy to get places!\xf000븁\x0000
-あなたと あなたの ポケモンが\xfffeハ-デリアを みつけてくれたのね!
-ハ-デリア: ばううう...
-ばう! ばうっ!!
-ばうっ!! ばう!
-めええェ
-メ-
-むにむに
-めえめえ!
-むふっ!
-んめええ!
+Herdier spotted you with\xfffeyour Pokémon!
+Herdier: Hauuu...
+Bau! Bauu!!
+Bauu!! Bau!
+Meee
+Baa
+Muni Muni
+BaaBaah!
+Mufuu!
+Nmeee!
