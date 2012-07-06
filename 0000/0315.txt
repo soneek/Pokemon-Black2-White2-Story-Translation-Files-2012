@@ -1,7 +1,7 @@
-\xf000Ā\x0001\x0001: おっ いいぞ!\xfffeきたえるために きたんだろ!\xf000븁\x0000\xfffeよし! どれだけ つよくなったか\xfffeみてやる! かかってきなッ!!\xf000븁\x0000
-\xf000Ā\x0001\x0001: なかなか だな\xf000븁\x0000\xfffeポケモンの ちからを ひきだせるよう\xfffeちょっとは かんがえているし\xf000븁\x0000\xfffeこれなら オレの\xfffeサポ-トとして たよれる\xf000븁\x0000\xfffeで なにしに きたんだ?\xf000븁\x0000\xfffeえっ...\xfffeタウンマップ!?\xf000븁\x0000
-\xf000Ā\x0001\x0000は\xfffeタウンマップを てわたした!\xf000븁\x0000
-\xf000Ā\x0001\x0001: アイツめ\xfffeいもうとの くせに...\xf000븁\x0000\xfffeオマエも ありがとよ\xfffeさっそく オレの やくにたったな!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Good timing!\xfffei just finished some training!\xf000븁\x0000\xfffeAlright! Show me what\xfffeyou've got!!\xf000븁\x0000
+\xf000Ā\x0001\x0001: That wasn't bad.\xf000븁\x0000\xfffeOur Pokemon seem to be\xfffegrowing stronger.\xf000븁\x0000\xfffeThey're gonna need our full\xfffesupport from now on,\xf000븁\x0000\xfffeHuh? Something for me?\xf000븁\x0000\xfffeUh...\xfffeA Town Map!?\xf000븁\x0000
+\xf000Ā\x0001\x0000 handed\xfffeover the Town Map!\xf000븁\x0000
+\xf000Ā\x0001\x0001: My little sister\xfffehad thi for me...\xf000븁\x0000\xfffeIf you go back home\xfffetell her I said thanks!\xf000븁\x0000
 ???: にぎやか-と おもえば\xfffeポケモンしょうぶ だったのですね\xf000븀\x0000\xfffeいいね- わかいね-\xf000븁\x0000
 \xf000Ā\x0001\x0001: ダレ?\xf000븁\x0000
 ???: ダレって...\xf000븁\x0000\xfffeぼくは この ぼくじょうの オ-ナ-!\xfffeとなりに いるのは おくさん!\xf000븁\x0000
@@ -34,7 +34,7 @@
 オ-ナ-: お-! ハ-デリア!\xf000븁\x0000\xfffeひとりで こんな おくまで\xfffeきちゃって なにが あったんだい?\xf000븁\x0000\xfffeなには ともあれ\xfffeきみたちには かんしゃ だよ-!\xf000븁\x0000
 \xf000Ā\x0001\x0001: のんきだな!\xf000븁\x0000\xfffeもしかしたら ほんとうに ポケモンが\xfffeいなくなってたかも しれないんだぞ!\xf000븁\x0000\xfffeもっと たいせつに しろよな!\xf000븁\x0000
 オ-ナ-: ...ふむう\xfffeかれは なにか あったのかな-?\xf000븁\x0000\xfffeポケモンが いなくなることを\xfffeおびえているような...\xf000븁\x0000\xfffeさあ ハ-デリア\xfffeみんなが まってるよ! かえろ-\xf000븁\x0000
-オ-ナ-: ありがとう! きみと\xfffeきみの ポケモンの おかげだね-!\xf000븁\x0000\xfffeすごいね-! あれかい?\xfffeアデクさんに きたえてもらったの-?
+オ-ナ-: Thank you! Both you and\xfffeyour Pokemon helped us out!\xf000븁\x0000\xfffeすごいね-! あれかい?\xfffeアデクさんに きたえてもらったの-?
 この ぼくじょうは\xfffeもともと ポケモンを まもるため\xf000븁\x0000\xfffeかきねを つくったのが\xfffeはじまり なんだよね-!
 オ-ナ-: たしかに ハ-デリアが\xfffeかってに いなくなるのは へんだね-\xf000븁\x0000\xfffeいつも 2ひきで あそんだり\xfffeぼくじょうの しごとを しているのに
 うん! あなたの ポケモン\xfffeげんき いっぱいね!!

@@ -4,7 +4,7 @@ Huh?\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000
 Someone named Bianca is going\xfffeto give you your Pokémon? No joke?\xf000븁\x0000
 \xf000Ā\x0001\x0001's sister: \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffe...Take good care of your\xfffePokémon after you get it.\xf000븁\x0000
 \xf000Ā\x0001\x0001: ...Right.\xf000븁\x0000
-Alright! You have to go\xfffeget your Pokémon!\xf000븁\x0000\xfffeオレには やることが ある!\xf000븁\x0000\xfffeA human needs to have\xfffehave a Pokémon to be able to depend\xf000븀\x0000\xfffeon in times of need.\xf000븁\x0000\xfffeそう! オマエだよ オマエ!\xfffeオマエ センスが ありそうだからな\xf000븁\x0000
+Alright! You have to go\xfffeget your Pokémon!\xf000븁\x0000\xfffeI'll go with you!\xf000븁\x0000\xfffeA human needs to have\xfffehave a Pokémon to be able to depend\xf000븀\x0000\xfffeon in times of need.\xf000븁\x0000\xfffeCome on! I know you're anxious!\xfffeI can sense it!\xf000븁\x0000
 Head on home.\xf000븁\x0000
 Yes big brother!\xf000븁\x0000\xfffeBye \xf000Ā\x0001\x0000!\xf000븁\x0000
 \xf000Ā\x0001\x0001: Alright!\xfffeLet's go find Bianca!!
@@ -74,7 +74,7 @@ Bianca: Why did you hand\xfffeover 2 Town Maps?\xf000븁\x0000
 \xf000Ā\x0001\x0001's sister: One of them is\xfffefor my big brother.\xf000븁\x0000
 Mom: Great! That Town Map will help\xfffeyou out when traveling on land,\xf000븀\x0000\xfffeand on water.\xf000븁\x0000\xfffeThat map even tells\xfffeyou about every place in\xf000븀\x0000\xfffethe Unova region!\xf000븁\x0000
 Bianca: ...Ehehe.\xf000븁\x0000\xfffeI'm glad to see that\xfffelook on your face!\xf000븁\x0000\xfffeYeah! Come and meet\xfffeme on Route 19!\xf000븁\x0000\xfffeYou need to learn how\xfffeto catch Pokémon!\xf000븁\x0000
-Mom: Have a good time!\xf000븁\x0000\xfffeGo with \xf000ā\x0001\x0002\xfffeand meet plenty of\xf000븀\x0000\xfffeother Pokémon!
+Mom: Have a good time!\xf000븁\x0000\xfffeGo with your new partner\xfffeand meet plenty of\xf000븀\x0000\xfffeother Pokémon!
 \xf000Ā\x0001\x0001's sister: Pokémon are the best!
 Bianca: おうい!\xf000븁\x0000
 Bianca: ねえねえ!\xf000븁\x0000
@@ -112,15 +112,15 @@ Cギアの でんげんを いれるなら\xfffeがめん みぎしたの\xf000�
 \xf000Ā\x0001\x0001のいもうと: ...あのね\xfffe\xf000Ā\x0001\x0000さん\xf000븁\x0000\xfffeここんとこね\xfffeポケモンの ゆめを みるの\xf000븀\x0000\xfffeゾロア-ク って ポケモンの...\xf000븁\x0000\xfffeなんか \xf000Ā\x0001\x0000さんの\xfffeなまえを よんでいるんだよ\xf000븁\x0000
 \xf000Ā\x0001\x0001: よく わかんないけど\xfffeはなしを きくと どうやら\xf000븁\x0000\xfffeその ゆめのなかの ゾロア-ク\xfffeチャンピオンロ-ドに いるらしいんだ\xf000븁\x0000\xfffeいいたいことは それだけ\xfffeじゃ-な\xf000븁\x0000
 あっ わすれてた\xf000븁\x0000\xfffeチャンピオン おめでとな!\xf000븁\x0000\xfffeオレの いったとおりだったな\xfffeオマエには センスが あるってッ!\xf000븁\x0000
-パ-トナ-である ポケモンを\xfffeたたかわせるのが ポケモンTrainer\xf000븁\x0000\xfffeそのなかでも とびっきり つよいのが\xfffeGym Leader なんだってね!
+Pokémon Trainers use\xfffePokémon to battle.\xf000븁\x0000\xfffeI hear Gym Leaders\xfffeare especially strong!
 Gym Leaderの チェレンさんってね\xf000븁\x0000\xfffeすうねんまえ ポケモンと ともに\xfffeイッシュちほうを めぐったそうよ
 Trainerズスク-ルに\xfffeはやく はいりたいな-\xf000븁\x0000\xfffeポケモンのこと\xfffeいろいろ しりたいんだよね-
 オレ ポケモンのこと くわしいよ!\xf000븁\x0000\xfffeだって Trainerズスク-ルで\xfffeいろいろ おしえてもらったもん!
 みはらしだい からの けしき...\xfffeめのまえに ひろがる Route 19\xf000븀\x0000\xfffeあれは ヒオウギの じまんだな
 The power of science is wonderful!\xf000븁\x0000\xfffeYou can play alongside\xfffe100 different people\xf000븀\x0000\xfffeat once!
-ひとは たびをして おとなになる...\xfffeわたしも このまちを でようかなあ?
+You may become an adult on your trip.\xfffeMakes me want to go as well.
 やせいの Pokémon\xfffeひとを おそうことも あるの!\xf000븁\x0000\xfffeでもね そばに いれば\xfffeなかよくなれるのも ポケモンよ
-あなたの ママなら\xfffeポケモンを やすませて\xf000븀\x0000\xfffeげんきに するのも じょうずよね!
+If you visit home your mom\xfffecan heal your Pokémon\xf000븀\x0000\xfffeIt is always a good idea to\xfffekeep them healthy!
 Hello.\xf000븁\x0000\xfffeWho am I speaking to?\xf000븁\x0000\xfffeProfessor Juniper! It's\xfffebeen a while, huh?\xf000븁\x0000\xfffe... ... ...\xfffe...\xf000븁\x0000\xfffeAh! You want to give a Pokédex...\xfffeTo my child?\xf000븁\x0000\xfffeNot at all! I'd love to let them\xfffego on a journey!\xf000븁\x0000
 What should I do? Oh, she's\xfffealready in town?\xf000븁\x0000\xfffeI'd better hurry and\xfffeget them out there then.\xf000븁\x0000\xfffeAh! Her name is Bianca! She's\xfffewearing a big green hat.\xf000븁\x0000\xfffeYeah, yeah I got it!\xfffeNo problem!\xf000븁\x0000
 This is Aspertia City.\xfffeIt's still developing.
